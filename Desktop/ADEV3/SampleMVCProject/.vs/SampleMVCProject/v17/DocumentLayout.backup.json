@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Crizza Lynne\\Desktop\\ADEV3\\SampleMVCProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{88388AE9-9D5B-4872-934F-683A699A6DBE}|SampleMVCProject\\SampleMVCProject.csproj|c:\\users\\crizza lynne\\desktop\\adev3\\samplemvcproject\\samplemvcproject\\models\\customerorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88388AE9-9D5B-4872-934F-683A699A6DBE}|SampleMVCProject\\SampleMVCProject.csproj|solutionrelative:samplemvcproject\\models\\customerorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomerOrder.cs",
+              "DocumentMoniker": "C:\\Users\\Crizza Lynne\\Desktop\\ADEV3\\SampleMVCProject\\SampleMVCProject\\Models\\CustomerOrder.cs",
+              "RelativeDocumentMoniker": "SampleMVCProject\\Models\\CustomerOrder.cs",
+              "ToolTip": "C:\\Users\\Crizza Lynne\\Desktop\\ADEV3\\SampleMVCProject\\SampleMVCProject\\Models\\CustomerOrder.cs",
+              "RelativeToolTip": "SampleMVCProject\\Models\\CustomerOrder.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAAC0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T22:57:19.124Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

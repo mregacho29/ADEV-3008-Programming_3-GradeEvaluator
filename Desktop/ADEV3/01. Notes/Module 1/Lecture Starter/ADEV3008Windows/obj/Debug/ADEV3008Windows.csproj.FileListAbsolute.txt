@@ -1,0 +1,12 @@
+C:\Users\LCutrone\source\repos\ADEV3008Windows\bin\Debug\ADEV3008Windows.exe.config
+C:\Users\LCutrone\source\repos\ADEV3008Windows\bin\Debug\ADEV3008Windows.exe
+C:\Users\LCutrone\source\repos\ADEV3008Windows\bin\Debug\ADEV3008Windows.pdb
+C:\Users\LCutrone\source\repos\ADEV3008Windows\obj\Debug\ADEV3008Windows.csprojAssemblyReference.cache
+C:\Users\LCutrone\source\repos\ADEV3008Windows\obj\Debug\ADEV3008Windows.MultiDocumentInterface.resources
+C:\Users\LCutrone\source\repos\ADEV3008Windows\obj\Debug\ADEV3008Windows.Properties.Resources.resources
+C:\Users\LCutrone\source\repos\ADEV3008Windows\obj\Debug\ADEV3008Windows.csproj.GenerateResource.cache
+C:\Users\LCutrone\source\repos\ADEV3008Windows\obj\Debug\ADEV3008Windows.csproj.CoreCompileInputs.cache
+C:\Users\LCutrone\source\repos\ADEV3008Windows\obj\Debug\ADEV3008Windows.exe
+C:\Users\LCutrone\source\repos\ADEV3008Windows\obj\Debug\ADEV3008Windows.pdb
+C:\Users\LCutrone\source\repos\ADEV3008Windows\obj\Debug\ADEV3008Windows.LinqExample.resources
+C:\Users\LCutrone\source\repos\ADEV3008Windows\obj\Debug\ADEV3008Windows.FileIOExample.resources

@@ -1,0 +1,937 @@
+
+Root element: student_update
+Attributes: date=2024-12-11, program=VT, checksum=20021600
+Extracted values: type=2, studentNo=10010800, courseNo=*, registrationNo=113, grade=93.2, notes=Good grade update
+File: 2024-346-VT.xml
+Successful grade update for student 10010800 in course *. Grade: 93.2. Notes: Good grade update
+
+Extracted values: type=1, studentNo=10010800, courseNo=G-100007, registrationNo=*, grade=*, notes=Good registration
+File: 2024-346-VT.xml
+Unsuccessful registration for student 10010800 in course G-100007. Error code: -100. Error: Student cannot register for a course in which there is already an ungraded registration.
+
+
+Extracted values: type=2, studentNo=10010800, courseNo=*, registrationNo=113, grade=93.2, notes=Good grade update
+File: 2024-346-VT.xml
+Successful grade update for student 10010800 in course *. Grade: 93.2. Notes: Good grade update
+
+Extracted values: type=1, studentNo=10010800, courseNo=G-100007, registrationNo=*, grade=*, notes=Good registration
+File: 2024-346-VT.xml
+Unsuccessful registration for student 10010800 in course G-100007. Error code: -100. Error: Student cannot register for a course in which there is already an ungraded registration.
+
+
+Extracted values: type=2, studentNo=10010800, courseNo=*, registrationNo=113, grade=93.2, notes=Good grade update
+File: 2024-346-VT.xml
+Successful grade update for student 10010800 in course *. Grade: 93.2. Notes: Good grade update
+
+Extracted values: type=1, studentNo=10010800, courseNo=G-100007, registrationNo=*, grade=*, notes=Good registration
+File: 2024-346-VT.xml
+Unsuccessful registration for student 10010800 in course G-100007. Error code: -100. Error: Student cannot register for a course in which there is already an ungraded registration.
+
+
+Extracted values: type=2, studentNo=10010800, courseNo=*, registrationNo=113, grade=93.2, notes=Good grade update
+File: 2024-346-VT.xml
+Successful grade update for student 10010800 in course *. Grade: 93.2. Notes: Good grade update
+
+Extracted values: type=1, studentNo=10010800, courseNo=G-100007, registrationNo=*, grade=*, notes=Good registration
+File: 2024-346-VT.xml
+Unsuccessful registration for student 10010800 in course G-100007. Error code: -100. Error: Student cannot register for a course in which there is already an ungraded registration.
+
+
+Input file name: 2024-346-VT.xml
+XML file content:
+<?xml version="1.0"?>
+<!-- Registration Grading file -->
+<student_update date="2024-12-11" program="VT" checksum="20021600">
+	<transaction>
+		<program>VT</program>
+		<student_no>10010800</student_no>
+		<course_no>*</course_no>
+		<registration_no>113</registration_no> <!--Ensure Registration exists, and grade is null -->
+		<type>2</type>
+		<grade>93.2</grade> <!-- Make sure to test floating point grades! -->
+		<notes>Good grade update</notes>
+	</transaction>
+	<transaction>
+		<program>VT</program>
+		<student_no>10010800</student_no>
+		<course_no>G-100007</course_no> <!--Ensure any registrations with this course number are not null -->
+		<registration_no>*</registration_no>
+		<type>1</type>
+		<grade>*</grade>
+		<notes>Good registration</notes>
+	</transaction>
+</student_update>
+Extracted values: type=2, studentNo=10010800, courseNo=*, registrationNo=113, grade=93.2, notes=Good grade update
+File: 2024-346-VT.xml
+Successful grade update for student 10010800 in course *. Grade: 93.2. Notes: Good grade update
+
+Extracted values: type=1, studentNo=10010800, courseNo=G-100007, registrationNo=*, grade=*, notes=Good registration
+File: 2024-346-VT.xml
+Unsuccessful registration for student 10010800 in course G-100007. Error code: -100. Error: Student cannot register for a course in which there is already an ungraded registration.
+
+
+Extracted values: type=2, studentNo=10010800, courseNo=*, registrationNo=113, grade=93.2, notes=Good grade update
+File: 2024-346-VT.xml
+Successful grade update for student 10010800 in course *. Grade: 93.2. Notes: Good grade update
+
+Extracted values: type=1, studentNo=10010800, courseNo=G-100007, registrationNo=*, grade=*, notes=Good registration
+File: 2024-346-VT.xml
+Unsuccessful registration for student 10010800 in course G-100007. Error code: -100. Error: Student cannot register for a course in which there is already an ungraded registration.
+
+
+Extracted values: type=2, studentNo=10010800, courseNo=*, registrationNo=113, grade=93.2, notes=Good grade update
+File: 2024-346-VT.xml
+Successful grade update for student 10010800 in course *. Grade: 93.2. Notes: Good grade update
+
+Extracted values: type=1, studentNo=10010800, courseNo=G-100007, registrationNo=*, grade=*, notes=Good registration
+File: 2024-346-VT.xml
+Unsuccessful registration for student 10010800 in course G-100007. Error code: -100. Error: Student cannot register for a course in which there is already an ungraded registration.
+
+
+-------ERROR-------
+File: 2024-346-VT.xml
+Program: VT
+Student Number: 80000002
+Course Number: *
+Registration Number: 8011
+Type: 2
+Grade: 
+Notes: ***ERROR*** Incorrect number of Child Nodes
+Node Count: 6
+ErrorMessage: Node counts is not 7.
+-------------------
+-------ERROR-------
+File: 2024-346-VT.xml
+Program: VV
+Student Number: 80000003
+Course Number: *
+Registration Number: 8013
+Type: 2
+Grade: 90
+Notes: **ERROR*** Invalid Program Acronym
+Node Count: 7
+ErrorMessage: Transaction Program does not match root program
+-------------------
+-------ERROR-------
+File: 2024-346-VT.xml
+Program: VT
+Student Number: 80000002
+Course Number: M-80001
+Registration Number: *
+Type: 1
+Grade: @
+Notes: ***ERROR*** Invalid Grade Value
+Node Count: 7
+ErrorMessage: Grade element must be numeric or have the value of '*'.
+-------------------
+-------ERROR-------
+File: 2024-346-VT.xml
+Program: VT
+Student Number: 80000001
+Course Number: G-800004
+Registration Number: *
+Type: 1
+Grade: 100
+Notes: ***ERROR***  Grade for Type 1 should be a *
+Node Count: 7
+ErrorMessage: Grade element must be '*' for type 1 and between 0 and 100 inclusive for type 2.
+-------------------
+-------ERROR-------
+File: 2024-346-VT.xml
+Program: VT
+Student Number: 1111
+Course Number: G-800004
+Registration Number: *
+Type: 1
+Grade: *
+Notes: ***ERROR*** Student does not exist
+Node Count: 7
+ErrorMessage: Student number must exist in the database.
+-------------------
+-------ERROR-------
+File: 2024-346-VT.xml
+Program: VT
+Student Number: 80000003
+Course Number: G-800005
+Registration Number: 1000
+Type: 2
+Grade: 22
+Notes: ***ERROR*** Course for Type 2 should be a *
+Node Count: 7
+ErrorMessage: Course number must be '*' for type 2 or exist in the database for type 1.
+-------------------
+Extracted values: type=2, studentNo=80000003, courseNo=*, registrationNo=8012, grade=93.2, notes=Good grade update
+File: 2024-346-VT.xml
+Successful grade update for student 80000003 in course *. Grade: 93.2. Notes: Good grade update
+
+Extracted values: type=2, studentNo=80000003, courseNo=*, registrationNo=8014, grade=91.6, notes=Good grade update
+File: 2024-346-VT.xml
+Successful grade update for student 80000003 in course *. Grade: 91.6. Notes: Good grade update
+
+Extracted values: type=2, studentNo=80000003, courseNo=*, registrationNo=8015, grade=91, notes=Good grade update
+File: 2024-346-VT.xml
+Successful grade update for student 80000003 in course *. Grade: 91. Notes: Good grade update
+
+Extracted values: type=2, studentNo=80000003, courseNo=*, registrationNo=8013, grade=90, notes=Good grade update
+File: 2024-346-VT.xml
+Successful grade update for student 80000003 in course *. Grade: 90. Notes: Good grade update
+
+Extracted values: type=1, studentNo=80000003, courseNo=A-8002, registrationNo=*, grade=*, notes=Good registration
+File: 2024-346-VT.xml
+Unsuccessful registration for student 80000003 in course A-8002. Error code: -300. Error: An error has occurred while updating the registration.
+
+Extracted values: type=1, studentNo=80000003, courseNo=G-800004, registrationNo=*, grade=*, notes=Good registration
+File: 2024-346-VT.xml
+Unsuccessful registration for student 80000003 in course G-800004. Error code: -300. Error: An error has occurred while updating the registration.
+
+
+-------ERROR-------
+File: 2024-346-VT.xml
+Program: VT
+Student Number: 80000002
+Course Number: *
+Registration Number: 8011
+Type: 2
+Grade: 
+Notes: ***ERROR*** Incorrect number of Child Nodes
+Node Count: 6
+ErrorMessage: Node counts is not 7.
+-------------------
+-------ERROR-------
+File: 2024-346-VT.xml
+Program: VV
+Student Number: 80000003
+Course Number: *
+Registration Number: 8013
+Type: 2
+Grade: 90
+Notes: **ERROR*** Invalid Program Acronym
+Node Count: 7
+ErrorMessage: Transaction Program does not match root program
+-------------------
+-------ERROR-------
+File: 2024-346-VT.xml
+Program: VT
+Student Number: 80000002
+Course Number: M-80001
+Registration Number: *
+Type: 1
+Grade: @
+Notes: ***ERROR*** Invalid Grade Value
+Node Count: 7
+ErrorMessage: Grade element must be numeric or have the value of '*'.
+-------------------
+-------ERROR-------
+File: 2024-346-VT.xml
+Program: VT
+Student Number: 80000001
+Course Number: G-800004
+Registration Number: *
+Type: 1
+Grade: 100
+Notes: ***ERROR***  Grade for Type 1 should be a *
+Node Count: 7
+ErrorMessage: Grade element must be '*' for type 1 and between 0 and 100 inclusive for type 2.
+-------------------
+-------ERROR-------
+File: 2024-346-VT.xml
+Program: VT
+Student Number: 1111
+Course Number: G-800004
+Registration Number: *
+Type: 1
+Grade: *
+Notes: ***ERROR*** Student does not exist
+Node Count: 7
+ErrorMessage: Student number must exist in the database.
+-------------------
+-------ERROR-------
+File: 2024-346-VT.xml
+Program: VT
+Student Number: 80000003
+Course Number: G-800005
+Registration Number: 1000
+Type: 2
+Grade: 22
+Notes: ***ERROR*** Course for Type 2 should be a *
+Node Count: 7
+ErrorMessage: Course number must be '*' for type 2 or exist in the database for type 1.
+-------------------
+Extracted values: type=2, studentNo=80000003, courseNo=*, registrationNo=8012, grade=93.2, notes=Good grade update
+File: 2024-346-VT.xml
+Successful grade update for student 80000003 in course *. Grade: 93.2. Notes: Good grade update
+
+Extracted values: type=2, studentNo=80000003, courseNo=*, registrationNo=8014, grade=91.6, notes=Good grade update
+File: 2024-346-VT.xml
+Successful grade update for student 80000003 in course *. Grade: 91.6. Notes: Good grade update
+
+Extracted values: type=2, studentNo=80000003, courseNo=*, registrationNo=8015, grade=91, notes=Good grade update
+File: 2024-346-VT.xml
+Successful grade update for student 80000003 in course *. Grade: 91. Notes: Good grade update
+
+Extracted values: type=2, studentNo=80000003, courseNo=*, registrationNo=8013, grade=90, notes=Good grade update
+File: 2024-346-VT.xml
+Successful grade update for student 80000003 in course *. Grade: 90. Notes: Good grade update
+
+Extracted values: type=1, studentNo=80000003, courseNo=A-8002, registrationNo=*, grade=*, notes=Good registration
+File: 2024-346-VT.xml
+Successful registration for student 80000003 in course A-8002. Notes: Good registration
+
+Extracted values: type=1, studentNo=80000003, courseNo=G-800004, registrationNo=*, grade=*, notes=Good registration
+File: 2024-346-VT.xml
+Successful registration for student 80000003 in course G-800004. Notes: Good registration
+
+
+-------ERROR-------
+File: 2024-346-VT.xml
+Program: VT
+Student Number: 80000002
+Course Number: *
+Registration Number: 8011
+Type: 2
+Grade: 
+Notes: ***ERROR*** Incorrect number of Child Nodes
+Node Count: 6
+ErrorMessage: Node counts is not 7.
+-------------------
+-------ERROR-------
+File: 2024-346-VT.xml
+Program: VV
+Student Number: 80000003
+Course Number: *
+Registration Number: 8013
+Type: 2
+Grade: 90
+Notes: **ERROR*** Invalid Program Acronym
+Node Count: 7
+ErrorMessage: Transaction Program does not match root program
+-------------------
+-------ERROR-------
+File: 2024-346-VT.xml
+Program: VT
+Student Number: 80000002
+Course Number: M-80001
+Registration Number: *
+Type: 1
+Grade: @
+Notes: ***ERROR*** Invalid Grade Value
+Node Count: 7
+ErrorMessage: Grade element must be numeric or have the value of '*'.
+-------------------
+-------ERROR-------
+File: 2024-346-VT.xml
+Program: VT
+Student Number: 80000001
+Course Number: G-800004
+Registration Number: *
+Type: 1
+Grade: 100
+Notes: ***ERROR***  Grade for Type 1 should be a *
+Node Count: 7
+ErrorMessage: Grade element must be '*' for type 1 and between 0 and 100 inclusive for type 2.
+-------------------
+-------ERROR-------
+File: 2024-346-VT.xml
+Program: VT
+Student Number: 1111
+Course Number: G-800004
+Registration Number: *
+Type: 1
+Grade: *
+Notes: ***ERROR*** Student does not exist
+Node Count: 7
+ErrorMessage: Student number must exist in the database.
+-------------------
+-------ERROR-------
+File: 2024-346-VT.xml
+Program: VT
+Student Number: 80000003
+Course Number: G-800005
+Registration Number: 1000
+Type: 2
+Grade: 22
+Notes: ***ERROR*** Course for Type 2 should be a *
+Node Count: 7
+ErrorMessage: Course number must be '*' for type 2 or exist in the database for type 1.
+-------------------
+File: 2024-346-VT.xml
+Successful grade update for student 80000003 in course *. Grade: 93.2. Notes: Good grade update
+
+File: 2024-346-VT.xml
+Successful grade update for student 80000003 in course *. Grade: 91.6. Notes: Good grade update
+
+File: 2024-346-VT.xml
+Successful grade update for student 80000003 in course *. Grade: 91. Notes: Good grade update
+
+File: 2024-346-VT.xml
+Successful grade update for student 80000003 in course *. Grade: 90. Notes: Good grade update
+
+File: 2024-346-VT.xml
+Unsuccessful registration for student 80000003 in course A-8002. Error code: -100. Error: Student cannot register for a course in which there is already an ungraded registration.
+
+File: 2024-346-VT.xml
+Unsuccessful registration for student 80000003 in course G-800004. Error code: -100. Error: Student cannot register for a course in which there is already an ungraded registration.
+
+
+-------ERROR-------
+File: 2024-346-VT.xml
+Program: VT
+Student Number: 80000002
+Course Number: *
+Registration Number: 8011
+Type: 2
+Grade: 
+Notes: ***ERROR*** Incorrect number of Child Nodes
+Node Count: 6
+ErrorMessage: Node counts is not 7.
+-------------------
+-------ERROR-------
+File: 2024-346-VT.xml
+Program: VV
+Student Number: 80000003
+Course Number: *
+Registration Number: 8013
+Type: 2
+Grade: 90
+Notes: **ERROR*** Invalid Program Acronym
+Node Count: 7
+ErrorMessage: Transaction Program does not match root program
+-------------------
+-------ERROR-------
+File: 2024-346-VT.xml
+Program: VT
+Student Number: 80000002
+Course Number: M-80001
+Registration Number: *
+Type: 1
+Grade: @
+Notes: ***ERROR*** Invalid Grade Value
+Node Count: 7
+ErrorMessage: Grade element must be numeric or have the value of '*'.
+-------------------
+-------ERROR-------
+File: 2024-346-VT.xml
+Program: VT
+Student Number: 80000001
+Course Number: G-800004
+Registration Number: *
+Type: 1
+Grade: 100
+Notes: ***ERROR***  Grade for Type 1 should be a *
+Node Count: 7
+ErrorMessage: Grade element must be '*' for type 1 and between 0 and 100 inclusive for type 2.
+-------------------
+-------ERROR-------
+File: 2024-346-VT.xml
+Program: VT
+Student Number: 1111
+Course Number: G-800004
+Registration Number: *
+Type: 1
+Grade: *
+Notes: ***ERROR*** Student does not exist
+Node Count: 7
+ErrorMessage: Student number must exist in the database.
+-------------------
+-------ERROR-------
+File: 2024-346-VT.xml
+Program: VT
+Student Number: 80000003
+Course Number: G-800005
+Registration Number: 1000
+Type: 2
+Grade: 22
+Notes: ***ERROR*** Course for Type 2 should be a *
+Node Count: 7
+ErrorMessage: Course number must be '*' for type 2 or exist in the database for type 1.
+-------------------
+File: 2024-346-VT.xml
+Successful grade update for student 80000003 in course *. Grade: 93.2. Notes: Good grade update
+
+File: 2024-346-VT.xml
+Successful grade update for student 80000003 in course *. Grade: 91.6. Notes: Good grade update
+
+File: 2024-346-VT.xml
+Successful grade update for student 80000003 in course *. Grade: 91. Notes: Good grade update
+
+File: 2024-346-VT.xml
+Successful grade update for student 80000003 in course *. Grade: 90. Notes: Good grade update
+
+File: 2024-346-VT.xml
+Unsuccessful registration for student 80000003 in course A-8002. Error code: -100. Error: Student cannot register for a course in which there is already an ungraded registration.
+
+File: 2024-346-VT.xml
+Unsuccessful registration for student 80000003 in course G-800004. Error code: -100. Error: Student cannot register for a course in which there is already an ungraded registration.
+
+
+-------ERROR-------
+File: 2024-346-VT.xml
+Program: VT
+Student Number: 80000002
+Course Number: *
+Registration Number: 8011
+Type: 2
+Grade: 
+Notes: ***ERROR*** Incorrect number of Child Nodes
+Node Count: 6
+ErrorMessage: Node counts is not 7.
+-------------------
+-------ERROR-------
+File: 2024-346-VT.xml
+Program: VV
+Student Number: 80000003
+Course Number: *
+Registration Number: 8013
+Type: 2
+Grade: 90
+Notes: **ERROR*** Invalid Program Acronym
+Node Count: 7
+ErrorMessage: Transaction Program does not match root program
+-------------------
+-------ERROR-------
+File: 2024-346-VT.xml
+Program: VT
+Student Number: 80000002
+Course Number: M-80001
+Registration Number: *
+Type: 1
+Grade: @
+Notes: ***ERROR*** Invalid Grade Value
+Node Count: 7
+ErrorMessage: Grade element must be numeric or have the value of '*'.
+-------------------
+-------ERROR-------
+File: 2024-346-VT.xml
+Program: VT
+Student Number: 80000001
+Course Number: G-800004
+Registration Number: *
+Type: 1
+Grade: 100
+Notes: ***ERROR***  Grade for Type 1 should be a *
+Node Count: 7
+ErrorMessage: Grade element must be '*' for type 1 and between 0 and 100 inclusive for type 2.
+-------------------
+-------ERROR-------
+File: 2024-346-VT.xml
+Program: VT
+Student Number: 1111
+Course Number: G-800004
+Registration Number: *
+Type: 1
+Grade: *
+Notes: ***ERROR*** Student does not exist
+Node Count: 7
+ErrorMessage: Student number must exist in the database.
+-------------------
+-------ERROR-------
+File: 2024-346-VT.xml
+Program: VT
+Student Number: 80000003
+Course Number: G-800005
+Registration Number: 1000
+Type: 2
+Grade: 22
+Notes: ***ERROR*** Course for Type 2 should be a *
+Node Count: 7
+ErrorMessage: Course number must be '*' for type 2 or exist in the database for type 1.
+-------------------
+File: 2024-346-VT.xml
+Successful grade update for student 80000003 in course *. Grade: 93.2. Notes: Good grade update
+
+File: 2024-346-VT.xml
+Successful grade update for student 80000003 in course *. Grade: 91.6. Notes: Good grade update
+
+File: 2024-346-VT.xml
+Successful grade update for student 80000003 in course *. Grade: 91. Notes: Good grade update
+
+File: 2024-346-VT.xml
+Successful grade update for student 80000003 in course *. Grade: 90. Notes: Good grade update
+
+File: 2024-346-VT.xml
+Successful registration for student 80000003 in course A-8002. Notes: Good registration
+
+File: 2024-346-VT.xml
+Successful registration for student 80000003 in course G-800004. Notes: Good registration
+
+
+-------ERROR-------
+File: 2024-346-VT.xml
+Program: VT
+Student Number: 80000002
+Course Number: *
+Registration Number: 8011
+Type: 2
+Grade: 
+Notes: ***ERROR*** Incorrect number of Child Nodes
+Node Count: 6
+ErrorMessage: Node counts is not 7.
+-------------------
+-------ERROR-------
+File: 2024-346-VT.xml
+Program: VV
+Student Number: 80000003
+Course Number: *
+Registration Number: 8013
+Type: 2
+Grade: 90
+Notes: **ERROR*** Invalid Program Acronym
+Node Count: 7
+ErrorMessage: Transaction Program does not match root program
+-------------------
+-------ERROR-------
+File: 2024-346-VT.xml
+Program: VT
+Student Number: 80000002
+Course Number: M-80001
+Registration Number: *
+Type: 1
+Grade: @
+Notes: ***ERROR*** Invalid Grade Value
+Node Count: 7
+ErrorMessage: Grade element must be numeric or have the value of '*'.
+-------------------
+-------ERROR-------
+File: 2024-346-VT.xml
+Program: VT
+Student Number: 80000001
+Course Number: G-800004
+Registration Number: *
+Type: 1
+Grade: 100
+Notes: ***ERROR***  Grade for Type 1 should be a *
+Node Count: 7
+ErrorMessage: Grade element must be '*' for type 1 and between 0 and 100 inclusive for type 2.
+-------------------
+-------ERROR-------
+File: 2024-346-VT.xml
+Program: VT
+Student Number: 80000003
+Course Number: *
+Registration Number: 8012
+Type: 2
+Grade: 93.2
+Notes: Good grade update
+Node Count: 7
+ErrorMessage: Student number must exist in the database.
+-------------------
+-------ERROR-------
+File: 2024-346-VT.xml
+Program: VT
+Student Number: 80000003
+Course Number: *
+Registration Number: 8014
+Type: 2
+Grade: 91.6
+Notes: Good grade update
+Node Count: 7
+ErrorMessage: Student number must exist in the database.
+-------------------
+-------ERROR-------
+File: 2024-346-VT.xml
+Program: VT
+Student Number: 80000003
+Course Number: *
+Registration Number: 8015
+Type: 2
+Grade: 91
+Notes: Good grade update
+Node Count: 7
+ErrorMessage: Student number must exist in the database.
+-------------------
+-------ERROR-------
+File: 2024-346-VT.xml
+Program: VT
+Student Number: 80000003
+Course Number: *
+Registration Number: 8013
+Type: 2
+Grade: 90
+Notes: Good grade update
+Node Count: 7
+ErrorMessage: Student number must exist in the database.
+-------------------
+-------ERROR-------
+File: 2024-346-VT.xml
+Program: VT
+Student Number: 80000003
+Course Number: A-8002
+Registration Number: *
+Type: 1
+Grade: *
+Notes: Good registration
+Node Count: 7
+ErrorMessage: Student number must exist in the database.
+-------------------
+-------ERROR-------
+File: 2024-346-VT.xml
+Program: VT
+Student Number: 80000003
+Course Number: G-800005
+Registration Number: 1000
+Type: 2
+Grade: 22
+Notes: ***ERROR*** Course for Type 2 should be a *
+Node Count: 7
+ErrorMessage: Student number must exist in the database.
+-------------------
+-------ERROR-------
+File: 2024-346-VT.xml
+Program: VT
+Student Number: 80000003
+Course Number: G-800004
+Registration Number: *
+Type: 1
+Grade: *
+Notes: Good registration
+Node Count: 7
+ErrorMessage: Student number must exist in the database.
+-------------------
+-------ERROR-------
+File: 2024-346-VT.xml
+Program: VT
+Student Number: 1111
+Course Number: G-800004
+Registration Number: *
+Type: 1
+Grade: *
+Notes: ***ERROR*** Student does not exist
+Node Count: 7
+ErrorMessage: Student number must exist in the database.
+-------------------
+
+-------ERROR-------
+File: 2024-346-VT.xml
+Program: VT
+Student Number: 80000002
+Course Number: *
+Registration Number: 8011
+Type: 2
+Grade: 
+Notes: ***ERROR*** Incorrect number of Child Nodes
+Node Count: 6
+ErrorMessage: Node counts is not 7.
+-------------------
+-------ERROR-------
+File: 2024-346-VT.xml
+Program: VV
+Student Number: 80000003
+Course Number: *
+Registration Number: 8013
+Type: 2
+Grade: 90
+Notes: **ERROR*** Invalid Program Acronym
+Node Count: 7
+ErrorMessage: Transaction Program does not match root program
+-------------------
+-------ERROR-------
+File: 2024-346-VT.xml
+Program: VT
+Student Number: 80000002
+Course Number: M-80001
+Registration Number: *
+Type: 1
+Grade: @
+Notes: ***ERROR*** Invalid Grade Value
+Node Count: 7
+ErrorMessage: Grade element must be numeric or have the value of '*'.
+-------------------
+-------ERROR-------
+File: 2024-346-VT.xml
+Program: VT
+Student Number: 80000001
+Course Number: G-800004
+Registration Number: *
+Type: 1
+Grade: 100
+Notes: ***ERROR***  Grade for Type 1 should be a *
+Node Count: 7
+ErrorMessage: Grade element must be '*' for type 1 and between 0 and 100 inclusive for type 2.
+-------------------
+-------ERROR-------
+File: 2024-346-VT.xml
+Program: VT
+Student Number: 80000003
+Course Number: *
+Registration Number: 8012
+Type: 2
+Grade: 93.2
+Notes: Good grade update
+Node Count: 7
+ErrorMessage: Student number must exist in the database.
+-------------------
+-------ERROR-------
+File: 2024-346-VT.xml
+Program: VT
+Student Number: 80000003
+Course Number: *
+Registration Number: 8014
+Type: 2
+Grade: 91.6
+Notes: Good grade update
+Node Count: 7
+ErrorMessage: Student number must exist in the database.
+-------------------
+-------ERROR-------
+File: 2024-346-VT.xml
+Program: VT
+Student Number: 80000003
+Course Number: *
+Registration Number: 8015
+Type: 2
+Grade: 91
+Notes: Good grade update
+Node Count: 7
+ErrorMessage: Student number must exist in the database.
+-------------------
+-------ERROR-------
+File: 2024-346-VT.xml
+Program: VT
+Student Number: 80000003
+Course Number: *
+Registration Number: 8013
+Type: 2
+Grade: 90
+Notes: Good grade update
+Node Count: 7
+ErrorMessage: Student number must exist in the database.
+-------------------
+-------ERROR-------
+File: 2024-346-VT.xml
+Program: VT
+Student Number: 80000003
+Course Number: A-8002
+Registration Number: *
+Type: 1
+Grade: *
+Notes: Good registration
+Node Count: 7
+ErrorMessage: Student number must exist in the database.
+-------------------
+-------ERROR-------
+File: 2024-346-VT.xml
+Program: VT
+Student Number: 80000003
+Course Number: G-800005
+Registration Number: 1000
+Type: 2
+Grade: 22
+Notes: ***ERROR*** Course for Type 2 should be a *
+Node Count: 7
+ErrorMessage: Student number must exist in the database.
+-------------------
+-------ERROR-------
+File: 2024-346-VT.xml
+Program: VT
+Student Number: 80000003
+Course Number: G-800004
+Registration Number: *
+Type: 1
+Grade: *
+Notes: Good registration
+Node Count: 7
+ErrorMessage: Student number must exist in the database.
+-------------------
+-------ERROR-------
+File: 2024-346-VT.xml
+Program: VT
+Student Number: 1111
+Course Number: G-800004
+Registration Number: *
+Type: 1
+Grade: *
+Notes: ***ERROR*** Student does not exist
+Node Count: 7
+ErrorMessage: Student number must exist in the database.
+-------------------
+
+-------ERROR-------
+File: 2024-346-VT.xml
+Program: VT
+Student Number: 80000002
+Course Number: *
+Registration Number: 8011
+Type: 2
+Grade: 
+Notes: ***ERROR*** Incorrect number of Child Nodes
+Node Count: 6
+ErrorMessage: Node counts is not 7.
+-------------------
+-------ERROR-------
+File: 2024-346-VT.xml
+Program: VV
+Student Number: 80000003
+Course Number: *
+Registration Number: 8013
+Type: 2
+Grade: 90
+Notes: **ERROR*** Invalid Program Acronym
+Node Count: 7
+ErrorMessage: Transaction Program does not match root program
+-------------------
+-------ERROR-------
+File: 2024-346-VT.xml
+Program: VT
+Student Number: 80000002
+Course Number: M-80001
+Registration Number: *
+Type: 1
+Grade: @
+Notes: ***ERROR*** Invalid Grade Value
+Node Count: 7
+ErrorMessage: Grade element must be numeric or have the value of '*'.
+-------------------
+-------ERROR-------
+File: 2024-346-VT.xml
+Program: VT
+Student Number: 80000001
+Course Number: G-800004
+Registration Number: *
+Type: 1
+Grade: 100
+Notes: ***ERROR***  Grade for Type 1 should be a *
+Node Count: 7
+ErrorMessage: Grade element must be '*' for type 1 and between 0 and 100 inclusive for type 2.
+-------------------
+-------ERROR-------
+File: 2024-346-VT.xml
+Program: VT
+Student Number: 1111
+Course Number: G-800004
+Registration Number: *
+Type: 1
+Grade: *
+Notes: ***ERROR*** Student does not exist
+Node Count: 7
+ErrorMessage: Student number must exist in the database.
+-------------------
+-------ERROR-------
+File: 2024-346-VT.xml
+Program: VT
+Student Number: 80000003
+Course Number: G-800005
+Registration Number: 1000
+Type: 2
+Grade: 22
+Notes: ***ERROR*** Course for Type 2 should be a *
+Node Count: 7
+ErrorMessage: Course number must be '*' for type 2 or exist in the database for type 1.
+-------------------
+File: 2024-346-VT.xml
+Successful grade update for student 80000003 in course *. Grade: 93.2. Notes: Good grade update
+
+File: 2024-346-VT.xml
+Successful grade update for student 80000003 in course *. Grade: 91.6. Notes: Good grade update
+
+File: 2024-346-VT.xml
+Successful grade update for student 80000003 in course *. Grade: 91. Notes: Good grade update
+
+File: 2024-346-VT.xml
+Successful grade update for student 80000003 in course *. Grade: 90. Notes: Good grade update
+
+File: 2024-346-VT.xml
+Successful registration for student 80000003 in course A-8002. Notes: Good registration
+
+File: 2024-346-VT.xml
+Successful registration for student 80000003 in course G-800004. Notes: Good registration
+

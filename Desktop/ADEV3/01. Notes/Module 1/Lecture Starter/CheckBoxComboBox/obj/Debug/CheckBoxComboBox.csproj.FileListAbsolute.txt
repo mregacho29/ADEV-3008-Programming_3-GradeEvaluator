@@ -1,0 +1,6 @@
+C:\Users\Administrator\Desktop\ADEV3000Lecture\CheckBoxComboBox\bin\Debug\CheckBoxComboBox.dll
+C:\Users\Administrator\Desktop\ADEV3000Lecture\CheckBoxComboBox\bin\Debug\CheckBoxComboBox.pdb
+C:\Users\Administrator\Desktop\ADEV3000Lecture\CheckBoxComboBox\obj\Debug\PresentationControls.PopupComboBox.resources
+C:\Users\Administrator\Desktop\ADEV3000Lecture\CheckBoxComboBox\obj\Debug\CheckBoxComboBox.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\ADEV3000Lecture\CheckBoxComboBox\obj\Debug\CheckBoxComboBox.dll
+C:\Users\Administrator\Desktop\ADEV3000Lecture\CheckBoxComboBox\obj\Debug\CheckBoxComboBox.pdb

@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Crizza Lynne\\Desktop\\ADEV3\\02. Assignments\\07. Assignment 07\\BITCollege_MR\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{18A2E074-9CE7-48F6-B47B-0B55BF8D13C3}|BITCollegeWindows\\BITCollegeWindows\\BITCollegeWindows.csproj|c:\\users\\crizza lynne\\desktop\\adev3\\02. assignments\\07. assignment 07\\bitcollege_mr\\bitcollegewindows\\bitcollegewindows\\batch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18A2E074-9CE7-48F6-B47B-0B55BF8D13C3}|BITCollegeWindows\\BITCollegeWindows\\BITCollegeWindows.csproj|solutionrelative:bitcollegewindows\\bitcollegewindows\\batch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18A2E074-9CE7-48F6-B47B-0B55BF8D13C3}|BITCollegeWindows\\BITCollegeWindows\\BITCollegeWindows.csproj|c:\\users\\crizza lynne\\desktop\\adev3\\02. assignments\\07. assignment 07\\bitcollege_mr\\bitcollegewindows\\bitcollegewindows\\batchupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{18A2E074-9CE7-48F6-B47B-0B55BF8D13C3}|BITCollegeWindows\\BITCollegeWindows\\BITCollegeWindows.csproj|solutionrelative:bitcollegewindows\\bitcollegewindows\\batchupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AFCBABA-4007-4777-9160-37AF8ECC7B59}|UnitTestBITCollege_MR\\UnitTestBITCollege_MR.csproj|c:\\users\\crizza lynne\\desktop\\adev3\\02. assignments\\07. assignment 07\\bitcollege_mr\\unittestbitcollege_mr\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AFCBABA-4007-4777-9160-37AF8ECC7B59}|UnitTestBITCollege_MR\\UnitTestBITCollege_MR.csproj|solutionrelative:unittestbitcollege_mr\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18A2E074-9CE7-48F6-B47B-0B55BF8D13C3}|BITCollegeWindows\\BITCollegeWindows\\BITCollegeWindows.csproj|c:\\users\\crizza lynne\\desktop\\adev3\\02. assignments\\07. assignment 07\\bitcollege_mr\\bitcollegewindows\\bitcollegewindows\\bitcollege.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{18A2E074-9CE7-48F6-B47B-0B55BF8D13C3}|BITCollegeWindows\\BITCollegeWindows\\BITCollegeWindows.csproj|solutionrelative:bitcollegewindows\\bitcollegewindows\\bitcollege.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0BE79ED-BBB6-43AB-9B68-FBE4E9409E93}|BITCollege_MR\\BITCollege_MR.csproj|c:\\users\\crizza lynne\\desktop\\adev3\\02. assignments\\07. assignment 07\\bitcollege_mr\\bitcollege_mr\\models\\schoolmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0BE79ED-BBB6-43AB-9B68-FBE4E9409E93}|BITCollege_MR\\BITCollege_MR.csproj|solutionrelative:bitcollege_mr\\models\\schoolmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BITCollege.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Crizza Lynne\\Desktop\\ADEV3\\02. Assignments\\07. Assignment 07\\BITCollege_MR\\BITCollegeWindows\\BITCollegeWindows\\BITCollege.cs",
+              "RelativeDocumentMoniker": "BITCollegeWindows\\BITCollegeWindows\\BITCollege.cs",
+              "ToolTip": "C:\\Users\\Crizza Lynne\\Desktop\\ADEV3\\02. Assignments\\07. Assignment 07\\BITCollege_MR\\BITCollegeWindows\\BITCollegeWindows\\BITCollege.cs [Design]",
+              "RelativeToolTip": "BITCollegeWindows\\BITCollegeWindows\\BITCollege.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T19:02:47.13Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SchoolModel.cs",
+              "DocumentMoniker": "C:\\Users\\Crizza Lynne\\Desktop\\ADEV3\\02. Assignments\\07. Assignment 07\\BITCollege_MR\\BITCollege_MR\\Models\\SchoolModel.cs",
+              "RelativeDocumentMoniker": "BITCollege_MR\\Models\\SchoolModel.cs",
+              "ToolTip": "C:\\Users\\Crizza Lynne\\Desktop\\ADEV3\\02. Assignments\\07. Assignment 07\\BITCollege_MR\\BITCollege_MR\\Models\\SchoolModel.cs",
+              "RelativeToolTip": "BITCollege_MR\\Models\\SchoolModel.cs",
+              "ViewState": "AgIAABAEAAAAAAAAAAArwEsEAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T18:57:28.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Crizza Lynne\\Desktop\\ADEV3\\02. Assignments\\07. Assignment 07\\BITCollege_MR\\UnitTestBITCollege_MR\\Program.cs",
+              "RelativeDocumentMoniker": "UnitTestBITCollege_MR\\Program.cs",
+              "ToolTip": "C:\\Users\\Crizza Lynne\\Desktop\\ADEV3\\02. Assignments\\07. Assignment 07\\BITCollege_MR\\UnitTestBITCollege_MR\\Program.cs",
+              "RelativeToolTip": "UnitTestBITCollege_MR\\Program.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAAAGQAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T18:54:55.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Batch.cs",
+              "DocumentMoniker": "C:\\Users\\Crizza Lynne\\Desktop\\ADEV3\\02. Assignments\\07. Assignment 07\\BITCollege_MR\\BITCollegeWindows\\BITCollegeWindows\\Batch.cs",
+              "RelativeDocumentMoniker": "BITCollegeWindows\\BITCollegeWindows\\Batch.cs",
+              "ToolTip": "C:\\Users\\Crizza Lynne\\Desktop\\ADEV3\\02. Assignments\\07. Assignment 07\\BITCollege_MR\\BITCollegeWindows\\BITCollegeWindows\\Batch.cs",
+              "RelativeToolTip": "BITCollegeWindows\\BITCollegeWindows\\Batch.cs",
+              "ViewState": "AgIAAJcAAAAAAAAAAAArwFAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T17:35:22.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BatchUpdate.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Crizza Lynne\\Desktop\\ADEV3\\02. Assignments\\07. Assignment 07\\BITCollege_MR\\BITCollegeWindows\\BITCollegeWindows\\BatchUpdate.cs",
+              "RelativeDocumentMoniker": "BITCollegeWindows\\BITCollegeWindows\\BatchUpdate.cs",
+              "ToolTip": "C:\\Users\\Crizza Lynne\\Desktop\\ADEV3\\02. Assignments\\07. Assignment 07\\BITCollege_MR\\BITCollegeWindows\\BITCollegeWindows\\BatchUpdate.cs [Design]",
+              "RelativeToolTip": "BITCollegeWindows\\BITCollegeWindows\\BatchUpdate.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T17:35:20.054Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

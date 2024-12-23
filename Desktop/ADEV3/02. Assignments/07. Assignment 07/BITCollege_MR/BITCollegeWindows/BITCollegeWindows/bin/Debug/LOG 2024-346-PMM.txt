@@ -1,0 +1,1578 @@
+
+Root element: student_update
+Attributes: date=2024-12-11, program=PMM, checksum=880000015
+-------ERROR-------
+File: 2024-346-PMM.xml
+Program: PMM
+Student Number: 80000001
+Course Number: G-800012
+Registration Number: *
+Type: 1
+Grade: @
+Notes: ***ERROR*** Invalid Grade Value
+Node Count: 7
+ErrorMessage: Grade element must be numeric or have the value of '*'.
+-------------------
+-------ERROR-------
+File: 2024-346-PMM.xml
+Program: PMM
+Student Number: 80000001
+Course Number: G-800010
+Registration Number: *
+Type: 1
+Grade: 100
+Notes: ***ERROR***  Grade for Type 1 should be a *
+Node Count: 7
+ErrorMessage: Grade element must be '*' for type 1 and between 0 and 100 inclusive for type 2.
+-------------------
+-------ERROR-------
+File: 2024-346-PMM.xml
+Program: PMM
+Student Number: 80000002
+Course Number: D-12345
+Registration Number: *
+Type: 1
+Grade: *
+Notes: ***ERROR*** Course does not exist
+Node Count: 7
+ErrorMessage: Course number must be '*' for type 2 or exist in the database for type 1.
+-------------------
+-------ERROR-------
+File: 2024-346-PMM.xml
+Program: PMM
+Student Number: 80000001
+Course Number: G-800010
+Registration Number: 2001
+Type: 2
+Grade: 22
+Notes: ***ERROR*** Course for Type 2 should be a *
+Node Count: 7
+ErrorMessage: Course number must be '*' for type 2 or exist in the database for type 1.
+-------------------
+Extracted values: type=2, studentNo=80000001, courseNo=*, registrationNo=8004, grade=98, notes=Good grade update
+File: 2024-346-PMM.xml
+Successful grade update for student 80000001 in course *. Grade: 98. Notes: Good grade update
+
+Extracted values: type=2, studentNo=80000002, courseNo=*, registrationNo=8009, grade=50, notes=Good grade update
+File: 2024-346-PMM.xml
+Successful grade update for student 80000002 in course *. Grade: 50. Notes: Good grade update
+
+Extracted values: type=1, studentNo=80000001, courseNo=M-80001, registrationNo=*, grade=*, notes=***ERROR Maximum Mastery Course Attempts
+File: 2024-346-PMM.xml
+Unsuccessful registration for student 80000001 in course M-80001. Error code: -200. Error: Student has exceeded maximum attempts on mastery course.
+
+Extracted values: type=1, studentNo=80000001, courseNo=G-800011, registrationNo=*, grade=*, notes=Good registration
+File: 2024-346-PMM.xml
+Unsuccessful registration for student 80000001 in course G-800011. Error code: -100. Error: Student cannot register for a course in which there is already an ungraded registration.
+
+Extracted values: type=1, studentNo=80000001, courseNo=G-800009, registrationNo=*, grade=*, notes=Good Registration
+File: 2024-346-PMM.xml
+Unsuccessful registration for student 80000001 in course G-800009. Error code: -100. Error: Student cannot register for a course in which there is already an ungraded registration.
+
+Extracted values: type=1, studentNo=80000002, courseNo=M-80008, registrationNo=*, grade=*, notes=***ERROR*** Maximum attempts for mastery course
+File: 2024-346-PMM.xml
+Unsuccessful registration for student 80000002 in course M-80008. Error code: -100. Error: Student cannot register for a course in which there is already an ungraded registration.
+
+Extracted values: type=1, studentNo=80000002, courseNo=G-800012, registrationNo=*, grade=*, notes=Good Registration
+File: 2024-346-PMM.xml
+Unsuccessful registration for student 80000002 in course G-800012. Error code: -100. Error: Student cannot register for a course in which there is already an ungraded registration.
+
+
+-------ERROR-------
+File: 2024-346-PMM.xml
+Program: PMM
+Student Number: 80000001
+Course Number: G-800012
+Registration Number: *
+Type: 1
+Grade: @
+Notes: ***ERROR*** Invalid Grade Value
+Node Count: 7
+ErrorMessage: Grade element must be numeric or have the value of '*'.
+-------------------
+-------ERROR-------
+File: 2024-346-PMM.xml
+Program: PMM
+Student Number: 80000001
+Course Number: G-800010
+Registration Number: *
+Type: 1
+Grade: 100
+Notes: ***ERROR***  Grade for Type 1 should be a *
+Node Count: 7
+ErrorMessage: Grade element must be '*' for type 1 and between 0 and 100 inclusive for type 2.
+-------------------
+-------ERROR-------
+File: 2024-346-PMM.xml
+Program: PMM
+Student Number: 80000002
+Course Number: D-12345
+Registration Number: *
+Type: 1
+Grade: *
+Notes: ***ERROR*** Course does not exist
+Node Count: 7
+ErrorMessage: Course number must be '*' for type 2 or exist in the database for type 1.
+-------------------
+-------ERROR-------
+File: 2024-346-PMM.xml
+Program: PMM
+Student Number: 80000001
+Course Number: G-800010
+Registration Number: 2001
+Type: 2
+Grade: 22
+Notes: ***ERROR*** Course for Type 2 should be a *
+Node Count: 7
+ErrorMessage: Course number must be '*' for type 2 or exist in the database for type 1.
+-------------------
+Extracted values: type=2, studentNo=80000001, courseNo=*, registrationNo=8004, grade=98, notes=Good grade update
+File: 2024-346-PMM.xml
+Successful grade update for student 80000001 in course *. Grade: 98. Notes: Good grade update
+
+Extracted values: type=2, studentNo=80000002, courseNo=*, registrationNo=8009, grade=50, notes=Good grade update
+File: 2024-346-PMM.xml
+Successful grade update for student 80000002 in course *. Grade: 50. Notes: Good grade update
+
+Extracted values: type=1, studentNo=80000001, courseNo=M-80001, registrationNo=*, grade=*, notes=***ERROR Maximum Mastery Course Attempts
+File: 2024-346-PMM.xml
+Unsuccessful registration for student 80000001 in course M-80001. Error code: -200. Error: Student has exceeded maximum attempts on mastery course.
+
+Extracted values: type=1, studentNo=80000001, courseNo=G-800011, registrationNo=*, grade=*, notes=Good registration
+File: 2024-346-PMM.xml
+Unsuccessful registration for student 80000001 in course G-800011. Error code: -100. Error: Student cannot register for a course in which there is already an ungraded registration.
+
+Extracted values: type=1, studentNo=80000001, courseNo=G-800009, registrationNo=*, grade=*, notes=Good Registration
+File: 2024-346-PMM.xml
+Unsuccessful registration for student 80000001 in course G-800009. Error code: -100. Error: Student cannot register for a course in which there is already an ungraded registration.
+
+Extracted values: type=1, studentNo=80000002, courseNo=M-80008, registrationNo=*, grade=*, notes=***ERROR*** Maximum attempts for mastery course
+File: 2024-346-PMM.xml
+Unsuccessful registration for student 80000002 in course M-80008. Error code: -100. Error: Student cannot register for a course in which there is already an ungraded registration.
+
+Extracted values: type=1, studentNo=80000002, courseNo=G-800012, registrationNo=*, grade=*, notes=Good Registration
+File: 2024-346-PMM.xml
+Unsuccessful registration for student 80000002 in course G-800012. Error code: -100. Error: Student cannot register for a course in which there is already an ungraded registration.
+
+
+-------ERROR-------
+File: 2024-346-PMM.xml
+Program: PMM
+Student Number: 80000001
+Course Number: G-800012
+Registration Number: *
+Type: 1
+Grade: @
+Notes: ***ERROR*** Invalid Grade Value
+Node Count: 7
+ErrorMessage: Grade element must be numeric or have the value of '*'.
+-------------------
+-------ERROR-------
+File: 2024-346-PMM.xml
+Program: PMM
+Student Number: 80000001
+Course Number: G-800010
+Registration Number: *
+Type: 1
+Grade: 100
+Notes: ***ERROR***  Grade for Type 1 should be a *
+Node Count: 7
+ErrorMessage: Grade element must be '*' for type 1 and between 0 and 100 inclusive for type 2.
+-------------------
+-------ERROR-------
+File: 2024-346-PMM.xml
+Program: PMM
+Student Number: 80000002
+Course Number: D-12345
+Registration Number: *
+Type: 1
+Grade: *
+Notes: ***ERROR*** Course does not exist
+Node Count: 7
+ErrorMessage: Course number must be '*' for type 2 or exist in the database for type 1.
+-------------------
+-------ERROR-------
+File: 2024-346-PMM.xml
+Program: PMM
+Student Number: 80000001
+Course Number: G-800010
+Registration Number: 2001
+Type: 2
+Grade: 22
+Notes: ***ERROR*** Course for Type 2 should be a *
+Node Count: 7
+ErrorMessage: Course number must be '*' for type 2 or exist in the database for type 1.
+-------------------
+Extracted values: type=2, studentNo=80000001, courseNo=*, registrationNo=8004, grade=98, notes=Good grade update
+File: 2024-346-PMM.xml
+Successful grade update for student 80000001 in course *. Grade: 98. Notes: Good grade update
+
+Extracted values: type=2, studentNo=80000002, courseNo=*, registrationNo=8009, grade=50, notes=Good grade update
+File: 2024-346-PMM.xml
+Successful grade update for student 80000002 in course *. Grade: 50. Notes: Good grade update
+
+Extracted values: type=1, studentNo=80000001, courseNo=M-80001, registrationNo=*, grade=*, notes=***ERROR Maximum Mastery Course Attempts
+File: 2024-346-PMM.xml
+Unsuccessful registration for student 80000001 in course M-80001. Error code: -200. Error: Student has exceeded maximum attempts on mastery course.
+
+Extracted values: type=1, studentNo=80000001, courseNo=G-800011, registrationNo=*, grade=*, notes=Good registration
+File: 2024-346-PMM.xml
+Unsuccessful registration for student 80000001 in course G-800011. Error code: -100. Error: Student cannot register for a course in which there is already an ungraded registration.
+
+Extracted values: type=1, studentNo=80000001, courseNo=G-800009, registrationNo=*, grade=*, notes=Good Registration
+File: 2024-346-PMM.xml
+Unsuccessful registration for student 80000001 in course G-800009. Error code: -100. Error: Student cannot register for a course in which there is already an ungraded registration.
+
+Extracted values: type=1, studentNo=80000002, courseNo=M-80008, registrationNo=*, grade=*, notes=***ERROR*** Maximum attempts for mastery course
+File: 2024-346-PMM.xml
+Unsuccessful registration for student 80000002 in course M-80008. Error code: -100. Error: Student cannot register for a course in which there is already an ungraded registration.
+
+Extracted values: type=1, studentNo=80000002, courseNo=G-800012, registrationNo=*, grade=*, notes=Good Registration
+File: 2024-346-PMM.xml
+Unsuccessful registration for student 80000002 in course G-800012. Error code: -100. Error: Student cannot register for a course in which there is already an ungraded registration.
+
+
+-------ERROR-------
+File: 2024-346-PMM.xml
+Program: PMM
+Student Number: 80000001
+Course Number: G-800012
+Registration Number: *
+Type: 1
+Grade: @
+Notes: ***ERROR*** Invalid Grade Value
+Node Count: 7
+ErrorMessage: Grade element must be numeric or have the value of '*'.
+-------------------
+-------ERROR-------
+File: 2024-346-PMM.xml
+Program: PMM
+Student Number: 80000001
+Course Number: G-800010
+Registration Number: *
+Type: 1
+Grade: 100
+Notes: ***ERROR***  Grade for Type 1 should be a *
+Node Count: 7
+ErrorMessage: Grade element must be '*' for type 1 and between 0 and 100 inclusive for type 2.
+-------------------
+-------ERROR-------
+File: 2024-346-PMM.xml
+Program: PMM
+Student Number: 80000002
+Course Number: D-12345
+Registration Number: *
+Type: 1
+Grade: *
+Notes: ***ERROR*** Course does not exist
+Node Count: 7
+ErrorMessage: Course number must be '*' for type 2 or exist in the database for type 1.
+-------------------
+-------ERROR-------
+File: 2024-346-PMM.xml
+Program: PMM
+Student Number: 80000001
+Course Number: G-800010
+Registration Number: 2001
+Type: 2
+Grade: 22
+Notes: ***ERROR*** Course for Type 2 should be a *
+Node Count: 7
+ErrorMessage: Course number must be '*' for type 2 or exist in the database for type 1.
+-------------------
+Extracted values: type=2, studentNo=80000001, courseNo=*, registrationNo=8004, grade=98, notes=Good grade update
+File: 2024-346-PMM.xml
+Successful grade update for student 80000001 in course *. Grade: 98. Notes: Good grade update
+
+Extracted values: type=2, studentNo=80000002, courseNo=*, registrationNo=8009, grade=50, notes=Good grade update
+File: 2024-346-PMM.xml
+Successful grade update for student 80000002 in course *. Grade: 50. Notes: Good grade update
+
+Extracted values: type=1, studentNo=80000001, courseNo=M-80001, registrationNo=*, grade=*, notes=***ERROR Maximum Mastery Course Attempts
+File: 2024-346-PMM.xml
+Unsuccessful registration for student 80000001 in course M-80001. Error code: -200. Error: Student has exceeded maximum attempts on mastery course.
+
+Extracted values: type=1, studentNo=80000001, courseNo=G-800011, registrationNo=*, grade=*, notes=Good registration
+File: 2024-346-PMM.xml
+Unsuccessful registration for student 80000001 in course G-800011. Error code: -100. Error: Student cannot register for a course in which there is already an ungraded registration.
+
+Extracted values: type=1, studentNo=80000001, courseNo=G-800009, registrationNo=*, grade=*, notes=Good Registration
+File: 2024-346-PMM.xml
+Unsuccessful registration for student 80000001 in course G-800009. Error code: -100. Error: Student cannot register for a course in which there is already an ungraded registration.
+
+Extracted values: type=1, studentNo=80000002, courseNo=M-80008, registrationNo=*, grade=*, notes=***ERROR*** Maximum attempts for mastery course
+File: 2024-346-PMM.xml
+Unsuccessful registration for student 80000002 in course M-80008. Error code: -100. Error: Student cannot register for a course in which there is already an ungraded registration.
+
+Extracted values: type=1, studentNo=80000002, courseNo=G-800012, registrationNo=*, grade=*, notes=Good Registration
+File: 2024-346-PMM.xml
+Unsuccessful registration for student 80000002 in course G-800012. Error code: -100. Error: Student cannot register for a course in which there is already an ungraded registration.
+
+
+Input file name: 2024-346-PMM.xml
+XML file content:
+<?xml version="1.0"?>
+<!-- Registration Grading file -->
+
+<student_update date="2024-12-11" program="PMM" checksum="880000015">      
+	<transaction>
+		<program>PMM</program>
+		<student_no>80000001</student_no>
+		<course_no>G-800012</course_no>
+		<registration_no>*</registration_no>
+		<type>1</type>
+		<grade>@</grade>
+		<notes>***ERROR*** Invalid Grade Value</notes>
+	</transaction>
+	<transaction>
+		<program>PMM</program>
+		<student_no>80000001</student_no>
+		<course_no>*</course_no>
+		<registration_no>8004</registration_no>
+		<type>2</type>
+		<grade>98</grade>
+		<notes>Good grade update</notes>
+	</transaction>
+	<transaction>
+		<program>PMM</program>
+		<student_no>80000002</student_no>
+		<course_no>*</course_no>
+		<registration_no>8009</registration_no>
+		<type>2</type>
+		<grade>50</grade>
+		<notes>Good grade update</notes>
+	</transaction>	
+	<transaction>
+		<program>PMM</program>
+		<student_no>80000001</student_no>
+		<course_no>M-80001</course_no>
+		<registration_no>*</registration_no>
+		<type>1</type>
+		<grade>*</grade>
+		<notes>***ERROR Maximum Mastery Course Attempts</notes>
+	</transaction>
+	<transaction>
+		<program>PMM</program>
+		<student_no>80000002</student_no>
+		<course_no>D-12345</course_no>
+		<registration_no>*</registration_no>
+		<type>1</type>
+		<grade>*</grade>
+		<notes>***ERROR*** Course does not exist</notes>
+	</transaction>
+	<transaction>
+		<program>PMM</program>
+		<student_no>80000001</student_no>
+		<course_no>G-800011</course_no>
+		<registration_no>*</registration_no>
+		<type>1</type>
+		<grade>*</grade>
+		<notes>Good registration</notes>
+	</transaction>
+	<transaction>
+		<program>PMM</program>
+		<student_no>80000001</student_no>
+		<course_no>G-800010</course_no>
+		<registration_no>2001</registration_no>
+		<type>2</type>
+		<grade>22</grade>
+		<notes>***ERROR*** Course for Type 2 should be a *</notes>
+	</transaction>
+	<transaction>
+		<program>PMM</program>
+		<student_no>80000001</student_no>
+		<course_no>G-800010</course_no>
+		<registration_no>*</registration_no>
+		<type>1</type>
+		<grade>100</grade>
+		<notes>***ERROR***  Grade for Type 1 should be a *</notes>
+	</transaction>	
+	<transaction>
+		<program>PMM</program>
+		<student_no>80000001</student_no>
+		<course_no>G-800009</course_no>
+		<registration_no>*</registration_no>
+		<type>1</type>
+		<grade>*</grade>
+		<notes>Good Registration</notes>
+	</transaction>
+	<transaction>
+		<program>PMM</program>
+		<student_no>80000002</student_no>
+		<course_no>M-80008</course_no>
+		<registration_no>*</registration_no>
+		<type>1</type>
+		<grade>*</grade>
+		<notes>***ERROR*** Maximum attempts for mastery course</notes>
+	</transaction>
+	<transaction>
+		<program>PMM</program>
+		<student_no>80000002</student_no>
+		<course_no>G-800012</course_no>
+		<registration_no>*</registration_no>
+		<type>1</type>
+		<grade>*</grade>
+		<notes>Good Registration</notes>
+	</transaction>
+</student_update>
+-------ERROR-------
+File: 2024-346-PMM.xml
+Program: PMM
+Student Number: 80000001
+Course Number: G-800012
+Registration Number: *
+Type: 1
+Grade: @
+Notes: ***ERROR*** Invalid Grade Value
+Node Count: 7
+ErrorMessage: Grade element must be numeric or have the value of '*'.
+-------------------
+-------ERROR-------
+File: 2024-346-PMM.xml
+Program: PMM
+Student Number: 80000001
+Course Number: G-800010
+Registration Number: *
+Type: 1
+Grade: 100
+Notes: ***ERROR***  Grade for Type 1 should be a *
+Node Count: 7
+ErrorMessage: Grade element must be '*' for type 1 and between 0 and 100 inclusive for type 2.
+-------------------
+-------ERROR-------
+File: 2024-346-PMM.xml
+Program: PMM
+Student Number: 80000002
+Course Number: D-12345
+Registration Number: *
+Type: 1
+Grade: *
+Notes: ***ERROR*** Course does not exist
+Node Count: 7
+ErrorMessage: Course number must be '*' for type 2 or exist in the database for type 1.
+-------------------
+-------ERROR-------
+File: 2024-346-PMM.xml
+Program: PMM
+Student Number: 80000001
+Course Number: G-800010
+Registration Number: 2001
+Type: 2
+Grade: 22
+Notes: ***ERROR*** Course for Type 2 should be a *
+Node Count: 7
+ErrorMessage: Course number must be '*' for type 2 or exist in the database for type 1.
+-------------------
+Extracted values: type=2, studentNo=80000001, courseNo=*, registrationNo=8004, grade=98, notes=Good grade update
+File: 2024-346-PMM.xml
+Successful grade update for student 80000001 in course *. Grade: 98. Notes: Good grade update
+
+Extracted values: type=2, studentNo=80000002, courseNo=*, registrationNo=8009, grade=50, notes=Good grade update
+File: 2024-346-PMM.xml
+Successful grade update for student 80000002 in course *. Grade: 50. Notes: Good grade update
+
+Extracted values: type=1, studentNo=80000001, courseNo=M-80001, registrationNo=*, grade=*, notes=***ERROR Maximum Mastery Course Attempts
+File: 2024-346-PMM.xml
+Unsuccessful registration for student 80000001 in course M-80001. Error code: -200. Error: Student has exceeded maximum attempts on mastery course.
+
+Extracted values: type=1, studentNo=80000001, courseNo=G-800011, registrationNo=*, grade=*, notes=Good registration
+File: 2024-346-PMM.xml
+Unsuccessful registration for student 80000001 in course G-800011. Error code: -100. Error: Student cannot register for a course in which there is already an ungraded registration.
+
+Extracted values: type=1, studentNo=80000001, courseNo=G-800009, registrationNo=*, grade=*, notes=Good Registration
+File: 2024-346-PMM.xml
+Unsuccessful registration for student 80000001 in course G-800009. Error code: -100. Error: Student cannot register for a course in which there is already an ungraded registration.
+
+Extracted values: type=1, studentNo=80000002, courseNo=M-80008, registrationNo=*, grade=*, notes=***ERROR*** Maximum attempts for mastery course
+File: 2024-346-PMM.xml
+Unsuccessful registration for student 80000002 in course M-80008. Error code: -100. Error: Student cannot register for a course in which there is already an ungraded registration.
+
+Extracted values: type=1, studentNo=80000002, courseNo=G-800012, registrationNo=*, grade=*, notes=Good Registration
+File: 2024-346-PMM.xml
+Unsuccessful registration for student 80000002 in course G-800012. Error code: -100. Error: Student cannot register for a course in which there is already an ungraded registration.
+
+
+-------ERROR-------
+File: 2024-346-PMM.xml
+Program: PMM
+Student Number: 80000001
+Course Number: G-800012
+Registration Number: *
+Type: 1
+Grade: @
+Notes: ***ERROR*** Invalid Grade Value
+Node Count: 7
+ErrorMessage: Grade element must be numeric or have the value of '*'.
+-------------------
+-------ERROR-------
+File: 2024-346-PMM.xml
+Program: PMM
+Student Number: 80000001
+Course Number: G-800010
+Registration Number: *
+Type: 1
+Grade: 100
+Notes: ***ERROR***  Grade for Type 1 should be a *
+Node Count: 7
+ErrorMessage: Grade element must be '*' for type 1 and between 0 and 100 inclusive for type 2.
+-------------------
+-------ERROR-------
+File: 2024-346-PMM.xml
+Program: PMM
+Student Number: 80000002
+Course Number: D-12345
+Registration Number: *
+Type: 1
+Grade: *
+Notes: ***ERROR*** Course does not exist
+Node Count: 7
+ErrorMessage: Course number must be '*' for type 2 or exist in the database for type 1.
+-------------------
+-------ERROR-------
+File: 2024-346-PMM.xml
+Program: PMM
+Student Number: 80000001
+Course Number: G-800010
+Registration Number: 2001
+Type: 2
+Grade: 22
+Notes: ***ERROR*** Course for Type 2 should be a *
+Node Count: 7
+ErrorMessage: Course number must be '*' for type 2 or exist in the database for type 1.
+-------------------
+Extracted values: type=2, studentNo=80000001, courseNo=*, registrationNo=8004, grade=98, notes=Good grade update
+File: 2024-346-PMM.xml
+Successful grade update for student 80000001 in course *. Grade: 98. Notes: Good grade update
+
+Extracted values: type=2, studentNo=80000002, courseNo=*, registrationNo=8009, grade=50, notes=Good grade update
+File: 2024-346-PMM.xml
+Successful grade update for student 80000002 in course *. Grade: 50. Notes: Good grade update
+
+Extracted values: type=1, studentNo=80000001, courseNo=M-80001, registrationNo=*, grade=*, notes=***ERROR Maximum Mastery Course Attempts
+File: 2024-346-PMM.xml
+Unsuccessful registration for student 80000001 in course M-80001. Error code: -200. Error: Student has exceeded maximum attempts on mastery course.
+
+Extracted values: type=1, studentNo=80000001, courseNo=G-800011, registrationNo=*, grade=*, notes=Good registration
+File: 2024-346-PMM.xml
+Unsuccessful registration for student 80000001 in course G-800011. Error code: -100. Error: Student cannot register for a course in which there is already an ungraded registration.
+
+Extracted values: type=1, studentNo=80000001, courseNo=G-800009, registrationNo=*, grade=*, notes=Good Registration
+File: 2024-346-PMM.xml
+Unsuccessful registration for student 80000001 in course G-800009. Error code: -100. Error: Student cannot register for a course in which there is already an ungraded registration.
+
+Extracted values: type=1, studentNo=80000002, courseNo=M-80008, registrationNo=*, grade=*, notes=***ERROR*** Maximum attempts for mastery course
+File: 2024-346-PMM.xml
+Unsuccessful registration for student 80000002 in course M-80008. Error code: -100. Error: Student cannot register for a course in which there is already an ungraded registration.
+
+Extracted values: type=1, studentNo=80000002, courseNo=G-800012, registrationNo=*, grade=*, notes=Good Registration
+File: 2024-346-PMM.xml
+Unsuccessful registration for student 80000002 in course G-800012. Error code: -100. Error: Student cannot register for a course in which there is already an ungraded registration.
+
+
+-------ERROR-------
+File: 2024-346-PMM.xml
+Program: PMM
+Student Number: 80000001
+Course Number: G-800012
+Registration Number: *
+Type: 1
+Grade: @
+Notes: ***ERROR*** Invalid Grade Value
+Node Count: 7
+ErrorMessage: Grade element must be numeric or have the value of '*'.
+-------------------
+-------ERROR-------
+File: 2024-346-PMM.xml
+Program: PMM
+Student Number: 80000001
+Course Number: G-800010
+Registration Number: *
+Type: 1
+Grade: 100
+Notes: ***ERROR***  Grade for Type 1 should be a *
+Node Count: 7
+ErrorMessage: Grade element must be '*' for type 1 and between 0 and 100 inclusive for type 2.
+-------------------
+-------ERROR-------
+File: 2024-346-PMM.xml
+Program: PMM
+Student Number: 80000002
+Course Number: D-12345
+Registration Number: *
+Type: 1
+Grade: *
+Notes: ***ERROR*** Course does not exist
+Node Count: 7
+ErrorMessage: Course number must be '*' for type 2 or exist in the database for type 1.
+-------------------
+-------ERROR-------
+File: 2024-346-PMM.xml
+Program: PMM
+Student Number: 80000001
+Course Number: G-800010
+Registration Number: 2001
+Type: 2
+Grade: 22
+Notes: ***ERROR*** Course for Type 2 should be a *
+Node Count: 7
+ErrorMessage: Course number must be '*' for type 2 or exist in the database for type 1.
+-------------------
+Extracted values: type=2, studentNo=80000001, courseNo=*, registrationNo=8004, grade=98, notes=Good grade update
+File: 2024-346-PMM.xml
+Successful grade update for student 80000001 in course *. Grade: 98. Notes: Good grade update
+
+Extracted values: type=2, studentNo=80000002, courseNo=*, registrationNo=8009, grade=50, notes=Good grade update
+File: 2024-346-PMM.xml
+Successful grade update for student 80000002 in course *. Grade: 50. Notes: Good grade update
+
+Extracted values: type=1, studentNo=80000001, courseNo=M-80001, registrationNo=*, grade=*, notes=***ERROR Maximum Mastery Course Attempts
+File: 2024-346-PMM.xml
+Unsuccessful registration for student 80000001 in course M-80001. Error code: -200. Error: Student has exceeded maximum attempts on mastery course.
+
+Extracted values: type=1, studentNo=80000001, courseNo=G-800011, registrationNo=*, grade=*, notes=Good registration
+File: 2024-346-PMM.xml
+Unsuccessful registration for student 80000001 in course G-800011. Error code: -300. Error: An error has occurred while updating the registration.
+
+Extracted values: type=1, studentNo=80000001, courseNo=G-800009, registrationNo=*, grade=*, notes=Good Registration
+File: 2024-346-PMM.xml
+Unsuccessful registration for student 80000001 in course G-800009. Error code: -300. Error: An error has occurred while updating the registration.
+
+Extracted values: type=1, studentNo=80000002, courseNo=M-80008, registrationNo=*, grade=*, notes=***ERROR*** Maximum attempts for mastery course
+File: 2024-346-PMM.xml
+Unsuccessful registration for student 80000002 in course M-80008. Error code: -100. Error: Student cannot register for a course in which there is already an ungraded registration.
+
+Extracted values: type=1, studentNo=80000002, courseNo=G-800012, registrationNo=*, grade=*, notes=Good Registration
+File: 2024-346-PMM.xml
+Unsuccessful registration for student 80000002 in course G-800012. Error code: -300. Error: An error has occurred while updating the registration.
+
+
+-------ERROR-------
+File: 2024-346-PMM.xml
+Program: PMM
+Student Number: 80000001
+Course Number: G-800012
+Registration Number: *
+Type: 1
+Grade: @
+Notes: ***ERROR*** Invalid Grade Value
+Node Count: 7
+ErrorMessage: Grade element must be numeric or have the value of '*'.
+-------------------
+-------ERROR-------
+File: 2024-346-PMM.xml
+Program: PMM
+Student Number: 80000001
+Course Number: G-800010
+Registration Number: *
+Type: 1
+Grade: 100
+Notes: ***ERROR***  Grade for Type 1 should be a *
+Node Count: 7
+ErrorMessage: Grade element must be '*' for type 1 and between 0 and 100 inclusive for type 2.
+-------------------
+-------ERROR-------
+File: 2024-346-PMM.xml
+Program: PMM
+Student Number: 80000002
+Course Number: D-12345
+Registration Number: *
+Type: 1
+Grade: *
+Notes: ***ERROR*** Course does not exist
+Node Count: 7
+ErrorMessage: Course number must be '*' for type 2 or exist in the database for type 1.
+-------------------
+-------ERROR-------
+File: 2024-346-PMM.xml
+Program: PMM
+Student Number: 80000001
+Course Number: G-800010
+Registration Number: 2001
+Type: 2
+Grade: 22
+Notes: ***ERROR*** Course for Type 2 should be a *
+Node Count: 7
+ErrorMessage: Course number must be '*' for type 2 or exist in the database for type 1.
+-------------------
+Extracted values: type=2, studentNo=80000001, courseNo=*, registrationNo=8004, grade=98, notes=Good grade update
+File: 2024-346-PMM.xml
+Successful grade update for student 80000001 in course *. Grade: 98. Notes: Good grade update
+
+Extracted values: type=2, studentNo=80000002, courseNo=*, registrationNo=8009, grade=50, notes=Good grade update
+File: 2024-346-PMM.xml
+Successful grade update for student 80000002 in course *. Grade: 50. Notes: Good grade update
+
+Extracted values: type=1, studentNo=80000001, courseNo=M-80001, registrationNo=*, grade=*, notes=***ERROR Maximum Mastery Course Attempts
+File: 2024-346-PMM.xml
+Unsuccessful registration for student 80000001 in course M-80001. Error code: -200. Error: Student has exceeded maximum attempts on mastery course.
+
+Extracted values: type=1, studentNo=80000001, courseNo=G-800011, registrationNo=*, grade=*, notes=Good registration
+File: 2024-346-PMM.xml
+Unsuccessful registration for student 80000001 in course G-800011. Error code: -300. Error: An error has occurred while updating the registration.
+
+Extracted values: type=1, studentNo=80000001, courseNo=G-800009, registrationNo=*, grade=*, notes=Good Registration
+File: 2024-346-PMM.xml
+Unsuccessful registration for student 80000001 in course G-800009. Error code: -300. Error: An error has occurred while updating the registration.
+
+Extracted values: type=1, studentNo=80000002, courseNo=M-80008, registrationNo=*, grade=*, notes=***ERROR*** Maximum attempts for mastery course
+File: 2024-346-PMM.xml
+Unsuccessful registration for student 80000002 in course M-80008. Error code: -100. Error: Student cannot register for a course in which there is already an ungraded registration.
+
+Extracted values: type=1, studentNo=80000002, courseNo=G-800012, registrationNo=*, grade=*, notes=Good Registration
+File: 2024-346-PMM.xml
+Unsuccessful registration for student 80000002 in course G-800012. Error code: -300. Error: An error has occurred while updating the registration.
+
+
+-------ERROR-------
+File: 2024-346-PMM.xml
+Program: PMM
+Student Number: 80000001
+Course Number: G-800012
+Registration Number: *
+Type: 1
+Grade: @
+Notes: ***ERROR*** Invalid Grade Value
+Node Count: 7
+ErrorMessage: Grade element must be numeric or have the value of '*'.
+-------------------
+-------ERROR-------
+File: 2024-346-PMM.xml
+Program: PMM
+Student Number: 80000001
+Course Number: G-800010
+Registration Number: *
+Type: 1
+Grade: 100
+Notes: ***ERROR***  Grade for Type 1 should be a *
+Node Count: 7
+ErrorMessage: Grade element must be '*' for type 1 and between 0 and 100 inclusive for type 2.
+-------------------
+-------ERROR-------
+File: 2024-346-PMM.xml
+Program: PMM
+Student Number: 80000002
+Course Number: D-12345
+Registration Number: *
+Type: 1
+Grade: *
+Notes: ***ERROR*** Course does not exist
+Node Count: 7
+ErrorMessage: Course number must be '*' for type 2 or exist in the database for type 1.
+-------------------
+-------ERROR-------
+File: 2024-346-PMM.xml
+Program: PMM
+Student Number: 80000001
+Course Number: G-800010
+Registration Number: 2001
+Type: 2
+Grade: 22
+Notes: ***ERROR*** Course for Type 2 should be a *
+Node Count: 7
+ErrorMessage: Course number must be '*' for type 2 or exist in the database for type 1.
+-------------------
+Extracted values: type=2, studentNo=80000001, courseNo=*, registrationNo=8004, grade=98, notes=Good grade update
+File: 2024-346-PMM.xml
+Successful grade update for student 80000001 in course *. Grade: 98. Notes: Good grade update
+
+Extracted values: type=2, studentNo=80000002, courseNo=*, registrationNo=8009, grade=50, notes=Good grade update
+File: 2024-346-PMM.xml
+Successful grade update for student 80000002 in course *. Grade: 50. Notes: Good grade update
+
+Extracted values: type=1, studentNo=80000001, courseNo=M-80001, registrationNo=*, grade=*, notes=***ERROR Maximum Mastery Course Attempts
+File: 2024-346-PMM.xml
+Unsuccessful registration for student 80000001 in course M-80001. Error code: -200. Error: Student has exceeded maximum attempts on mastery course.
+
+Extracted values: type=1, studentNo=80000001, courseNo=G-800011, registrationNo=*, grade=*, notes=Good registration
+File: 2024-346-PMM.xml
+Unsuccessful registration for student 80000001 in course G-800011. Error code: -300. Error: An error has occurred while updating the registration.
+
+Extracted values: type=1, studentNo=80000001, courseNo=G-800009, registrationNo=*, grade=*, notes=Good Registration
+File: 2024-346-PMM.xml
+Unsuccessful registration for student 80000001 in course G-800009. Error code: -300. Error: An error has occurred while updating the registration.
+
+Extracted values: type=1, studentNo=80000002, courseNo=M-80008, registrationNo=*, grade=*, notes=***ERROR*** Maximum attempts for mastery course
+File: 2024-346-PMM.xml
+Unsuccessful registration for student 80000002 in course M-80008. Error code: -100. Error: Student cannot register for a course in which there is already an ungraded registration.
+
+Extracted values: type=1, studentNo=80000002, courseNo=G-800012, registrationNo=*, grade=*, notes=Good Registration
+File: 2024-346-PMM.xml
+Unsuccessful registration for student 80000002 in course G-800012. Error code: -300. Error: An error has occurred while updating the registration.
+
+
+-------ERROR-------
+File: 2024-346-PMM.xml
+Program: PMM
+Student Number: 80000001
+Course Number: G-800012
+Registration Number: *
+Type: 1
+Grade: @
+Notes: ***ERROR*** Invalid Grade Value
+Node Count: 7
+ErrorMessage: Grade element must be numeric or have the value of '*'.
+-------------------
+-------ERROR-------
+File: 2024-346-PMM.xml
+Program: PMM
+Student Number: 80000001
+Course Number: G-800010
+Registration Number: *
+Type: 1
+Grade: 100
+Notes: ***ERROR***  Grade for Type 1 should be a *
+Node Count: 7
+ErrorMessage: Grade element must be '*' for type 1 and between 0 and 100 inclusive for type 2.
+-------------------
+-------ERROR-------
+File: 2024-346-PMM.xml
+Program: PMM
+Student Number: 80000002
+Course Number: D-12345
+Registration Number: *
+Type: 1
+Grade: *
+Notes: ***ERROR*** Course does not exist
+Node Count: 7
+ErrorMessage: Course number must be '*' for type 2 or exist in the database for type 1.
+-------------------
+-------ERROR-------
+File: 2024-346-PMM.xml
+Program: PMM
+Student Number: 80000001
+Course Number: G-800010
+Registration Number: 2001
+Type: 2
+Grade: 22
+Notes: ***ERROR*** Course for Type 2 should be a *
+Node Count: 7
+ErrorMessage: Course number must be '*' for type 2 or exist in the database for type 1.
+-------------------
+Extracted values: type=2, studentNo=80000001, courseNo=*, registrationNo=8004, grade=98, notes=Good grade update
+File: 2024-346-PMM.xml
+Successful grade update for student 80000001 in course *. Grade: 98. Notes: Good grade update
+
+Extracted values: type=2, studentNo=80000002, courseNo=*, registrationNo=8009, grade=50, notes=Good grade update
+File: 2024-346-PMM.xml
+Successful grade update for student 80000002 in course *. Grade: 50. Notes: Good grade update
+
+Extracted values: type=1, studentNo=80000001, courseNo=M-80001, registrationNo=*, grade=*, notes=***ERROR Maximum Mastery Course Attempts
+File: 2024-346-PMM.xml
+Unsuccessful registration for student 80000001 in course M-80001. Error code: -200. Error: Student has exceeded maximum attempts on mastery course.
+
+Extracted values: type=1, studentNo=80000001, courseNo=G-800011, registrationNo=*, grade=*, notes=Good registration
+File: 2024-346-PMM.xml
+Unsuccessful registration for student 80000001 in course G-800011. Error code: -300. Error: An error has occurred while updating the registration.
+
+Extracted values: type=1, studentNo=80000001, courseNo=G-800009, registrationNo=*, grade=*, notes=Good Registration
+File: 2024-346-PMM.xml
+Unsuccessful registration for student 80000001 in course G-800009. Error code: -300. Error: An error has occurred while updating the registration.
+
+Extracted values: type=1, studentNo=80000002, courseNo=M-80008, registrationNo=*, grade=*, notes=***ERROR*** Maximum attempts for mastery course
+File: 2024-346-PMM.xml
+Unsuccessful registration for student 80000002 in course M-80008. Error code: -100. Error: Student cannot register for a course in which there is already an ungraded registration.
+
+Extracted values: type=1, studentNo=80000002, courseNo=G-800012, registrationNo=*, grade=*, notes=Good Registration
+File: 2024-346-PMM.xml
+Unsuccessful registration for student 80000002 in course G-800012. Error code: -300. Error: An error has occurred while updating the registration.
+
+
+-------ERROR-------
+File: 2024-346-PMM.xml
+Program: PMM
+Student Number: 80000001
+Course Number: G-800012
+Registration Number: *
+Type: 1
+Grade: @
+Notes: ***ERROR*** Invalid Grade Value
+Node Count: 7
+ErrorMessage: Grade element must be numeric or have the value of '*'.
+-------------------
+-------ERROR-------
+File: 2024-346-PMM.xml
+Program: PMM
+Student Number: 80000001
+Course Number: G-800010
+Registration Number: *
+Type: 1
+Grade: 100
+Notes: ***ERROR***  Grade for Type 1 should be a *
+Node Count: 7
+ErrorMessage: Grade element must be '*' for type 1 and between 0 and 100 inclusive for type 2.
+-------------------
+-------ERROR-------
+File: 2024-346-PMM.xml
+Program: PMM
+Student Number: 80000002
+Course Number: D-12345
+Registration Number: *
+Type: 1
+Grade: *
+Notes: ***ERROR*** Course does not exist
+Node Count: 7
+ErrorMessage: Course number must be '*' for type 2 or exist in the database for type 1.
+-------------------
+-------ERROR-------
+File: 2024-346-PMM.xml
+Program: PMM
+Student Number: 80000001
+Course Number: G-800010
+Registration Number: 2001
+Type: 2
+Grade: 22
+Notes: ***ERROR*** Course for Type 2 should be a *
+Node Count: 7
+ErrorMessage: Course number must be '*' for type 2 or exist in the database for type 1.
+-------------------
+Extracted values: type=2, studentNo=80000001, courseNo=*, registrationNo=8004, grade=98, notes=Good grade update
+File: 2024-346-PMM.xml
+Successful grade update for student 80000001 in course *. Grade: 98. Notes: Good grade update
+
+Extracted values: type=2, studentNo=80000002, courseNo=*, registrationNo=8009, grade=50, notes=Good grade update
+File: 2024-346-PMM.xml
+Successful grade update for student 80000002 in course *. Grade: 50. Notes: Good grade update
+
+Extracted values: type=1, studentNo=80000001, courseNo=M-80001, registrationNo=*, grade=*, notes=***ERROR Maximum Mastery Course Attempts
+File: 2024-346-PMM.xml
+Unsuccessful registration for student 80000001 in course M-80001. Error code: -200. Error: Student has exceeded maximum attempts on mastery course.
+
+Extracted values: type=1, studentNo=80000001, courseNo=G-800011, registrationNo=*, grade=*, notes=Good registration
+File: 2024-346-PMM.xml
+Successful registration for student 80000001 in course G-800011. Notes: Good registration
+
+Extracted values: type=1, studentNo=80000001, courseNo=G-800009, registrationNo=*, grade=*, notes=Good Registration
+File: 2024-346-PMM.xml
+Successful registration for student 80000001 in course G-800009. Notes: Good Registration
+
+Extracted values: type=1, studentNo=80000002, courseNo=M-80008, registrationNo=*, grade=*, notes=***ERROR*** Maximum attempts for mastery course
+File: 2024-346-PMM.xml
+Unsuccessful registration for student 80000002 in course M-80008. Error code: -100. Error: Student cannot register for a course in which there is already an ungraded registration.
+
+Extracted values: type=1, studentNo=80000002, courseNo=G-800012, registrationNo=*, grade=*, notes=Good Registration
+File: 2024-346-PMM.xml
+Successful registration for student 80000002 in course G-800012. Notes: Good Registration
+
+
+-------ERROR-------
+File: 2024-346-PMM.xml
+Program: PMM
+Student Number: 80000001
+Course Number: G-800012
+Registration Number: *
+Type: 1
+Grade: @
+Notes: ***ERROR*** Invalid Grade Value
+Node Count: 7
+ErrorMessage: Grade element must be numeric or have the value of '*'.
+-------------------
+-------ERROR-------
+File: 2024-346-PMM.xml
+Program: PMM
+Student Number: 80000001
+Course Number: G-800010
+Registration Number: *
+Type: 1
+Grade: 100
+Notes: ***ERROR***  Grade for Type 1 should be a *
+Node Count: 7
+ErrorMessage: Grade element must be '*' for type 1 and between 0 and 100 inclusive for type 2.
+-------------------
+-------ERROR-------
+File: 2024-346-PMM.xml
+Program: PMM
+Student Number: 80000002
+Course Number: D-12345
+Registration Number: *
+Type: 1
+Grade: *
+Notes: ***ERROR*** Course does not exist
+Node Count: 7
+ErrorMessage: Course number must be '*' for type 2 or exist in the database for type 1.
+-------------------
+-------ERROR-------
+File: 2024-346-PMM.xml
+Program: PMM
+Student Number: 80000001
+Course Number: G-800010
+Registration Number: 2001
+Type: 2
+Grade: 22
+Notes: ***ERROR*** Course for Type 2 should be a *
+Node Count: 7
+ErrorMessage: Course number must be '*' for type 2 or exist in the database for type 1.
+-------------------
+Extracted values: type=2, studentNo=80000001, courseNo=*, registrationNo=8004, grade=98, notes=Good grade update
+File: 2024-346-PMM.xml
+Successful grade update for student 80000001 in course *. Grade: 98. Notes: Good grade update
+
+Extracted values: type=2, studentNo=80000002, courseNo=*, registrationNo=8009, grade=50, notes=Good grade update
+File: 2024-346-PMM.xml
+Successful grade update for student 80000002 in course *. Grade: 50. Notes: Good grade update
+
+Extracted values: type=1, studentNo=80000001, courseNo=M-80001, registrationNo=*, grade=*, notes=***ERROR Maximum Mastery Course Attempts
+File: 2024-346-PMM.xml
+Unsuccessful registration for student 80000001 in course M-80001. Error code: -200. Error: Student has exceeded maximum attempts on mastery course.
+
+Extracted values: type=1, studentNo=80000001, courseNo=G-800011, registrationNo=*, grade=*, notes=Good registration
+File: 2024-346-PMM.xml
+Unsuccessful registration for student 80000001 in course G-800011. Error code: -100. Error: Student cannot register for a course in which there is already an ungraded registration.
+
+Extracted values: type=1, studentNo=80000001, courseNo=G-800009, registrationNo=*, grade=*, notes=Good Registration
+File: 2024-346-PMM.xml
+Unsuccessful registration for student 80000001 in course G-800009. Error code: -100. Error: Student cannot register for a course in which there is already an ungraded registration.
+
+Extracted values: type=1, studentNo=80000002, courseNo=M-80008, registrationNo=*, grade=*, notes=***ERROR*** Maximum attempts for mastery course
+File: 2024-346-PMM.xml
+Unsuccessful registration for student 80000002 in course M-80008. Error code: -100. Error: Student cannot register for a course in which there is already an ungraded registration.
+
+Extracted values: type=1, studentNo=80000002, courseNo=G-800012, registrationNo=*, grade=*, notes=Good Registration
+File: 2024-346-PMM.xml
+Unsuccessful registration for student 80000002 in course G-800012. Error code: -100. Error: Student cannot register for a course in which there is already an ungraded registration.
+
+
+-------ERROR-------
+File: 2024-346-PMM.xml
+Program: PMM
+Student Number: 80000001
+Course Number: G-800012
+Registration Number: *
+Type: 1
+Grade: @
+Notes: ***ERROR*** Invalid Grade Value
+Node Count: 7
+ErrorMessage: Grade element must be numeric or have the value of '*'.
+-------------------
+-------ERROR-------
+File: 2024-346-PMM.xml
+Program: PMM
+Student Number: 80000001
+Course Number: G-800010
+Registration Number: *
+Type: 1
+Grade: 100
+Notes: ***ERROR***  Grade for Type 1 should be a *
+Node Count: 7
+ErrorMessage: Grade element must be '*' for type 1 and between 0 and 100 inclusive for type 2.
+-------------------
+-------ERROR-------
+File: 2024-346-PMM.xml
+Program: PMM
+Student Number: 80000002
+Course Number: D-12345
+Registration Number: *
+Type: 1
+Grade: *
+Notes: ***ERROR*** Course does not exist
+Node Count: 7
+ErrorMessage: Course number must be '*' for type 2 or exist in the database for type 1.
+-------------------
+-------ERROR-------
+File: 2024-346-PMM.xml
+Program: PMM
+Student Number: 80000001
+Course Number: G-800010
+Registration Number: 2001
+Type: 2
+Grade: 22
+Notes: ***ERROR*** Course for Type 2 should be a *
+Node Count: 7
+ErrorMessage: Course number must be '*' for type 2 or exist in the database for type 1.
+-------------------
+File: 2024-346-PMM.xml
+Successful grade update for student 80000001 in course *. Grade: 98. Notes: Good grade update
+
+File: 2024-346-PMM.xml
+Successful grade update for student 80000002 in course *. Grade: 50. Notes: Good grade update
+
+File: 2024-346-PMM.xml
+Unsuccessful registration for student 80000001 in course M-80001. Error code: -200. Error: Student has exceeded maximum attempts on mastery course.
+
+File: 2024-346-PMM.xml
+Unsuccessful registration for student 80000001 in course G-800011. Error code: -100. Error: Student cannot register for a course in which there is already an ungraded registration.
+
+File: 2024-346-PMM.xml
+Unsuccessful registration for student 80000001 in course G-800009. Error code: -100. Error: Student cannot register for a course in which there is already an ungraded registration.
+
+File: 2024-346-PMM.xml
+Unsuccessful registration for student 80000002 in course M-80008. Error code: -100. Error: Student cannot register for a course in which there is already an ungraded registration.
+
+File: 2024-346-PMM.xml
+Unsuccessful registration for student 80000002 in course G-800012. Error code: -100. Error: Student cannot register for a course in which there is already an ungraded registration.
+
+
+-------ERROR-------
+File: 2024-346-PMM.xml
+Program: PMM
+Student Number: 80000001
+Course Number: G-800012
+Registration Number: *
+Type: 1
+Grade: @
+Notes: ***ERROR*** Invalid Grade Value
+Node Count: 7
+ErrorMessage: Grade element must be numeric or have the value of '*'.
+-------------------
+-------ERROR-------
+File: 2024-346-PMM.xml
+Program: PMM
+Student Number: 80000001
+Course Number: G-800010
+Registration Number: *
+Type: 1
+Grade: 100
+Notes: ***ERROR***  Grade for Type 1 should be a *
+Node Count: 7
+ErrorMessage: Grade element must be '*' for type 1 and between 0 and 100 inclusive for type 2.
+-------------------
+-------ERROR-------
+File: 2024-346-PMM.xml
+Program: PMM
+Student Number: 80000002
+Course Number: D-12345
+Registration Number: *
+Type: 1
+Grade: *
+Notes: ***ERROR*** Course does not exist
+Node Count: 7
+ErrorMessage: Course number must be '*' for type 2 or exist in the database for type 1.
+-------------------
+-------ERROR-------
+File: 2024-346-PMM.xml
+Program: PMM
+Student Number: 80000001
+Course Number: G-800010
+Registration Number: 2001
+Type: 2
+Grade: 22
+Notes: ***ERROR*** Course for Type 2 should be a *
+Node Count: 7
+ErrorMessage: Course number must be '*' for type 2 or exist in the database for type 1.
+-------------------
+File: 2024-346-PMM.xml
+Successful grade update for student 80000001 in course *. Grade: 98. Notes: Good grade update
+
+File: 2024-346-PMM.xml
+Successful grade update for student 80000002 in course *. Grade: 50. Notes: Good grade update
+
+File: 2024-346-PMM.xml
+Unsuccessful registration for student 80000001 in course M-80001. Error code: -200. Error: Student has exceeded maximum attempts on mastery course.
+
+File: 2024-346-PMM.xml
+Unsuccessful registration for student 80000001 in course G-800011. Error code: -100. Error: Student cannot register for a course in which there is already an ungraded registration.
+
+File: 2024-346-PMM.xml
+Unsuccessful registration for student 80000001 in course G-800009. Error code: -100. Error: Student cannot register for a course in which there is already an ungraded registration.
+
+File: 2024-346-PMM.xml
+Unsuccessful registration for student 80000002 in course M-80008. Error code: -100. Error: Student cannot register for a course in which there is already an ungraded registration.
+
+File: 2024-346-PMM.xml
+Unsuccessful registration for student 80000002 in course G-800012. Error code: -100. Error: Student cannot register for a course in which there is already an ungraded registration.
+
+
+-------ERROR-------
+File: 2024-346-PMM.xml
+Program: PMM
+Student Number: 80000001
+Course Number: G-800012
+Registration Number: *
+Type: 1
+Grade: @
+Notes: ***ERROR*** Invalid Grade Value
+Node Count: 7
+ErrorMessage: Grade element must be numeric or have the value of '*'.
+-------------------
+-------ERROR-------
+File: 2024-346-PMM.xml
+Program: PMM
+Student Number: 80000001
+Course Number: G-800010
+Registration Number: *
+Type: 1
+Grade: 100
+Notes: ***ERROR***  Grade for Type 1 should be a *
+Node Count: 7
+ErrorMessage: Grade element must be '*' for type 1 and between 0 and 100 inclusive for type 2.
+-------------------
+-------ERROR-------
+File: 2024-346-PMM.xml
+Program: PMM
+Student Number: 80000002
+Course Number: D-12345
+Registration Number: *
+Type: 1
+Grade: *
+Notes: ***ERROR*** Course does not exist
+Node Count: 7
+ErrorMessage: Course number must be '*' for type 2 or exist in the database for type 1.
+-------------------
+-------ERROR-------
+File: 2024-346-PMM.xml
+Program: PMM
+Student Number: 80000001
+Course Number: G-800010
+Registration Number: 2001
+Type: 2
+Grade: 22
+Notes: ***ERROR*** Course for Type 2 should be a *
+Node Count: 7
+ErrorMessage: Course number must be '*' for type 2 or exist in the database for type 1.
+-------------------
+File: 2024-346-PMM.xml
+Successful grade update for student 80000001 in course *. Grade: 98. Notes: Good grade update
+
+File: 2024-346-PMM.xml
+Successful grade update for student 80000002 in course *. Grade: 50. Notes: Good grade update
+
+File: 2024-346-PMM.xml
+Unsuccessful registration for student 80000001 in course M-80001. Error code: -200. Error: Student has exceeded maximum attempts on mastery course.
+
+File: 2024-346-PMM.xml
+Unsuccessful registration for student 80000001 in course G-800011. Error code: -300. Error: An error has occurred while updating the registration.
+
+File: 2024-346-PMM.xml
+Successful registration for student 80000001 in course G-800009. Notes: Good Registration
+
+File: 2024-346-PMM.xml
+Unsuccessful registration for student 80000002 in course M-80008. Error code: -100. Error: Student cannot register for a course in which there is already an ungraded registration.
+
+File: 2024-346-PMM.xml
+Successful registration for student 80000002 in course G-800012. Notes: Good Registration
+
+
+-------ERROR-------
+File: 2024-346-PMM.xml
+Program: PMM
+Student Number: 80000001
+Course Number: G-800012
+Registration Number: *
+Type: 1
+Grade: @
+Notes: ***ERROR*** Invalid Grade Value
+Node Count: 7
+ErrorMessage: Grade element must be numeric or have the value of '*'.
+-------------------
+-------ERROR-------
+File: 2024-346-PMM.xml
+Program: PMM
+Student Number: 80000001
+Course Number: G-800010
+Registration Number: *
+Type: 1
+Grade: 100
+Notes: ***ERROR***  Grade for Type 1 should be a *
+Node Count: 7
+ErrorMessage: Grade element must be '*' for type 1 and between 0 and 100 inclusive for type 2.
+-------------------
+-------ERROR-------
+File: 2024-346-PMM.xml
+Program: PMM
+Student Number: 80000001
+Course Number: *
+Registration Number: 8004
+Type: 2
+Grade: 98
+Notes: Good grade update
+Node Count: 7
+ErrorMessage: Student number must exist in the database.
+-------------------
+-------ERROR-------
+File: 2024-346-PMM.xml
+Program: PMM
+Student Number: 80000002
+Course Number: *
+Registration Number: 8009
+Type: 2
+Grade: 50
+Notes: Good grade update
+Node Count: 7
+ErrorMessage: Student number must exist in the database.
+-------------------
+-------ERROR-------
+File: 2024-346-PMM.xml
+Program: PMM
+Student Number: 80000001
+Course Number: M-80001
+Registration Number: *
+Type: 1
+Grade: *
+Notes: ***ERROR Maximum Mastery Course Attempts
+Node Count: 7
+ErrorMessage: Student number must exist in the database.
+-------------------
+-------ERROR-------
+File: 2024-346-PMM.xml
+Program: PMM
+Student Number: 80000002
+Course Number: D-12345
+Registration Number: *
+Type: 1
+Grade: *
+Notes: ***ERROR*** Course does not exist
+Node Count: 7
+ErrorMessage: Student number must exist in the database.
+-------------------
+-------ERROR-------
+File: 2024-346-PMM.xml
+Program: PMM
+Student Number: 80000001
+Course Number: G-800011
+Registration Number: *
+Type: 1
+Grade: *
+Notes: Good registration
+Node Count: 7
+ErrorMessage: Student number must exist in the database.
+-------------------
+-------ERROR-------
+File: 2024-346-PMM.xml
+Program: PMM
+Student Number: 80000001
+Course Number: G-800010
+Registration Number: 2001
+Type: 2
+Grade: 22
+Notes: ***ERROR*** Course for Type 2 should be a *
+Node Count: 7
+ErrorMessage: Student number must exist in the database.
+-------------------
+-------ERROR-------
+File: 2024-346-PMM.xml
+Program: PMM
+Student Number: 80000001
+Course Number: G-800009
+Registration Number: *
+Type: 1
+Grade: *
+Notes: Good Registration
+Node Count: 7
+ErrorMessage: Student number must exist in the database.
+-------------------
+-------ERROR-------
+File: 2024-346-PMM.xml
+Program: PMM
+Student Number: 80000002
+Course Number: M-80008
+Registration Number: *
+Type: 1
+Grade: *
+Notes: ***ERROR*** Maximum attempts for mastery course
+Node Count: 7
+ErrorMessage: Student number must exist in the database.
+-------------------
+-------ERROR-------
+File: 2024-346-PMM.xml
+Program: PMM
+Student Number: 80000002
+Course Number: G-800012
+Registration Number: *
+Type: 1
+Grade: *
+Notes: Good Registration
+Node Count: 7
+ErrorMessage: Student number must exist in the database.
+-------------------
+
+-------ERROR-------
+File: 2024-346-PMM.xml
+Program: PMM
+Student Number: 80000001
+Course Number: G-800012
+Registration Number: *
+Type: 1
+Grade: @
+Notes: ***ERROR*** Invalid Grade Value
+Node Count: 7
+ErrorMessage: Grade element must be numeric or have the value of '*'.
+-------------------
+-------ERROR-------
+File: 2024-346-PMM.xml
+Program: PMM
+Student Number: 80000001
+Course Number: G-800010
+Registration Number: *
+Type: 1
+Grade: 100
+Notes: ***ERROR***  Grade for Type 1 should be a *
+Node Count: 7
+ErrorMessage: Grade element must be '*' for type 1 and between 0 and 100 inclusive for type 2.
+-------------------
+-------ERROR-------
+File: 2024-346-PMM.xml
+Program: PMM
+Student Number: 80000001
+Course Number: *
+Registration Number: 8004
+Type: 2
+Grade: 98
+Notes: Good grade update
+Node Count: 7
+ErrorMessage: Student number must exist in the database.
+-------------------
+-------ERROR-------
+File: 2024-346-PMM.xml
+Program: PMM
+Student Number: 80000002
+Course Number: *
+Registration Number: 8009
+Type: 2
+Grade: 50
+Notes: Good grade update
+Node Count: 7
+ErrorMessage: Student number must exist in the database.
+-------------------
+-------ERROR-------
+File: 2024-346-PMM.xml
+Program: PMM
+Student Number: 80000001
+Course Number: M-80001
+Registration Number: *
+Type: 1
+Grade: *
+Notes: ***ERROR Maximum Mastery Course Attempts
+Node Count: 7
+ErrorMessage: Student number must exist in the database.
+-------------------
+-------ERROR-------
+File: 2024-346-PMM.xml
+Program: PMM
+Student Number: 80000002
+Course Number: D-12345
+Registration Number: *
+Type: 1
+Grade: *
+Notes: ***ERROR*** Course does not exist
+Node Count: 7
+ErrorMessage: Student number must exist in the database.
+-------------------
+-------ERROR-------
+File: 2024-346-PMM.xml
+Program: PMM
+Student Number: 80000001
+Course Number: G-800011
+Registration Number: *
+Type: 1
+Grade: *
+Notes: Good registration
+Node Count: 7
+ErrorMessage: Student number must exist in the database.
+-------------------
+-------ERROR-------
+File: 2024-346-PMM.xml
+Program: PMM
+Student Number: 80000001
+Course Number: G-800010
+Registration Number: 2001
+Type: 2
+Grade: 22
+Notes: ***ERROR*** Course for Type 2 should be a *
+Node Count: 7
+ErrorMessage: Student number must exist in the database.
+-------------------
+-------ERROR-------
+File: 2024-346-PMM.xml
+Program: PMM
+Student Number: 80000001
+Course Number: G-800009
+Registration Number: *
+Type: 1
+Grade: *
+Notes: Good Registration
+Node Count: 7
+ErrorMessage: Student number must exist in the database.
+-------------------
+-------ERROR-------
+File: 2024-346-PMM.xml
+Program: PMM
+Student Number: 80000002
+Course Number: M-80008
+Registration Number: *
+Type: 1
+Grade: *
+Notes: ***ERROR*** Maximum attempts for mastery course
+Node Count: 7
+ErrorMessage: Student number must exist in the database.
+-------------------
+-------ERROR-------
+File: 2024-346-PMM.xml
+Program: PMM
+Student Number: 80000002
+Course Number: G-800012
+Registration Number: *
+Type: 1
+Grade: *
+Notes: Good Registration
+Node Count: 7
+ErrorMessage: Student number must exist in the database.
+-------------------
+
+-------ERROR-------
+File: 2024-346-PMM.xml
+Program: PMM
+Student Number: 80000001
+Course Number: G-800012
+Registration Number: *
+Type: 1
+Grade: @
+Notes: ***ERROR*** Invalid Grade Value
+Node Count: 7
+ErrorMessage: Grade element must be numeric or have the value of '*'.
+-------------------
+-------ERROR-------
+File: 2024-346-PMM.xml
+Program: PMM
+Student Number: 80000001
+Course Number: G-800010
+Registration Number: *
+Type: 1
+Grade: 100
+Notes: ***ERROR***  Grade for Type 1 should be a *
+Node Count: 7
+ErrorMessage: Grade element must be '*' for type 1 and between 0 and 100 inclusive for type 2.
+-------------------
+-------ERROR-------
+File: 2024-346-PMM.xml
+Program: PMM
+Student Number: 80000002
+Course Number: D-12345
+Registration Number: *
+Type: 1
+Grade: *
+Notes: ***ERROR*** Course does not exist
+Node Count: 7
+ErrorMessage: Course number must be '*' for type 2 or exist in the database for type 1.
+-------------------
+-------ERROR-------
+File: 2024-346-PMM.xml
+Program: PMM
+Student Number: 80000001
+Course Number: G-800010
+Registration Number: 2001
+Type: 2
+Grade: 22
+Notes: ***ERROR*** Course for Type 2 should be a *
+Node Count: 7
+ErrorMessage: Course number must be '*' for type 2 or exist in the database for type 1.
+-------------------
+File: 2024-346-PMM.xml
+Successful grade update for student 80000001 in course *. Grade: 98. Notes: Good grade update
+
+File: 2024-346-PMM.xml
+Successful grade update for student 80000002 in course *. Grade: 50. Notes: Good grade update
+
+File: 2024-346-PMM.xml
+Unsuccessful registration for student 80000001 in course M-80001. Error code: -200. Error: Student has exceeded maximum attempts on mastery course.
+
+File: 2024-346-PMM.xml
+Successful registration for student 80000001 in course G-800011. Notes: Good registration
+
+File: 2024-346-PMM.xml
+Successful registration for student 80000001 in course G-800009. Notes: Good Registration
+
+File: 2024-346-PMM.xml
+Unsuccessful registration for student 80000002 in course M-80008. Error code: -100. Error: Student cannot register for a course in which there is already an ungraded registration.
+
+File: 2024-346-PMM.xml
+Successful registration for student 80000002 in course G-800012. Notes: Good Registration
+

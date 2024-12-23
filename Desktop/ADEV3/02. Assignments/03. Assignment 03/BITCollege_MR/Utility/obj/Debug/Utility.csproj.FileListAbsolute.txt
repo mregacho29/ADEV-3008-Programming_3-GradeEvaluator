@@ -1,0 +1,24 @@
+C:\Users\lauri\Desktop\Programming 3\School\BITCollege_22\Utility\bin\Debug\Utility.dll
+C:\Users\lauri\Desktop\Programming 3\School\BITCollege_22\Utility\bin\Debug\Utility.pdb
+C:\Users\lauri\Desktop\Programming 3\School\BITCollege_22\Utility\obj\Debug\Utility.csproj.AssemblyReference.cache
+C:\Users\lauri\Desktop\Programming 3\School\BITCollege_22\Utility\obj\Debug\Utility.csproj.CoreCompileInputs.cache
+C:\Users\lauri\Desktop\Programming 3\School\BITCollege_22\Utility\obj\Debug\Utility.dll
+C:\Users\lauri\Desktop\Programming 3\School\BITCollege_22\Utility\obj\Debug\Utility.pdb
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\01. Assignment 01\BITCollege_MR\Utility\bin\Debug\Utility.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\01. Assignment 01\BITCollege_MR\Utility\bin\Debug\Utility.pdb
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\01. Assignment 01\BITCollege_MR\Utility\obj\Debug\Utility.csproj.AssemblyReference.cache
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\01. Assignment 01\BITCollege_MR\Utility\obj\Debug\Utility.csproj.CoreCompileInputs.cache
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\01. Assignment 01\BITCollege_MR\Utility\obj\Debug\Utility.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\01. Assignment 01\BITCollege_MR\Utility\obj\Debug\Utility.pdb
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\02. Assignment 02\BITCollege_MR\Utility\bin\Debug\Utility.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\02. Assignment 02\BITCollege_MR\Utility\bin\Debug\Utility.pdb
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\02. Assignment 02\BITCollege_MR\Utility\obj\Debug\Utility.csproj.AssemblyReference.cache
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\02. Assignment 02\BITCollege_MR\Utility\obj\Debug\Utility.csproj.CoreCompileInputs.cache
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\02. Assignment 02\BITCollege_MR\Utility\obj\Debug\Utility.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\02. Assignment 02\BITCollege_MR\Utility\obj\Debug\Utility.pdb
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\03. Assignment 03\BITCollege_MR\Utility\bin\Debug\Utility.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\03. Assignment 03\BITCollege_MR\Utility\bin\Debug\Utility.pdb
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\03. Assignment 03\BITCollege_MR\Utility\obj\Debug\Utility.csproj.AssemblyReference.cache
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\03. Assignment 03\BITCollege_MR\Utility\obj\Debug\Utility.csproj.CoreCompileInputs.cache
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\03. Assignment 03\BITCollege_MR\Utility\obj\Debug\Utility.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\03. Assignment 03\BITCollege_MR\Utility\obj\Debug\Utility.pdb

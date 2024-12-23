@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Crizza Lynne\\Desktop\\ADEV3\\02. Assignments\\04. Assignment 04\\BITCollege_MR\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E0BE79ED-BBB6-43AB-9B68-FBE4E9409E93}|BITCollege_MR\\BITCollege_MR.csproj|c:\\users\\crizza lynne\\desktop\\adev3\\02. assignments\\04. assignment 04\\bitcollege_mr\\bitcollege_mr\\models\\schoolmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0BE79ED-BBB6-43AB-9B68-FBE4E9409E93}|BITCollege_MR\\BITCollege_MR.csproj|solutionrelative:bitcollege_mr\\models\\schoolmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0BE79ED-BBB6-43AB-9B68-FBE4E9409E93}|BITCollege_MR\\BITCollege_MR.csproj|c:\\users\\crizza lynne\\desktop\\adev3\\02. assignments\\04. assignment 04\\bitcollege_mr\\bitcollege_mr\\migrations\\202410182149408_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0BE79ED-BBB6-43AB-9B68-FBE4E9409E93}|BITCollege_MR\\BITCollege_MR.csproj|solutionrelative:bitcollege_mr\\migrations\\202410182149408_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0BE79ED-BBB6-43AB-9B68-FBE4E9409E93}|BITCollege_MR\\BITCollege_MR.csproj|c:\\users\\crizza lynne\\desktop\\adev3\\02. assignments\\04. assignment 04\\bitcollege_mr\\bitcollege_mr\\controllers\\nextstudentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0BE79ED-BBB6-43AB-9B68-FBE4E9409E93}|BITCollege_MR\\BITCollege_MR.csproj|solutionrelative:bitcollege_mr\\controllers\\nextstudentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0BE79ED-BBB6-43AB-9B68-FBE4E9409E93}|BITCollege_MR\\BITCollege_MR.csproj|c:\\users\\crizza lynne\\desktop\\adev3\\02. assignments\\04. assignment 04\\bitcollege_mr\\bitcollege_mr\\migrations\\202410190033123_storedprocedures.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0BE79ED-BBB6-43AB-9B68-FBE4E9409E93}|BITCollege_MR\\BITCollege_MR.csproj|solutionrelative:bitcollege_mr\\migrations\\202410190033123_storedprocedures.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0BE79ED-BBB6-43AB-9B68-FBE4E9409E93}|BITCollege_MR\\BITCollege_MR.csproj|c:\\users\\crizza lynne\\desktop\\adev3\\02. assignments\\04. assignment 04\\bitcollege_mr\\bitcollege_mr\\migrations\\202410190846319_removedataannotations1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0BE79ED-BBB6-43AB-9B68-FBE4E9409E93}|BITCollege_MR\\BITCollege_MR.csproj|solutionrelative:bitcollege_mr\\migrations\\202410190846319_removedataannotations1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0BE79ED-BBB6-43AB-9B68-FBE4E9409E93}|BITCollege_MR\\BITCollege_MR.csproj|c:\\users\\crizza lynne\\desktop\\adev3\\02. assignments\\04. assignment 04\\bitcollege_mr\\bitcollege_mr\\migrations\\202410190815160_removedataannotations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0BE79ED-BBB6-43AB-9B68-FBE4E9409E93}|BITCollege_MR\\BITCollege_MR.csproj|solutionrelative:bitcollege_mr\\migrations\\202410190815160_removedataannotations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NextStudentsController.cs",
+              "DocumentMoniker": "C:\\Users\\Crizza Lynne\\Desktop\\ADEV3\\02. Assignments\\04. Assignment 04\\BITCollege_MR\\BITCollege_MR\\Controllers\\NextStudentsController.cs",
+              "RelativeDocumentMoniker": "BITCollege_MR\\Controllers\\NextStudentsController.cs",
+              "ToolTip": "C:\\Users\\Crizza Lynne\\Desktop\\ADEV3\\02. Assignments\\04. Assignment 04\\BITCollege_MR\\BITCollege_MR\\Controllers\\NextStudentsController.cs",
+              "RelativeToolTip": "BITCollege_MR\\Controllers\\NextStudentsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T18:09:44.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "202410182149408_initialcreate.cs",
+              "DocumentMoniker": "C:\\Users\\Crizza Lynne\\Desktop\\ADEV3\\02. Assignments\\04. Assignment 04\\BITCollege_MR\\BITCollege_MR\\Migrations\\202410182149408_initialcreate.cs",
+              "RelativeDocumentMoniker": "BITCollege_MR\\Migrations\\202410182149408_initialcreate.cs",
+              "ToolTip": "C:\\Users\\Crizza Lynne\\Desktop\\ADEV3\\02. Assignments\\04. Assignment 04\\BITCollege_MR\\BITCollege_MR\\Migrations\\202410182149408_initialcreate.cs",
+              "RelativeToolTip": "BITCollege_MR\\Migrations\\202410182149408_initialcreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T18:09:38.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SchoolModel.cs",
+              "DocumentMoniker": "C:\\Users\\Crizza Lynne\\Desktop\\ADEV3\\02. Assignments\\04. Assignment 04\\BITCollege_MR\\BITCollege_MR\\Models\\SchoolModel.cs",
+              "RelativeDocumentMoniker": "BITCollege_MR\\Models\\SchoolModel.cs",
+              "ToolTip": "C:\\Users\\Crizza Lynne\\Desktop\\ADEV3\\02. Assignments\\04. Assignment 04\\BITCollege_MR\\BITCollege_MR\\Models\\SchoolModel.cs",
+              "RelativeToolTip": "BITCollege_MR\\Models\\SchoolModel.cs",
+              "ViewState": "AgIAANgDAAAAAAAAAAAowPcCAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T08:48:59.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "202410190033123_StoredProcedures.cs",
+              "DocumentMoniker": "C:\\Users\\Crizza Lynne\\Desktop\\ADEV3\\02. Assignments\\04. Assignment 04\\BITCollege_MR\\BITCollege_MR\\Migrations\\202410190033123_StoredProcedures.cs",
+              "RelativeDocumentMoniker": "BITCollege_MR\\Migrations\\202410190033123_StoredProcedures.cs",
+              "ToolTip": "C:\\Users\\Crizza Lynne\\Desktop\\ADEV3\\02. Assignments\\04. Assignment 04\\BITCollege_MR\\BITCollege_MR\\Migrations\\202410190033123_StoredProcedures.cs",
+              "RelativeToolTip": "BITCollege_MR\\Migrations\\202410190033123_StoredProcedures.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T18:09:36.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "202410190815160_RemoveDataAnnotations.cs",
+              "DocumentMoniker": "C:\\Users\\Crizza Lynne\\Desktop\\ADEV3\\02. Assignments\\04. Assignment 04\\BITCollege_MR\\BITCollege_MR\\Migrations\\202410190815160_RemoveDataAnnotations.cs",
+              "RelativeDocumentMoniker": "BITCollege_MR\\Migrations\\202410190815160_RemoveDataAnnotations.cs",
+              "ToolTip": "C:\\Users\\Crizza Lynne\\Desktop\\ADEV3\\02. Assignments\\04. Assignment 04\\BITCollege_MR\\BITCollege_MR\\Migrations\\202410190815160_RemoveDataAnnotations.cs",
+              "RelativeToolTip": "BITCollege_MR\\Migrations\\202410190815160_RemoveDataAnnotations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T18:09:31.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "202410190846319_RemoveDataAnnotations1.cs",
+              "DocumentMoniker": "C:\\Users\\Crizza Lynne\\Desktop\\ADEV3\\02. Assignments\\04. Assignment 04\\BITCollege_MR\\BITCollege_MR\\Migrations\\202410190846319_RemoveDataAnnotations1.cs",
+              "RelativeDocumentMoniker": "BITCollege_MR\\Migrations\\202410190846319_RemoveDataAnnotations1.cs",
+              "ToolTip": "C:\\Users\\Crizza Lynne\\Desktop\\ADEV3\\02. Assignments\\04. Assignment 04\\BITCollege_MR\\BITCollege_MR\\Migrations\\202410190846319_RemoveDataAnnotations1.cs",
+              "RelativeToolTip": "BITCollege_MR\\Migrations\\202410190846319_RemoveDataAnnotations1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T18:09:32.21Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

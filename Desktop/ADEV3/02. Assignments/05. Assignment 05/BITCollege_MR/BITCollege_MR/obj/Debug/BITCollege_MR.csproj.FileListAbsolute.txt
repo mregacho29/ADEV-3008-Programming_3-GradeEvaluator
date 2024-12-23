@@ -1,0 +1,522 @@
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\01. Assignment 01\BITCollege_MR\BITCollege_MR\bin\BITCollege_MR.dll.config
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\01. Assignment 01\BITCollege_MR\BITCollege_MR\bin\BITCollege_MR.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\01. Assignment 01\BITCollege_MR\BITCollege_MR\bin\BITCollege_MR.pdb
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\01. Assignment 01\BITCollege_MR\BITCollege_MR\bin\roslyn\csc.exe
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\01. Assignment 01\BITCollege_MR\BITCollege_MR\bin\roslyn\csc.exe.config
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\01. Assignment 01\BITCollege_MR\BITCollege_MR\bin\roslyn\csc.rsp
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\01. Assignment 01\BITCollege_MR\BITCollege_MR\bin\roslyn\csi.exe
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\01. Assignment 01\BITCollege_MR\BITCollege_MR\bin\roslyn\csi.exe.config
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\01. Assignment 01\BITCollege_MR\BITCollege_MR\bin\roslyn\csi.rsp
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\01. Assignment 01\BITCollege_MR\BITCollege_MR\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\01. Assignment 01\BITCollege_MR\BITCollege_MR\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\01. Assignment 01\BITCollege_MR\BITCollege_MR\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\01. Assignment 01\BITCollege_MR\BITCollege_MR\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\01. Assignment 01\BITCollege_MR\BITCollege_MR\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\01. Assignment 01\BITCollege_MR\BITCollege_MR\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\01. Assignment 01\BITCollege_MR\BITCollege_MR\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\01. Assignment 01\BITCollege_MR\BITCollege_MR\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\01. Assignment 01\BITCollege_MR\BITCollege_MR\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\01. Assignment 01\BITCollege_MR\BITCollege_MR\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\01. Assignment 01\BITCollege_MR\BITCollege_MR\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\01. Assignment 01\BITCollege_MR\BITCollege_MR\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\01. Assignment 01\BITCollege_MR\BITCollege_MR\bin\roslyn\System.AppContext.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\01. Assignment 01\BITCollege_MR\BITCollege_MR\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\01. Assignment 01\BITCollege_MR\BITCollege_MR\bin\roslyn\System.Console.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\01. Assignment 01\BITCollege_MR\BITCollege_MR\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\01. Assignment 01\BITCollege_MR\BITCollege_MR\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\01. Assignment 01\BITCollege_MR\BITCollege_MR\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\01. Assignment 01\BITCollege_MR\BITCollege_MR\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\01. Assignment 01\BITCollege_MR\BITCollege_MR\bin\roslyn\System.IO.Compression.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\01. Assignment 01\BITCollege_MR\BITCollege_MR\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\01. Assignment 01\BITCollege_MR\BITCollege_MR\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\01. Assignment 01\BITCollege_MR\BITCollege_MR\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\01. Assignment 01\BITCollege_MR\BITCollege_MR\bin\roslyn\System.Net.Http.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\01. Assignment 01\BITCollege_MR\BITCollege_MR\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\01. Assignment 01\BITCollege_MR\BITCollege_MR\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\01. Assignment 01\BITCollege_MR\BITCollege_MR\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\01. Assignment 01\BITCollege_MR\BITCollege_MR\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\01. Assignment 01\BITCollege_MR\BITCollege_MR\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\01. Assignment 01\BITCollege_MR\BITCollege_MR\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\01. Assignment 01\BITCollege_MR\BITCollege_MR\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\01. Assignment 01\BITCollege_MR\BITCollege_MR\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\01. Assignment 01\BITCollege_MR\BITCollege_MR\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\01. Assignment 01\BITCollege_MR\BITCollege_MR\bin\roslyn\System.ValueTuple.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\01. Assignment 01\BITCollege_MR\BITCollege_MR\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\01. Assignment 01\BITCollege_MR\BITCollege_MR\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\01. Assignment 01\BITCollege_MR\BITCollege_MR\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\01. Assignment 01\BITCollege_MR\BITCollege_MR\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\01. Assignment 01\BITCollege_MR\BITCollege_MR\bin\roslyn\vbc.exe
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\01. Assignment 01\BITCollege_MR\BITCollege_MR\bin\roslyn\vbc.exe.config
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\01. Assignment 01\BITCollege_MR\BITCollege_MR\bin\roslyn\vbc.rsp
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\01. Assignment 01\BITCollege_MR\BITCollege_MR\bin\roslyn\VBCSCompiler.exe
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\01. Assignment 01\BITCollege_MR\BITCollege_MR\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\01. Assignment 01\BITCollege_MR\BITCollege_MR\bin\Antlr3.Runtime.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\01. Assignment 01\BITCollege_MR\BITCollege_MR\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\01. Assignment 01\BITCollege_MR\BITCollege_MR\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\01. Assignment 01\BITCollege_MR\BITCollege_MR\bin\Newtonsoft.Json.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\01. Assignment 01\BITCollege_MR\BITCollege_MR\bin\System.Web.Helpers.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\01. Assignment 01\BITCollege_MR\BITCollege_MR\bin\System.Web.Mvc.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\01. Assignment 01\BITCollege_MR\BITCollege_MR\bin\System.Web.Optimization.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\01. Assignment 01\BITCollege_MR\BITCollege_MR\bin\System.Web.Razor.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\01. Assignment 01\BITCollege_MR\BITCollege_MR\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\01. Assignment 01\BITCollege_MR\BITCollege_MR\bin\System.Web.WebPages.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\01. Assignment 01\BITCollege_MR\BITCollege_MR\bin\System.Web.WebPages.Razor.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\01. Assignment 01\BITCollege_MR\BITCollege_MR\bin\Utility.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\01. Assignment 01\BITCollege_MR\BITCollege_MR\bin\WebGrease.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\01. Assignment 01\BITCollege_MR\BITCollege_MR\bin\Utility.pdb
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\01. Assignment 01\BITCollege_MR\BITCollege_MR\bin\System.Web.Helpers.xml
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\01. Assignment 01\BITCollege_MR\BITCollege_MR\bin\System.Web.Mvc.xml
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\01. Assignment 01\BITCollege_MR\BITCollege_MR\bin\System.Web.Optimization.xml
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\01. Assignment 01\BITCollege_MR\BITCollege_MR\bin\System.Web.Razor.xml
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\01. Assignment 01\BITCollege_MR\BITCollege_MR\bin\System.Web.WebPages.xml
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\01. Assignment 01\BITCollege_MR\BITCollege_MR\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\01. Assignment 01\BITCollege_MR\BITCollege_MR\bin\System.Web.WebPages.Razor.xml
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\01. Assignment 01\BITCollege_MR\BITCollege_MR\bin\Newtonsoft.Json.xml
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\01. Assignment 01\BITCollege_MR\BITCollege_MR\bin\Antlr3.Runtime.pdb
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\01. Assignment 01\BITCollege_MR\BITCollege_MR\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\01. Assignment 01\BITCollege_MR\BITCollege_MR\obj\Debug\BITCollege_MR.csproj.AssemblyReference.cache
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\01. Assignment 01\BITCollege_MR\BITCollege_MR\obj\Debug\BITCollege_MR.csproj.CoreCompileInputs.cache
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\01. Assignment 01\BITCollege_MR\BITCollege_MR\obj\Debug\BITColle.91066524.Up2Date
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\01. Assignment 01\BITCollege_MR\BITCollege_MR\obj\Debug\BITCollege_MR.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\01. Assignment 01\BITCollege_MR\BITCollege_MR\obj\Debug\BITCollege_MR.pdb
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\02. Assignment 02\BITCollege_MR\BITCollege_MR\bin\BITCollege_MR.dll.config
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\02. Assignment 02\BITCollege_MR\BITCollege_MR\bin\BITCollege_MR.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\02. Assignment 02\BITCollege_MR\BITCollege_MR\bin\BITCollege_MR.pdb
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\02. Assignment 02\BITCollege_MR\BITCollege_MR\bin\roslyn\csc.exe
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\02. Assignment 02\BITCollege_MR\BITCollege_MR\bin\roslyn\csc.exe.config
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\02. Assignment 02\BITCollege_MR\BITCollege_MR\bin\roslyn\csc.rsp
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\02. Assignment 02\BITCollege_MR\BITCollege_MR\bin\roslyn\csi.exe
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\02. Assignment 02\BITCollege_MR\BITCollege_MR\bin\roslyn\csi.exe.config
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\02. Assignment 02\BITCollege_MR\BITCollege_MR\bin\roslyn\csi.rsp
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\02. Assignment 02\BITCollege_MR\BITCollege_MR\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\02. Assignment 02\BITCollege_MR\BITCollege_MR\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\02. Assignment 02\BITCollege_MR\BITCollege_MR\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\02. Assignment 02\BITCollege_MR\BITCollege_MR\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\02. Assignment 02\BITCollege_MR\BITCollege_MR\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\02. Assignment 02\BITCollege_MR\BITCollege_MR\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\02. Assignment 02\BITCollege_MR\BITCollege_MR\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\02. Assignment 02\BITCollege_MR\BITCollege_MR\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\02. Assignment 02\BITCollege_MR\BITCollege_MR\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\02. Assignment 02\BITCollege_MR\BITCollege_MR\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\02. Assignment 02\BITCollege_MR\BITCollege_MR\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\02. Assignment 02\BITCollege_MR\BITCollege_MR\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\02. Assignment 02\BITCollege_MR\BITCollege_MR\bin\roslyn\System.AppContext.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\02. Assignment 02\BITCollege_MR\BITCollege_MR\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\02. Assignment 02\BITCollege_MR\BITCollege_MR\bin\roslyn\System.Console.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\02. Assignment 02\BITCollege_MR\BITCollege_MR\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\02. Assignment 02\BITCollege_MR\BITCollege_MR\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\02. Assignment 02\BITCollege_MR\BITCollege_MR\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\02. Assignment 02\BITCollege_MR\BITCollege_MR\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\02. Assignment 02\BITCollege_MR\BITCollege_MR\bin\roslyn\System.IO.Compression.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\02. Assignment 02\BITCollege_MR\BITCollege_MR\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\02. Assignment 02\BITCollege_MR\BITCollege_MR\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\02. Assignment 02\BITCollege_MR\BITCollege_MR\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\02. Assignment 02\BITCollege_MR\BITCollege_MR\bin\roslyn\System.Net.Http.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\02. Assignment 02\BITCollege_MR\BITCollege_MR\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\02. Assignment 02\BITCollege_MR\BITCollege_MR\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\02. Assignment 02\BITCollege_MR\BITCollege_MR\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\02. Assignment 02\BITCollege_MR\BITCollege_MR\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\02. Assignment 02\BITCollege_MR\BITCollege_MR\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\02. Assignment 02\BITCollege_MR\BITCollege_MR\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\02. Assignment 02\BITCollege_MR\BITCollege_MR\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\02. Assignment 02\BITCollege_MR\BITCollege_MR\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\02. Assignment 02\BITCollege_MR\BITCollege_MR\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\02. Assignment 02\BITCollege_MR\BITCollege_MR\bin\roslyn\System.ValueTuple.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\02. Assignment 02\BITCollege_MR\BITCollege_MR\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\02. Assignment 02\BITCollege_MR\BITCollege_MR\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\02. Assignment 02\BITCollege_MR\BITCollege_MR\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\02. Assignment 02\BITCollege_MR\BITCollege_MR\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\02. Assignment 02\BITCollege_MR\BITCollege_MR\bin\roslyn\vbc.exe
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\02. Assignment 02\BITCollege_MR\BITCollege_MR\bin\roslyn\vbc.exe.config
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\02. Assignment 02\BITCollege_MR\BITCollege_MR\bin\roslyn\vbc.rsp
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\02. Assignment 02\BITCollege_MR\BITCollege_MR\bin\roslyn\VBCSCompiler.exe
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\02. Assignment 02\BITCollege_MR\BITCollege_MR\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\02. Assignment 02\BITCollege_MR\BITCollege_MR\bin\Antlr3.Runtime.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\02. Assignment 02\BITCollege_MR\BITCollege_MR\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\02. Assignment 02\BITCollege_MR\BITCollege_MR\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\02. Assignment 02\BITCollege_MR\BITCollege_MR\bin\Newtonsoft.Json.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\02. Assignment 02\BITCollege_MR\BITCollege_MR\bin\System.Web.Helpers.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\02. Assignment 02\BITCollege_MR\BITCollege_MR\bin\System.Web.Mvc.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\02. Assignment 02\BITCollege_MR\BITCollege_MR\bin\System.Web.Optimization.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\02. Assignment 02\BITCollege_MR\BITCollege_MR\bin\System.Web.Razor.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\02. Assignment 02\BITCollege_MR\BITCollege_MR\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\02. Assignment 02\BITCollege_MR\BITCollege_MR\bin\System.Web.WebPages.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\02. Assignment 02\BITCollege_MR\BITCollege_MR\bin\System.Web.WebPages.Razor.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\02. Assignment 02\BITCollege_MR\BITCollege_MR\bin\Utility.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\02. Assignment 02\BITCollege_MR\BITCollege_MR\bin\WebGrease.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\02. Assignment 02\BITCollege_MR\BITCollege_MR\bin\Utility.pdb
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\02. Assignment 02\BITCollege_MR\BITCollege_MR\bin\System.Web.Helpers.xml
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\02. Assignment 02\BITCollege_MR\BITCollege_MR\bin\System.Web.Mvc.xml
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\02. Assignment 02\BITCollege_MR\BITCollege_MR\bin\System.Web.Optimization.xml
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\02. Assignment 02\BITCollege_MR\BITCollege_MR\bin\System.Web.Razor.xml
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\02. Assignment 02\BITCollege_MR\BITCollege_MR\bin\System.Web.WebPages.xml
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\02. Assignment 02\BITCollege_MR\BITCollege_MR\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\02. Assignment 02\BITCollege_MR\BITCollege_MR\bin\System.Web.WebPages.Razor.xml
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\02. Assignment 02\BITCollege_MR\BITCollege_MR\bin\Newtonsoft.Json.xml
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\02. Assignment 02\BITCollege_MR\BITCollege_MR\bin\Antlr3.Runtime.pdb
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\02. Assignment 02\BITCollege_MR\BITCollege_MR\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\02. Assignment 02\BITCollege_MR\BITCollege_MR\obj\Debug\BITCollege_MR.csproj.AssemblyReference.cache
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\02. Assignment 02\BITCollege_MR\BITCollege_MR\obj\Debug\BITCollege_MR.csproj.CoreCompileInputs.cache
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\02. Assignment 02\BITCollege_MR\BITCollege_MR\obj\Debug\BITColle.91066524.Up2Date
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\02. Assignment 02\BITCollege_MR\BITCollege_MR\obj\Debug\BITCollege_MR.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\02. Assignment 02\BITCollege_MR\BITCollege_MR\obj\Debug\BITCollege_MR.pdb
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\02. Assignment 02\BITCollege_MR\BITCollege_MR\bin\EntityFramework.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\02. Assignment 02\BITCollege_MR\BITCollege_MR\bin\EntityFramework.SqlServer.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\02. Assignment 02\BITCollege_MR\BITCollege_MR\bin\EntityFramework.xml
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\02. Assignment 02\BITCollege_MR\BITCollege_MR\bin\EntityFramework.SqlServer.xml
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\03. Assignment 03\BITCollege_MR\BITCollege_MR\obj\Debug\BITCollege_MR.csproj.AssemblyReference.cache
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\03. Assignment 03\BITCollege_MR\BITCollege_MR\obj\Debug\BITCollege_MR.csproj.CoreCompileInputs.cache
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\03. Assignment 03\BITCollege_MR\BITCollege_MR\obj\Debug\BITCollege_MR.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\03. Assignment 03\BITCollege_MR\BITCollege_MR\obj\Debug\BITCollege_MR.pdb
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\03. Assignment 03\BITCollege_MR\BITCollege_MR\bin\BITCollege_MR.dll.config
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\03. Assignment 03\BITCollege_MR\BITCollege_MR\bin\BITCollege_MR.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\03. Assignment 03\BITCollege_MR\BITCollege_MR\bin\BITCollege_MR.pdb
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\03. Assignment 03\BITCollege_MR\BITCollege_MR\bin\roslyn\csc.exe
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\03. Assignment 03\BITCollege_MR\BITCollege_MR\bin\roslyn\csc.exe.config
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\03. Assignment 03\BITCollege_MR\BITCollege_MR\bin\roslyn\csc.rsp
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\03. Assignment 03\BITCollege_MR\BITCollege_MR\bin\roslyn\csi.exe
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\03. Assignment 03\BITCollege_MR\BITCollege_MR\bin\roslyn\csi.exe.config
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\03. Assignment 03\BITCollege_MR\BITCollege_MR\bin\roslyn\csi.rsp
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\03. Assignment 03\BITCollege_MR\BITCollege_MR\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\03. Assignment 03\BITCollege_MR\BITCollege_MR\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\03. Assignment 03\BITCollege_MR\BITCollege_MR\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\03. Assignment 03\BITCollege_MR\BITCollege_MR\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\03. Assignment 03\BITCollege_MR\BITCollege_MR\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\03. Assignment 03\BITCollege_MR\BITCollege_MR\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\03. Assignment 03\BITCollege_MR\BITCollege_MR\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\03. Assignment 03\BITCollege_MR\BITCollege_MR\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\03. Assignment 03\BITCollege_MR\BITCollege_MR\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\03. Assignment 03\BITCollege_MR\BITCollege_MR\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\03. Assignment 03\BITCollege_MR\BITCollege_MR\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\03. Assignment 03\BITCollege_MR\BITCollege_MR\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\03. Assignment 03\BITCollege_MR\BITCollege_MR\bin\roslyn\System.AppContext.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\03. Assignment 03\BITCollege_MR\BITCollege_MR\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\03. Assignment 03\BITCollege_MR\BITCollege_MR\bin\roslyn\System.Console.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\03. Assignment 03\BITCollege_MR\BITCollege_MR\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\03. Assignment 03\BITCollege_MR\BITCollege_MR\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\03. Assignment 03\BITCollege_MR\BITCollege_MR\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\03. Assignment 03\BITCollege_MR\BITCollege_MR\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\03. Assignment 03\BITCollege_MR\BITCollege_MR\bin\roslyn\System.IO.Compression.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\03. Assignment 03\BITCollege_MR\BITCollege_MR\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\03. Assignment 03\BITCollege_MR\BITCollege_MR\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\03. Assignment 03\BITCollege_MR\BITCollege_MR\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\03. Assignment 03\BITCollege_MR\BITCollege_MR\bin\roslyn\System.Net.Http.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\03. Assignment 03\BITCollege_MR\BITCollege_MR\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\03. Assignment 03\BITCollege_MR\BITCollege_MR\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\03. Assignment 03\BITCollege_MR\BITCollege_MR\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\03. Assignment 03\BITCollege_MR\BITCollege_MR\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\03. Assignment 03\BITCollege_MR\BITCollege_MR\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\03. Assignment 03\BITCollege_MR\BITCollege_MR\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\03. Assignment 03\BITCollege_MR\BITCollege_MR\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\03. Assignment 03\BITCollege_MR\BITCollege_MR\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\03. Assignment 03\BITCollege_MR\BITCollege_MR\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\03. Assignment 03\BITCollege_MR\BITCollege_MR\bin\roslyn\System.ValueTuple.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\03. Assignment 03\BITCollege_MR\BITCollege_MR\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\03. Assignment 03\BITCollege_MR\BITCollege_MR\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\03. Assignment 03\BITCollege_MR\BITCollege_MR\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\03. Assignment 03\BITCollege_MR\BITCollege_MR\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\03. Assignment 03\BITCollege_MR\BITCollege_MR\bin\roslyn\vbc.exe
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\03. Assignment 03\BITCollege_MR\BITCollege_MR\bin\roslyn\vbc.exe.config
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\03. Assignment 03\BITCollege_MR\BITCollege_MR\bin\roslyn\vbc.rsp
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\03. Assignment 03\BITCollege_MR\BITCollege_MR\bin\roslyn\VBCSCompiler.exe
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\03. Assignment 03\BITCollege_MR\BITCollege_MR\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\03. Assignment 03\BITCollege_MR\BITCollege_MR\bin\Antlr3.Runtime.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\03. Assignment 03\BITCollege_MR\BITCollege_MR\bin\EntityFramework.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\03. Assignment 03\BITCollege_MR\BITCollege_MR\bin\EntityFramework.SqlServer.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\03. Assignment 03\BITCollege_MR\BITCollege_MR\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\03. Assignment 03\BITCollege_MR\BITCollege_MR\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\03. Assignment 03\BITCollege_MR\BITCollege_MR\bin\Newtonsoft.Json.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\03. Assignment 03\BITCollege_MR\BITCollege_MR\bin\System.Web.Helpers.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\03. Assignment 03\BITCollege_MR\BITCollege_MR\bin\System.Web.Mvc.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\03. Assignment 03\BITCollege_MR\BITCollege_MR\bin\System.Web.Optimization.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\03. Assignment 03\BITCollege_MR\BITCollege_MR\bin\System.Web.Razor.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\03. Assignment 03\BITCollege_MR\BITCollege_MR\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\03. Assignment 03\BITCollege_MR\BITCollege_MR\bin\System.Web.WebPages.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\03. Assignment 03\BITCollege_MR\BITCollege_MR\bin\System.Web.WebPages.Razor.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\03. Assignment 03\BITCollege_MR\BITCollege_MR\bin\Utility.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\03. Assignment 03\BITCollege_MR\BITCollege_MR\bin\WebGrease.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\03. Assignment 03\BITCollege_MR\BITCollege_MR\bin\Utility.pdb
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\03. Assignment 03\BITCollege_MR\BITCollege_MR\bin\EntityFramework.xml
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\03. Assignment 03\BITCollege_MR\BITCollege_MR\bin\EntityFramework.SqlServer.xml
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\03. Assignment 03\BITCollege_MR\BITCollege_MR\bin\System.Web.Helpers.xml
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\03. Assignment 03\BITCollege_MR\BITCollege_MR\bin\System.Web.Mvc.xml
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\03. Assignment 03\BITCollege_MR\BITCollege_MR\bin\System.Web.Optimization.xml
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\03. Assignment 03\BITCollege_MR\BITCollege_MR\bin\System.Web.Razor.xml
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\03. Assignment 03\BITCollege_MR\BITCollege_MR\bin\System.Web.WebPages.xml
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\03. Assignment 03\BITCollege_MR\BITCollege_MR\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\03. Assignment 03\BITCollege_MR\BITCollege_MR\bin\System.Web.WebPages.Razor.xml
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\03. Assignment 03\BITCollege_MR\BITCollege_MR\bin\Newtonsoft.Json.xml
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\03. Assignment 03\BITCollege_MR\BITCollege_MR\bin\Antlr3.Runtime.pdb
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\03. Assignment 03\BITCollege_MR\BITCollege_MR\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\03. Assignment 03\BITCollege_MR\BITCollege_MR\obj\Debug\BITColle.91066524.Up2Date
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\04. Assignment 04\BITCollege_MR\BITCollege_MR\bin\BITCollege_MR.dll.config
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\04. Assignment 04\BITCollege_MR\BITCollege_MR\bin\BITCollege_MR.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\04. Assignment 04\BITCollege_MR\BITCollege_MR\bin\BITCollege_MR.pdb
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\04. Assignment 04\BITCollege_MR\BITCollege_MR\bin\roslyn\csc.exe
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\04. Assignment 04\BITCollege_MR\BITCollege_MR\bin\roslyn\csc.exe.config
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\04. Assignment 04\BITCollege_MR\BITCollege_MR\bin\roslyn\csc.rsp
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\04. Assignment 04\BITCollege_MR\BITCollege_MR\bin\roslyn\csi.exe
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\04. Assignment 04\BITCollege_MR\BITCollege_MR\bin\roslyn\csi.exe.config
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\04. Assignment 04\BITCollege_MR\BITCollege_MR\bin\roslyn\csi.rsp
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\04. Assignment 04\BITCollege_MR\BITCollege_MR\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\04. Assignment 04\BITCollege_MR\BITCollege_MR\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\04. Assignment 04\BITCollege_MR\BITCollege_MR\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\04. Assignment 04\BITCollege_MR\BITCollege_MR\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\04. Assignment 04\BITCollege_MR\BITCollege_MR\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\04. Assignment 04\BITCollege_MR\BITCollege_MR\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\04. Assignment 04\BITCollege_MR\BITCollege_MR\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\04. Assignment 04\BITCollege_MR\BITCollege_MR\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\04. Assignment 04\BITCollege_MR\BITCollege_MR\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\04. Assignment 04\BITCollege_MR\BITCollege_MR\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\04. Assignment 04\BITCollege_MR\BITCollege_MR\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\04. Assignment 04\BITCollege_MR\BITCollege_MR\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\04. Assignment 04\BITCollege_MR\BITCollege_MR\bin\roslyn\System.AppContext.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\04. Assignment 04\BITCollege_MR\BITCollege_MR\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\04. Assignment 04\BITCollege_MR\BITCollege_MR\bin\roslyn\System.Console.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\04. Assignment 04\BITCollege_MR\BITCollege_MR\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\04. Assignment 04\BITCollege_MR\BITCollege_MR\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\04. Assignment 04\BITCollege_MR\BITCollege_MR\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\04. Assignment 04\BITCollege_MR\BITCollege_MR\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\04. Assignment 04\BITCollege_MR\BITCollege_MR\bin\roslyn\System.IO.Compression.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\04. Assignment 04\BITCollege_MR\BITCollege_MR\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\04. Assignment 04\BITCollege_MR\BITCollege_MR\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\04. Assignment 04\BITCollege_MR\BITCollege_MR\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\04. Assignment 04\BITCollege_MR\BITCollege_MR\bin\roslyn\System.Net.Http.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\04. Assignment 04\BITCollege_MR\BITCollege_MR\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\04. Assignment 04\BITCollege_MR\BITCollege_MR\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\04. Assignment 04\BITCollege_MR\BITCollege_MR\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\04. Assignment 04\BITCollege_MR\BITCollege_MR\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\04. Assignment 04\BITCollege_MR\BITCollege_MR\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\04. Assignment 04\BITCollege_MR\BITCollege_MR\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\04. Assignment 04\BITCollege_MR\BITCollege_MR\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\04. Assignment 04\BITCollege_MR\BITCollege_MR\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\04. Assignment 04\BITCollege_MR\BITCollege_MR\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\04. Assignment 04\BITCollege_MR\BITCollege_MR\bin\roslyn\System.ValueTuple.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\04. Assignment 04\BITCollege_MR\BITCollege_MR\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\04. Assignment 04\BITCollege_MR\BITCollege_MR\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\04. Assignment 04\BITCollege_MR\BITCollege_MR\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\04. Assignment 04\BITCollege_MR\BITCollege_MR\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\04. Assignment 04\BITCollege_MR\BITCollege_MR\bin\roslyn\vbc.exe
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\04. Assignment 04\BITCollege_MR\BITCollege_MR\bin\roslyn\vbc.exe.config
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\04. Assignment 04\BITCollege_MR\BITCollege_MR\bin\roslyn\vbc.rsp
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\04. Assignment 04\BITCollege_MR\BITCollege_MR\bin\roslyn\VBCSCompiler.exe
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\04. Assignment 04\BITCollege_MR\BITCollege_MR\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\04. Assignment 04\BITCollege_MR\BITCollege_MR\bin\Antlr3.Runtime.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\04. Assignment 04\BITCollege_MR\BITCollege_MR\bin\EntityFramework.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\04. Assignment 04\BITCollege_MR\BITCollege_MR\bin\EntityFramework.SqlServer.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\04. Assignment 04\BITCollege_MR\BITCollege_MR\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\04. Assignment 04\BITCollege_MR\BITCollege_MR\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\04. Assignment 04\BITCollege_MR\BITCollege_MR\bin\Newtonsoft.Json.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\04. Assignment 04\BITCollege_MR\BITCollege_MR\bin\System.Web.Helpers.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\04. Assignment 04\BITCollege_MR\BITCollege_MR\bin\System.Web.Mvc.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\04. Assignment 04\BITCollege_MR\BITCollege_MR\bin\System.Web.Optimization.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\04. Assignment 04\BITCollege_MR\BITCollege_MR\bin\System.Web.Razor.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\04. Assignment 04\BITCollege_MR\BITCollege_MR\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\04. Assignment 04\BITCollege_MR\BITCollege_MR\bin\System.Web.WebPages.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\04. Assignment 04\BITCollege_MR\BITCollege_MR\bin\System.Web.WebPages.Razor.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\04. Assignment 04\BITCollege_MR\BITCollege_MR\bin\Utility.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\04. Assignment 04\BITCollege_MR\BITCollege_MR\bin\WebGrease.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\04. Assignment 04\BITCollege_MR\BITCollege_MR\bin\Utility.pdb
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\04. Assignment 04\BITCollege_MR\BITCollege_MR\bin\EntityFramework.xml
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\04. Assignment 04\BITCollege_MR\BITCollege_MR\bin\EntityFramework.SqlServer.xml
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\04. Assignment 04\BITCollege_MR\BITCollege_MR\bin\System.Web.Helpers.xml
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\04. Assignment 04\BITCollege_MR\BITCollege_MR\bin\System.Web.Mvc.xml
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\04. Assignment 04\BITCollege_MR\BITCollege_MR\bin\System.Web.Optimization.xml
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\04. Assignment 04\BITCollege_MR\BITCollege_MR\bin\System.Web.Razor.xml
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\04. Assignment 04\BITCollege_MR\BITCollege_MR\bin\System.Web.WebPages.xml
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\04. Assignment 04\BITCollege_MR\BITCollege_MR\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\04. Assignment 04\BITCollege_MR\BITCollege_MR\bin\System.Web.WebPages.Razor.xml
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\04. Assignment 04\BITCollege_MR\BITCollege_MR\bin\Newtonsoft.Json.xml
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\04. Assignment 04\BITCollege_MR\BITCollege_MR\bin\Antlr3.Runtime.pdb
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\04. Assignment 04\BITCollege_MR\BITCollege_MR\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\04. Assignment 04\BITCollege_MR\BITCollege_MR\obj\Debug\BITCollege_MR.csproj.AssemblyReference.cache
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\04. Assignment 04\BITCollege_MR\BITCollege_MR\obj\Debug\BITCollege_MR.csproj.CoreCompileInputs.cache
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\04. Assignment 04\BITCollege_MR\BITCollege_MR\obj\Debug\BITColle.91066524.Up2Date
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\04. Assignment 04\BITCollege_MR\BITCollege_MR\obj\Debug\BITCollege_MR.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\04. Assignment 04\BITCollege_MR\BITCollege_MR\obj\Debug\BITCollege_MR.pdb
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\04. Assignment 04\BITCollege_MR\BITCollege_MR\obj\Debug\BITCollege_MR.csproj.GenerateResource.cache
+C:\Users\Crizza Lynne\Desktop\04. Assignment 04\BITCollege_MR\BITCollege_MR\bin\BITCollege_MR.dll.config
+C:\Users\Crizza Lynne\Desktop\04. Assignment 04\BITCollege_MR\BITCollege_MR\bin\BITCollege_MR.dll
+C:\Users\Crizza Lynne\Desktop\04. Assignment 04\BITCollege_MR\BITCollege_MR\bin\BITCollege_MR.pdb
+C:\Users\Crizza Lynne\Desktop\04. Assignment 04\BITCollege_MR\BITCollege_MR\bin\roslyn\csc.exe
+C:\Users\Crizza Lynne\Desktop\04. Assignment 04\BITCollege_MR\BITCollege_MR\bin\roslyn\csc.exe.config
+C:\Users\Crizza Lynne\Desktop\04. Assignment 04\BITCollege_MR\BITCollege_MR\bin\roslyn\csc.rsp
+C:\Users\Crizza Lynne\Desktop\04. Assignment 04\BITCollege_MR\BITCollege_MR\bin\roslyn\csi.exe
+C:\Users\Crizza Lynne\Desktop\04. Assignment 04\BITCollege_MR\BITCollege_MR\bin\roslyn\csi.exe.config
+C:\Users\Crizza Lynne\Desktop\04. Assignment 04\BITCollege_MR\BITCollege_MR\bin\roslyn\csi.rsp
+C:\Users\Crizza Lynne\Desktop\04. Assignment 04\BITCollege_MR\BITCollege_MR\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Crizza Lynne\Desktop\04. Assignment 04\BITCollege_MR\BITCollege_MR\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Crizza Lynne\Desktop\04. Assignment 04\BITCollege_MR\BITCollege_MR\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Crizza Lynne\Desktop\04. Assignment 04\BITCollege_MR\BITCollege_MR\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Crizza Lynne\Desktop\04. Assignment 04\BITCollege_MR\BITCollege_MR\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Crizza Lynne\Desktop\04. Assignment 04\BITCollege_MR\BITCollege_MR\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Crizza Lynne\Desktop\04. Assignment 04\BITCollege_MR\BITCollege_MR\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Crizza Lynne\Desktop\04. Assignment 04\BITCollege_MR\BITCollege_MR\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Crizza Lynne\Desktop\04. Assignment 04\BITCollege_MR\BITCollege_MR\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Crizza Lynne\Desktop\04. Assignment 04\BITCollege_MR\BITCollege_MR\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Crizza Lynne\Desktop\04. Assignment 04\BITCollege_MR\BITCollege_MR\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Crizza Lynne\Desktop\04. Assignment 04\BITCollege_MR\BITCollege_MR\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Crizza Lynne\Desktop\04. Assignment 04\BITCollege_MR\BITCollege_MR\bin\roslyn\System.AppContext.dll
+C:\Users\Crizza Lynne\Desktop\04. Assignment 04\BITCollege_MR\BITCollege_MR\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Crizza Lynne\Desktop\04. Assignment 04\BITCollege_MR\BITCollege_MR\bin\roslyn\System.Console.dll
+C:\Users\Crizza Lynne\Desktop\04. Assignment 04\BITCollege_MR\BITCollege_MR\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Crizza Lynne\Desktop\04. Assignment 04\BITCollege_MR\BITCollege_MR\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Crizza Lynne\Desktop\04. Assignment 04\BITCollege_MR\BITCollege_MR\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Crizza Lynne\Desktop\04. Assignment 04\BITCollege_MR\BITCollege_MR\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Crizza Lynne\Desktop\04. Assignment 04\BITCollege_MR\BITCollege_MR\bin\roslyn\System.IO.Compression.dll
+C:\Users\Crizza Lynne\Desktop\04. Assignment 04\BITCollege_MR\BITCollege_MR\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Crizza Lynne\Desktop\04. Assignment 04\BITCollege_MR\BITCollege_MR\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Crizza Lynne\Desktop\04. Assignment 04\BITCollege_MR\BITCollege_MR\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Crizza Lynne\Desktop\04. Assignment 04\BITCollege_MR\BITCollege_MR\bin\roslyn\System.Net.Http.dll
+C:\Users\Crizza Lynne\Desktop\04. Assignment 04\BITCollege_MR\BITCollege_MR\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Crizza Lynne\Desktop\04. Assignment 04\BITCollege_MR\BITCollege_MR\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Crizza Lynne\Desktop\04. Assignment 04\BITCollege_MR\BITCollege_MR\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Crizza Lynne\Desktop\04. Assignment 04\BITCollege_MR\BITCollege_MR\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Crizza Lynne\Desktop\04. Assignment 04\BITCollege_MR\BITCollege_MR\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Crizza Lynne\Desktop\04. Assignment 04\BITCollege_MR\BITCollege_MR\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Crizza Lynne\Desktop\04. Assignment 04\BITCollege_MR\BITCollege_MR\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Crizza Lynne\Desktop\04. Assignment 04\BITCollege_MR\BITCollege_MR\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Crizza Lynne\Desktop\04. Assignment 04\BITCollege_MR\BITCollege_MR\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Crizza Lynne\Desktop\04. Assignment 04\BITCollege_MR\BITCollege_MR\bin\roslyn\System.ValueTuple.dll
+C:\Users\Crizza Lynne\Desktop\04. Assignment 04\BITCollege_MR\BITCollege_MR\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Crizza Lynne\Desktop\04. Assignment 04\BITCollege_MR\BITCollege_MR\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Crizza Lynne\Desktop\04. Assignment 04\BITCollege_MR\BITCollege_MR\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Crizza Lynne\Desktop\04. Assignment 04\BITCollege_MR\BITCollege_MR\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Crizza Lynne\Desktop\04. Assignment 04\BITCollege_MR\BITCollege_MR\bin\roslyn\vbc.exe
+C:\Users\Crizza Lynne\Desktop\04. Assignment 04\BITCollege_MR\BITCollege_MR\bin\roslyn\vbc.exe.config
+C:\Users\Crizza Lynne\Desktop\04. Assignment 04\BITCollege_MR\BITCollege_MR\bin\roslyn\vbc.rsp
+C:\Users\Crizza Lynne\Desktop\04. Assignment 04\BITCollege_MR\BITCollege_MR\bin\roslyn\VBCSCompiler.exe
+C:\Users\Crizza Lynne\Desktop\04. Assignment 04\BITCollege_MR\BITCollege_MR\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Crizza Lynne\Desktop\04. Assignment 04\BITCollege_MR\BITCollege_MR\bin\Antlr3.Runtime.dll
+C:\Users\Crizza Lynne\Desktop\04. Assignment 04\BITCollege_MR\BITCollege_MR\bin\EntityFramework.dll
+C:\Users\Crizza Lynne\Desktop\04. Assignment 04\BITCollege_MR\BITCollege_MR\bin\EntityFramework.SqlServer.dll
+C:\Users\Crizza Lynne\Desktop\04. Assignment 04\BITCollege_MR\BITCollege_MR\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Crizza Lynne\Desktop\04. Assignment 04\BITCollege_MR\BITCollege_MR\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Crizza Lynne\Desktop\04. Assignment 04\BITCollege_MR\BITCollege_MR\bin\Newtonsoft.Json.dll
+C:\Users\Crizza Lynne\Desktop\04. Assignment 04\BITCollege_MR\BITCollege_MR\bin\System.Web.Helpers.dll
+C:\Users\Crizza Lynne\Desktop\04. Assignment 04\BITCollege_MR\BITCollege_MR\bin\System.Web.Mvc.dll
+C:\Users\Crizza Lynne\Desktop\04. Assignment 04\BITCollege_MR\BITCollege_MR\bin\System.Web.Optimization.dll
+C:\Users\Crizza Lynne\Desktop\04. Assignment 04\BITCollege_MR\BITCollege_MR\bin\System.Web.Razor.dll
+C:\Users\Crizza Lynne\Desktop\04. Assignment 04\BITCollege_MR\BITCollege_MR\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Crizza Lynne\Desktop\04. Assignment 04\BITCollege_MR\BITCollege_MR\bin\System.Web.WebPages.dll
+C:\Users\Crizza Lynne\Desktop\04. Assignment 04\BITCollege_MR\BITCollege_MR\bin\System.Web.WebPages.Razor.dll
+C:\Users\Crizza Lynne\Desktop\04. Assignment 04\BITCollege_MR\BITCollege_MR\bin\Utility.dll
+C:\Users\Crizza Lynne\Desktop\04. Assignment 04\BITCollege_MR\BITCollege_MR\bin\WebGrease.dll
+C:\Users\Crizza Lynne\Desktop\04. Assignment 04\BITCollege_MR\BITCollege_MR\bin\Utility.pdb
+C:\Users\Crizza Lynne\Desktop\04. Assignment 04\BITCollege_MR\BITCollege_MR\bin\EntityFramework.xml
+C:\Users\Crizza Lynne\Desktop\04. Assignment 04\BITCollege_MR\BITCollege_MR\bin\EntityFramework.SqlServer.xml
+C:\Users\Crizza Lynne\Desktop\04. Assignment 04\BITCollege_MR\BITCollege_MR\bin\System.Web.Helpers.xml
+C:\Users\Crizza Lynne\Desktop\04. Assignment 04\BITCollege_MR\BITCollege_MR\bin\System.Web.Mvc.xml
+C:\Users\Crizza Lynne\Desktop\04. Assignment 04\BITCollege_MR\BITCollege_MR\bin\System.Web.Optimization.xml
+C:\Users\Crizza Lynne\Desktop\04. Assignment 04\BITCollege_MR\BITCollege_MR\bin\System.Web.Razor.xml
+C:\Users\Crizza Lynne\Desktop\04. Assignment 04\BITCollege_MR\BITCollege_MR\bin\System.Web.WebPages.xml
+C:\Users\Crizza Lynne\Desktop\04. Assignment 04\BITCollege_MR\BITCollege_MR\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Crizza Lynne\Desktop\04. Assignment 04\BITCollege_MR\BITCollege_MR\bin\System.Web.WebPages.Razor.xml
+C:\Users\Crizza Lynne\Desktop\04. Assignment 04\BITCollege_MR\BITCollege_MR\bin\Newtonsoft.Json.xml
+C:\Users\Crizza Lynne\Desktop\04. Assignment 04\BITCollege_MR\BITCollege_MR\bin\Antlr3.Runtime.pdb
+C:\Users\Crizza Lynne\Desktop\04. Assignment 04\BITCollege_MR\BITCollege_MR\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Crizza Lynne\Desktop\04. Assignment 04\BITCollege_MR\BITCollege_MR\obj\Debug\BITCollege_MR.csproj.AssemblyReference.cache
+C:\Users\Crizza Lynne\Desktop\04. Assignment 04\BITCollege_MR\BITCollege_MR\obj\Debug\BITCollege_MR.csproj.CoreCompileInputs.cache
+C:\Users\Crizza Lynne\Desktop\04. Assignment 04\BITCollege_MR\BITCollege_MR\obj\Debug\BITColle.91066524.Up2Date
+C:\Users\Crizza Lynne\Desktop\04. Assignment 04\BITCollege_MR\BITCollege_MR\obj\Debug\BITCollege_MR.dll
+C:\Users\Crizza Lynne\Desktop\04. Assignment 04\BITCollege_MR\BITCollege_MR\obj\Debug\BITCollege_MR.pdb
+C:\Users\Crizza Lynne\Desktop\04. Assignment 04\BITCollege_MR\BITCollege_MR\obj\Debug\BITCollege_MR.Migrations.initialcreate.resources
+C:\Users\Crizza Lynne\Desktop\04. Assignment 04\BITCollege_MR\BITCollege_MR\obj\Debug\BITCollege_MR.csproj.GenerateResource.cache
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\04. Assignment 04\BITCollege_MR\BITCollege_MR\obj\Debug\BITCollege_MR.Migrations.initialcreate.resources
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\04. Assignment 04\BITCollege_MR\BITCollege_MR\obj\Debug\BITCollege_MR.Properties.Resources.resources
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\04. Assignment 04\BITCollege_MR\BITCollege_MR\obj\Debug\BITCollege_MR.Resource1.resources
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\04. Assignment 04\BITCollege_MR\BITCollege_MR\obj\Debug\BITCollege_MR.Migrations.StoredProcedures.resources
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\04. Assignment 04\BITCollege_MR\BITCollege_MR\obj\Debug\BITCollege_MR.Migrations.RemoveDataAnnotations.resources
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\04. Assignment 04\BITCollege_MR\BITCollege_MR\obj\Debug\BITCollege_MR.Migrations.RemoveDataAnnotations1.resources
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\04. Assignment 05\BITCollege_MR\BITCollege_MR\bin\BITCollege_MR.dll.config
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\04. Assignment 05\BITCollege_MR\BITCollege_MR\bin\BITCollege_MR.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\04. Assignment 05\BITCollege_MR\BITCollege_MR\bin\BITCollege_MR.pdb
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\04. Assignment 05\BITCollege_MR\BITCollege_MR\bin\roslyn\csc.exe
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\04. Assignment 05\BITCollege_MR\BITCollege_MR\bin\roslyn\csc.exe.config
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\04. Assignment 05\BITCollege_MR\BITCollege_MR\bin\roslyn\csc.rsp
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\04. Assignment 05\BITCollege_MR\BITCollege_MR\bin\roslyn\csi.exe
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\04. Assignment 05\BITCollege_MR\BITCollege_MR\bin\roslyn\csi.exe.config
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\04. Assignment 05\BITCollege_MR\BITCollege_MR\bin\roslyn\csi.rsp
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\04. Assignment 05\BITCollege_MR\BITCollege_MR\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\04. Assignment 05\BITCollege_MR\BITCollege_MR\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\04. Assignment 05\BITCollege_MR\BITCollege_MR\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\04. Assignment 05\BITCollege_MR\BITCollege_MR\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\04. Assignment 05\BITCollege_MR\BITCollege_MR\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\04. Assignment 05\BITCollege_MR\BITCollege_MR\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\04. Assignment 05\BITCollege_MR\BITCollege_MR\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\04. Assignment 05\BITCollege_MR\BITCollege_MR\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\04. Assignment 05\BITCollege_MR\BITCollege_MR\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\04. Assignment 05\BITCollege_MR\BITCollege_MR\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\04. Assignment 05\BITCollege_MR\BITCollege_MR\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\04. Assignment 05\BITCollege_MR\BITCollege_MR\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\04. Assignment 05\BITCollege_MR\BITCollege_MR\bin\roslyn\System.AppContext.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\04. Assignment 05\BITCollege_MR\BITCollege_MR\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\04. Assignment 05\BITCollege_MR\BITCollege_MR\bin\roslyn\System.Console.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\04. Assignment 05\BITCollege_MR\BITCollege_MR\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\04. Assignment 05\BITCollege_MR\BITCollege_MR\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\04. Assignment 05\BITCollege_MR\BITCollege_MR\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\04. Assignment 05\BITCollege_MR\BITCollege_MR\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\04. Assignment 05\BITCollege_MR\BITCollege_MR\bin\roslyn\System.IO.Compression.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\04. Assignment 05\BITCollege_MR\BITCollege_MR\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\04. Assignment 05\BITCollege_MR\BITCollege_MR\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\04. Assignment 05\BITCollege_MR\BITCollege_MR\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\04. Assignment 05\BITCollege_MR\BITCollege_MR\bin\roslyn\System.Net.Http.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\04. Assignment 05\BITCollege_MR\BITCollege_MR\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\04. Assignment 05\BITCollege_MR\BITCollege_MR\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\04. Assignment 05\BITCollege_MR\BITCollege_MR\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\04. Assignment 05\BITCollege_MR\BITCollege_MR\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\04. Assignment 05\BITCollege_MR\BITCollege_MR\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\04. Assignment 05\BITCollege_MR\BITCollege_MR\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\04. Assignment 05\BITCollege_MR\BITCollege_MR\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\04. Assignment 05\BITCollege_MR\BITCollege_MR\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\04. Assignment 05\BITCollege_MR\BITCollege_MR\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\04. Assignment 05\BITCollege_MR\BITCollege_MR\bin\roslyn\System.ValueTuple.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\04. Assignment 05\BITCollege_MR\BITCollege_MR\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\04. Assignment 05\BITCollege_MR\BITCollege_MR\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\04. Assignment 05\BITCollege_MR\BITCollege_MR\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\04. Assignment 05\BITCollege_MR\BITCollege_MR\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\04. Assignment 05\BITCollege_MR\BITCollege_MR\bin\roslyn\vbc.exe
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\04. Assignment 05\BITCollege_MR\BITCollege_MR\bin\roslyn\vbc.exe.config
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\04. Assignment 05\BITCollege_MR\BITCollege_MR\bin\roslyn\vbc.rsp
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\04. Assignment 05\BITCollege_MR\BITCollege_MR\bin\roslyn\VBCSCompiler.exe
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\04. Assignment 05\BITCollege_MR\BITCollege_MR\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\04. Assignment 05\BITCollege_MR\BITCollege_MR\bin\Antlr3.Runtime.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\04. Assignment 05\BITCollege_MR\BITCollege_MR\bin\EntityFramework.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\04. Assignment 05\BITCollege_MR\BITCollege_MR\bin\EntityFramework.SqlServer.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\04. Assignment 05\BITCollege_MR\BITCollege_MR\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\04. Assignment 05\BITCollege_MR\BITCollege_MR\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\04. Assignment 05\BITCollege_MR\BITCollege_MR\bin\Newtonsoft.Json.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\04. Assignment 05\BITCollege_MR\BITCollege_MR\bin\System.Web.Helpers.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\04. Assignment 05\BITCollege_MR\BITCollege_MR\bin\System.Web.Mvc.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\04. Assignment 05\BITCollege_MR\BITCollege_MR\bin\System.Web.Optimization.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\04. Assignment 05\BITCollege_MR\BITCollege_MR\bin\System.Web.Razor.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\04. Assignment 05\BITCollege_MR\BITCollege_MR\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\04. Assignment 05\BITCollege_MR\BITCollege_MR\bin\System.Web.WebPages.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\04. Assignment 05\BITCollege_MR\BITCollege_MR\bin\System.Web.WebPages.Razor.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\04. Assignment 05\BITCollege_MR\BITCollege_MR\bin\Utility.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\04. Assignment 05\BITCollege_MR\BITCollege_MR\bin\WebGrease.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\04. Assignment 05\BITCollege_MR\BITCollege_MR\bin\Utility.pdb
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\04. Assignment 05\BITCollege_MR\BITCollege_MR\bin\EntityFramework.xml
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\04. Assignment 05\BITCollege_MR\BITCollege_MR\bin\EntityFramework.SqlServer.xml
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\04. Assignment 05\BITCollege_MR\BITCollege_MR\bin\System.Web.Helpers.xml
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\04. Assignment 05\BITCollege_MR\BITCollege_MR\bin\System.Web.Mvc.xml
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\04. Assignment 05\BITCollege_MR\BITCollege_MR\bin\System.Web.Optimization.xml
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\04. Assignment 05\BITCollege_MR\BITCollege_MR\bin\System.Web.Razor.xml
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\04. Assignment 05\BITCollege_MR\BITCollege_MR\bin\System.Web.WebPages.xml
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\04. Assignment 05\BITCollege_MR\BITCollege_MR\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\04. Assignment 05\BITCollege_MR\BITCollege_MR\bin\System.Web.WebPages.Razor.xml
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\04. Assignment 05\BITCollege_MR\BITCollege_MR\bin\Newtonsoft.Json.xml
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\04. Assignment 05\BITCollege_MR\BITCollege_MR\bin\Antlr3.Runtime.pdb
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\04. Assignment 05\BITCollege_MR\BITCollege_MR\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\04. Assignment 05\BITCollege_MR\BITCollege_MR\obj\Debug\BITCollege_MR.csproj.AssemblyReference.cache
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\04. Assignment 05\BITCollege_MR\BITCollege_MR\obj\Debug\BITCollege_MR.Migrations.initialcreate.resources
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\04. Assignment 05\BITCollege_MR\BITCollege_MR\obj\Debug\BITCollege_MR.Migrations.StoredProcedures.resources
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\04. Assignment 05\BITCollege_MR\BITCollege_MR\obj\Debug\BITCollege_MR.Migrations.RemoveDataAnnotations.resources
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\04. Assignment 05\BITCollege_MR\BITCollege_MR\obj\Debug\BITCollege_MR.Migrations.RemoveDataAnnotations1.resources
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\04. Assignment 05\BITCollege_MR\BITCollege_MR\obj\Debug\BITCollege_MR.Properties.Resources.resources
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\04. Assignment 05\BITCollege_MR\BITCollege_MR\obj\Debug\BITCollege_MR.Resource1.resources
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\04. Assignment 05\BITCollege_MR\BITCollege_MR\obj\Debug\BITCollege_MR.csproj.GenerateResource.cache
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\04. Assignment 05\BITCollege_MR\BITCollege_MR\obj\Debug\BITCollege_MR.csproj.CoreCompileInputs.cache
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\04. Assignment 05\BITCollege_MR\BITCollege_MR\obj\Debug\BITColle.91066524.Up2Date
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\04. Assignment 05\BITCollege_MR\BITCollege_MR\obj\Debug\BITCollege_MR.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\04. Assignment 05\BITCollege_MR\BITCollege_MR\obj\Debug\BITCollege_MR.pdb

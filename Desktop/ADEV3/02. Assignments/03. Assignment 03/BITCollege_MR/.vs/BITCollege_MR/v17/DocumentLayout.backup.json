@@ -1,0 +1,327 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Crizza Lynne\\Desktop\\ADEV3\\02. Assignments\\03. Assignment 03\\BITCollege_MR\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6AFCBABA-4007-4777-9160-37AF8ECC7B59}|UnitTestBITCollege_MR\\UnitTestBITCollege_MR.csproj|C:\\Users\\Crizza Lynne\\Desktop\\ADEV3\\02. Assignments\\03. Assignment 03\\BITCollege_MR\\unittestbitcollege_mr\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AFCBABA-4007-4777-9160-37AF8ECC7B59}|UnitTestBITCollege_MR\\UnitTestBITCollege_MR.csproj|solutionrelative:unittestbitcollege_mr\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0BE79ED-BBB6-43AB-9B68-FBE4E9409E93}|BITCollege_MR\\BITCollege_MR.csproj|c:\\users\\crizza lynne\\desktop\\adev3\\02. assignments\\03. assignment 03\\bitcollege_mr\\bitcollege_mr\\models\\schoolmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0BE79ED-BBB6-43AB-9B68-FBE4E9409E93}|BITCollege_MR\\BITCollege_MR.csproj|solutionrelative:bitcollege_mr\\models\\schoolmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0BE79ED-BBB6-43AB-9B68-FBE4E9409E93}|BITCollege_MR\\BITCollege_MR.csproj|C:\\Users\\Crizza Lynne\\Desktop\\ADEV3\\02. Assignments\\03. Assignment 03\\BITCollege_MR\\bitcollege_mr\\views\\probationstates\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E0BE79ED-BBB6-43AB-9B68-FBE4E9409E93}|BITCollege_MR\\BITCollege_MR.csproj|solutionrelative:bitcollege_mr\\views\\probationstates\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0BE79ED-BBB6-43AB-9B68-FBE4E9409E93}|BITCollege_MR\\BITCollege_MR.csproj|C:\\Users\\Crizza Lynne\\Desktop\\ADEV3\\02. Assignments\\03. Assignment 03\\BITCollege_MR\\bitcollege_mr\\views\\students\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E0BE79ED-BBB6-43AB-9B68-FBE4E9409E93}|BITCollege_MR\\BITCollege_MR.csproj|solutionrelative:bitcollege_mr\\views\\students\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0BE79ED-BBB6-43AB-9B68-FBE4E9409E93}|BITCollege_MR\\BITCollege_MR.csproj|C:\\Users\\Crizza Lynne\\Desktop\\ADEV3\\02. Assignments\\03. Assignment 03\\BITCollege_MR\\bitcollege_mr\\views\\suspendedstates\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E0BE79ED-BBB6-43AB-9B68-FBE4E9409E93}|BITCollege_MR\\BITCollege_MR.csproj|solutionrelative:bitcollege_mr\\views\\suspendedstates\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AFCBABA-4007-4777-9160-37AF8ECC7B59}|UnitTestBITCollege_MR\\UnitTestBITCollege_MR.csproj|C:\\Users\\Crizza Lynne\\Desktop\\ADEV3\\02. Assignments\\03. Assignment 03\\BITCollege_MR\\unittestbitcollege_mr\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{6AFCBABA-4007-4777-9160-37AF8ECC7B59}|UnitTestBITCollege_MR\\UnitTestBITCollege_MR.csproj|solutionrelative:unittestbitcollege_mr\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0BE79ED-BBB6-43AB-9B68-FBE4E9409E93}|BITCollege_MR\\BITCollege_MR.csproj|C:\\Users\\Crizza Lynne\\Desktop\\ADEV3\\02. Assignments\\03. Assignment 03\\BITCollege_MR\\bitcollege_mr\\views\\honoursstates\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E0BE79ED-BBB6-43AB-9B68-FBE4E9409E93}|BITCollege_MR\\BITCollege_MR.csproj|solutionrelative:bitcollege_mr\\views\\honoursstates\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0BE79ED-BBB6-43AB-9B68-FBE4E9409E93}|BITCollege_MR\\BITCollege_MR.csproj|C:\\Users\\Crizza Lynne\\Desktop\\ADEV3\\02. Assignments\\03. Assignment 03\\BITCollege_MR\\bitcollege_mr\\views\\regularstates\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E0BE79ED-BBB6-43AB-9B68-FBE4E9409E93}|BITCollege_MR\\BITCollege_MR.csproj|solutionrelative:bitcollege_mr\\views\\regularstates\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0BE79ED-BBB6-43AB-9B68-FBE4E9409E93}|BITCollege_MR\\BITCollege_MR.csproj|C:\\Users\\Crizza Lynne\\Desktop\\ADEV3\\02. Assignments\\03. Assignment 03\\BITCollege_MR\\bitcollege_mr\\views\\suspendedstates\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E0BE79ED-BBB6-43AB-9B68-FBE4E9409E93}|BITCollege_MR\\BITCollege_MR.csproj|solutionrelative:bitcollege_mr\\views\\suspendedstates\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0BE79ED-BBB6-43AB-9B68-FBE4E9409E93}|BITCollege_MR\\BITCollege_MR.csproj|C:\\Users\\Crizza Lynne\\Desktop\\ADEV3\\02. Assignments\\03. Assignment 03\\BITCollege_MR\\bitcollege_mr\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0BE79ED-BBB6-43AB-9B68-FBE4E9409E93}|BITCollege_MR\\BITCollege_MR.csproj|solutionrelative:bitcollege_mr\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0BE79ED-BBB6-43AB-9B68-FBE4E9409E93}|BITCollege_MR\\BITCollege_MR.csproj|C:\\Users\\Crizza Lynne\\Desktop\\ADEV3\\02. Assignments\\03. Assignment 03\\BITCollege_MR\\bitcollege_mr\\views\\honoursstates\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E0BE79ED-BBB6-43AB-9B68-FBE4E9409E93}|BITCollege_MR\\BITCollege_MR.csproj|solutionrelative:bitcollege_mr\\views\\honoursstates\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0BE79ED-BBB6-43AB-9B68-FBE4E9409E93}|BITCollege_MR\\BITCollege_MR.csproj|C:\\Users\\Crizza Lynne\\Desktop\\ADEV3\\02. Assignments\\03. Assignment 03\\BITCollege_MR\\bitcollege_mr\\controllers\\suspendedstatescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0BE79ED-BBB6-43AB-9B68-FBE4E9409E93}|BITCollege_MR\\BITCollege_MR.csproj|solutionrelative:bitcollege_mr\\controllers\\suspendedstatescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0BE79ED-BBB6-43AB-9B68-FBE4E9409E93}|BITCollege_MR\\BITCollege_MR.csproj|C:\\Users\\Crizza Lynne\\Desktop\\ADEV3\\02. Assignments\\03. Assignment 03\\BITCollege_MR\\bitcollege_mr\\views\\regularstates\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E0BE79ED-BBB6-43AB-9B68-FBE4E9409E93}|BITCollege_MR\\BITCollege_MR.csproj|solutionrelative:bitcollege_mr\\views\\regularstates\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0BE79ED-BBB6-43AB-9B68-FBE4E9409E93}|BITCollege_MR\\BITCollege_MR.csproj|C:\\Users\\Crizza Lynne\\Desktop\\ADEV3\\02. Assignments\\03. Assignment 03\\BITCollege_MR\\bitcollege_mr\\views\\students\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E0BE79ED-BBB6-43AB-9B68-FBE4E9409E93}|BITCollege_MR\\BITCollege_MR.csproj|solutionrelative:bitcollege_mr\\views\\students\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0BE79ED-BBB6-43AB-9B68-FBE4E9409E93}|BITCollege_MR\\BITCollege_MR.csproj|C:\\Users\\Crizza Lynne\\Desktop\\ADEV3\\02. Assignments\\03. Assignment 03\\BITCollege_MR\\bitcollege_mr\\views\\students\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E0BE79ED-BBB6-43AB-9B68-FBE4E9409E93}|BITCollege_MR\\BITCollege_MR.csproj|solutionrelative:bitcollege_mr\\views\\students\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0BE79ED-BBB6-43AB-9B68-FBE4E9409E93}|BITCollege_MR\\BITCollege_MR.csproj|C:\\Users\\Crizza Lynne\\Desktop\\ADEV3\\02. Assignments\\03. Assignment 03\\BITCollege_MR\\bitcollege_mr\\views\\probationstates\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E0BE79ED-BBB6-43AB-9B68-FBE4E9409E93}|BITCollege_MR\\BITCollege_MR.csproj|solutionrelative:bitcollege_mr\\views\\probationstates\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0BE79ED-BBB6-43AB-9B68-FBE4E9409E93}|BITCollege_MR\\BITCollege_MR.csproj|C:\\Users\\Crizza Lynne\\Desktop\\ADEV3\\02. Assignments\\03. Assignment 03\\BITCollege_MR\\bitcollege_mr\\controllers\\regularstatescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0BE79ED-BBB6-43AB-9B68-FBE4E9409E93}|BITCollege_MR\\BITCollege_MR.csproj|solutionrelative:bitcollege_mr\\controllers\\regularstatescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0BE79ED-BBB6-43AB-9B68-FBE4E9409E93}|BITCollege_MR\\BITCollege_MR.csproj|C:\\Users\\Crizza Lynne\\Desktop\\ADEV3\\02. Assignments\\03. Assignment 03\\BITCollege_MR\\bitcollege_mr\\controllers\\honoursstatescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0BE79ED-BBB6-43AB-9B68-FBE4E9409E93}|BITCollege_MR\\BITCollege_MR.csproj|solutionrelative:bitcollege_mr\\controllers\\honoursstatescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0BE79ED-BBB6-43AB-9B68-FBE4E9409E93}|BITCollege_MR\\BITCollege_MR.csproj|C:\\Users\\Crizza Lynne\\Desktop\\ADEV3\\02. Assignments\\03. Assignment 03\\BITCollege_MR\\bitcollege_mr\\controllers\\probationstatescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0BE79ED-BBB6-43AB-9B68-FBE4E9409E93}|BITCollege_MR\\BITCollege_MR.csproj|solutionrelative:bitcollege_mr\\controllers\\probationstatescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Crizza Lynne\\Desktop\\ADEV3\\02. Assignments\\03. Assignment 03\\BITCollege_MR\\BITCollege_MR\\Views\\SuspendedStates\\Index.cshtml",
+              "RelativeDocumentMoniker": "BITCollege_MR\\Views\\SuspendedStates\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Crizza Lynne\\Desktop\\ADEV3\\02. Assignments\\03. Assignment 03\\BITCollege_MR\\BITCollege_MR\\Views\\SuspendedStates\\Index.cshtml",
+              "RelativeToolTip": "BITCollege_MR\\Views\\SuspendedStates\\Index.cshtml",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAMwBoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-01T04:15:08.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\Crizza Lynne\\Desktop\\ADEV3\\02. Assignments\\03. Assignment 03\\BITCollege_MR\\UnitTestBITCollege_MR\\App.config",
+              "RelativeDocumentMoniker": "UnitTestBITCollege_MR\\App.config",
+              "ToolTip": "C:\\Users\\Crizza Lynne\\Desktop\\ADEV3\\02. Assignments\\03. Assignment 03\\BITCollege_MR\\UnitTestBITCollege_MR\\App.config",
+              "RelativeToolTip": "UnitTestBITCollege_MR\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-10-02T15:34:09.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Crizza Lynne\\Desktop\\ADEV3\\02. Assignments\\03. Assignment 03\\BITCollege_MR\\BITCollege_MR\\Views\\Students\\Index.cshtml",
+              "RelativeDocumentMoniker": "BITCollege_MR\\Views\\Students\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Crizza Lynne\\Desktop\\ADEV3\\02. Assignments\\03. Assignment 03\\BITCollege_MR\\BITCollege_MR\\Views\\Students\\Index.cshtml",
+              "RelativeToolTip": "BITCollege_MR\\Views\\Students\\Index.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAArwCAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-01T18:50:41.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Crizza Lynne\\Desktop\\ADEV3\\02. Assignments\\03. Assignment 03\\BITCollege_MR\\BITCollege_MR\\Views\\ProbationStates\\Index.cshtml",
+              "RelativeDocumentMoniker": "BITCollege_MR\\Views\\ProbationStates\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Crizza Lynne\\Desktop\\ADEV3\\02. Assignments\\03. Assignment 03\\BITCollege_MR\\BITCollege_MR\\Views\\ProbationStates\\Index.cshtml",
+              "RelativeToolTip": "BITCollege_MR\\Views\\ProbationStates\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-01T04:13:22.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SchoolModel.cs",
+              "DocumentMoniker": "C:\\Users\\Crizza Lynne\\Desktop\\ADEV3\\02. Assignments\\03. Assignment 03\\BITCollege_MR\\BITCollege_MR\\Models\\SchoolModel.cs",
+              "RelativeDocumentMoniker": "BITCollege_MR\\Models\\SchoolModel.cs",
+              "ToolTip": "C:\\Users\\Crizza Lynne\\Desktop\\ADEV3\\02. Assignments\\03. Assignment 03\\BITCollege_MR\\BITCollege_MR\\Models\\SchoolModel.cs",
+              "RelativeToolTip": "BITCollege_MR\\Models\\SchoolModel.cs",
+              "ViewState": "AgIAAJABAAAAAAAAAAAQwKQBAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T17:17:42.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Crizza Lynne\\Desktop\\ADEV3\\02. Assignments\\03. Assignment 03\\BITCollege_MR\\UnitTestBITCollege_MR\\Program.cs",
+              "RelativeDocumentMoniker": "UnitTestBITCollege_MR\\Program.cs",
+              "ToolTip": "C:\\Users\\Crizza Lynne\\Desktop\\ADEV3\\02. Assignments\\03. Assignment 03\\BITCollege_MR\\UnitTestBITCollege_MR\\Program.cs*",
+              "RelativeToolTip": "UnitTestBITCollege_MR\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T15:31:13.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Crizza Lynne\\Desktop\\ADEV3\\02. Assignments\\03. Assignment 03\\BITCollege_MR\\BITCollege_MR\\Views\\RegularStates\\Index.cshtml",
+              "RelativeDocumentMoniker": "BITCollege_MR\\Views\\RegularStates\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Crizza Lynne\\Desktop\\ADEV3\\02. Assignments\\03. Assignment 03\\BITCollege_MR\\BITCollege_MR\\Views\\RegularStates\\Index.cshtml",
+              "RelativeToolTip": "BITCollege_MR\\Views\\RegularStates\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-01T04:16:01.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Crizza Lynne\\Desktop\\ADEV3\\02. Assignments\\03. Assignment 03\\BITCollege_MR\\BITCollege_MR\\Views\\RegularStates\\Details.cshtml",
+              "RelativeDocumentMoniker": "BITCollege_MR\\Views\\RegularStates\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Crizza Lynne\\Desktop\\ADEV3\\02. Assignments\\03. Assignment 03\\BITCollege_MR\\BITCollege_MR\\Views\\RegularStates\\Details.cshtml",
+              "RelativeToolTip": "BITCollege_MR\\Views\\RegularStates\\Details.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-01T19:17:22.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Crizza Lynne\\Desktop\\ADEV3\\02. Assignments\\03. Assignment 03\\BITCollege_MR\\BITCollege_MR\\Views\\Students\\Details.cshtml",
+              "RelativeDocumentMoniker": "BITCollege_MR\\Views\\Students\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Crizza Lynne\\Desktop\\ADEV3\\02. Assignments\\03. Assignment 03\\BITCollege_MR\\BITCollege_MR\\Views\\Students\\Details.cshtml",
+              "RelativeToolTip": "BITCollege_MR\\Views\\Students\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-01T19:31:28.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Crizza Lynne\\Desktop\\ADEV3\\02. Assignments\\03. Assignment 03\\BITCollege_MR\\BITCollege_MR\\Views\\SuspendedStates\\Details.cshtml",
+              "RelativeDocumentMoniker": "BITCollege_MR\\Views\\SuspendedStates\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Crizza Lynne\\Desktop\\ADEV3\\02. Assignments\\03. Assignment 03\\BITCollege_MR\\BITCollege_MR\\Views\\SuspendedStates\\Details.cshtml",
+              "RelativeToolTip": "BITCollege_MR\\Views\\SuspendedStates\\Details.cshtml",
+              "ViewState": "AgIAABEAAAAAAAAAAAAgwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-01T19:17:15.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Crizza Lynne\\Desktop\\ADEV3\\02. Assignments\\03. Assignment 03\\BITCollege_MR\\BITCollege_MR\\Views\\HonoursStates\\Index.cshtml",
+              "RelativeDocumentMoniker": "BITCollege_MR\\Views\\HonoursStates\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Crizza Lynne\\Desktop\\ADEV3\\02. Assignments\\03. Assignment 03\\BITCollege_MR\\BITCollege_MR\\Views\\HonoursStates\\Index.cshtml",
+              "RelativeToolTip": "BITCollege_MR\\Views\\HonoursStates\\Index.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-01T04:16:33.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SuspendedStatesController.cs",
+              "DocumentMoniker": "C:\\Users\\Crizza Lynne\\Desktop\\ADEV3\\02. Assignments\\03. Assignment 03\\BITCollege_MR\\BITCollege_MR\\Controllers\\SuspendedStatesController.cs",
+              "RelativeDocumentMoniker": "BITCollege_MR\\Controllers\\SuspendedStatesController.cs",
+              "ToolTip": "C:\\Users\\Crizza Lynne\\Desktop\\ADEV3\\02. Assignments\\03. Assignment 03\\BITCollege_MR\\BITCollege_MR\\Controllers\\SuspendedStatesController.cs",
+              "RelativeToolTip": "BITCollege_MR\\Controllers\\SuspendedStatesController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAEwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T17:57:53.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Crizza Lynne\\Desktop\\ADEV3\\02. Assignments\\03. Assignment 03\\BITCollege_MR\\BITCollege_MR\\Views\\HonoursStates\\Details.cshtml",
+              "RelativeDocumentMoniker": "BITCollege_MR\\Views\\HonoursStates\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Crizza Lynne\\Desktop\\ADEV3\\02. Assignments\\03. Assignment 03\\BITCollege_MR\\BITCollege_MR\\Views\\HonoursStates\\Details.cshtml",
+              "RelativeToolTip": "BITCollege_MR\\Views\\HonoursStates\\Details.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-01T19:17:42.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "C:\\Users\\Crizza Lynne\\Desktop\\ADEV3\\02. Assignments\\03. Assignment 03\\BITCollege_MR\\BITCollege_MR\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "BITCollege_MR\\Controllers\\StudentsController.cs",
+              "ToolTip": "C:\\Users\\Crizza Lynne\\Desktop\\ADEV3\\02. Assignments\\03. Assignment 03\\BITCollege_MR\\BITCollege_MR\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "BITCollege_MR\\Controllers\\StudentsController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAUwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T14:40:38.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Crizza Lynne\\Desktop\\ADEV3\\02. Assignments\\03. Assignment 03\\BITCollege_MR\\BITCollege_MR\\Views\\Students\\Edit.cshtml",
+              "RelativeDocumentMoniker": "BITCollege_MR\\Views\\Students\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Crizza Lynne\\Desktop\\ADEV3\\02. Assignments\\03. Assignment 03\\BITCollege_MR\\BITCollege_MR\\Views\\Students\\Edit.cshtml",
+              "RelativeToolTip": "BITCollege_MR\\Views\\Students\\Edit.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACEAAABoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-01T18:47:37.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Crizza Lynne\\Desktop\\ADEV3\\02. Assignments\\03. Assignment 03\\BITCollege_MR\\BITCollege_MR\\Views\\ProbationStates\\Details.cshtml",
+              "RelativeDocumentMoniker": "BITCollege_MR\\Views\\ProbationStates\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Crizza Lynne\\Desktop\\ADEV3\\02. Assignments\\03. Assignment 03\\BITCollege_MR\\BITCollege_MR\\Views\\ProbationStates\\Details.cshtml",
+              "RelativeToolTip": "BITCollege_MR\\Views\\ProbationStates\\Details.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-01T04:11:39.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "RegularStatesController.cs",
+              "DocumentMoniker": "C:\\Users\\Crizza Lynne\\Desktop\\ADEV3\\02. Assignments\\03. Assignment 03\\BITCollege_MR\\BITCollege_MR\\Controllers\\RegularStatesController.cs",
+              "RelativeDocumentMoniker": "BITCollege_MR\\Controllers\\RegularStatesController.cs",
+              "ToolTip": "C:\\Users\\Crizza Lynne\\Desktop\\ADEV3\\02. Assignments\\03. Assignment 03\\BITCollege_MR\\BITCollege_MR\\Controllers\\RegularStatesController.cs",
+              "RelativeToolTip": "BITCollege_MR\\Controllers\\RegularStatesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T02:43:14.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "HonoursStatesController.cs",
+              "DocumentMoniker": "C:\\Users\\Crizza Lynne\\Desktop\\ADEV3\\02. Assignments\\03. Assignment 03\\BITCollege_MR\\BITCollege_MR\\Controllers\\HonoursStatesController.cs",
+              "RelativeDocumentMoniker": "BITCollege_MR\\Controllers\\HonoursStatesController.cs",
+              "ToolTip": "C:\\Users\\Crizza Lynne\\Desktop\\ADEV3\\02. Assignments\\03. Assignment 03\\BITCollege_MR\\BITCollege_MR\\Controllers\\HonoursStatesController.cs",
+              "RelativeToolTip": "BITCollege_MR\\Controllers\\HonoursStatesController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T02:47:17.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ProbationStatesController.cs",
+              "DocumentMoniker": "C:\\Users\\Crizza Lynne\\Desktop\\ADEV3\\02. Assignments\\03. Assignment 03\\BITCollege_MR\\BITCollege_MR\\Controllers\\ProbationStatesController.cs",
+              "RelativeDocumentMoniker": "BITCollege_MR\\Controllers\\ProbationStatesController.cs",
+              "ToolTip": "C:\\Users\\Crizza Lynne\\Desktop\\ADEV3\\02. Assignments\\03. Assignment 03\\BITCollege_MR\\BITCollege_MR\\Controllers\\ProbationStatesController.cs",
+              "RelativeToolTip": "BITCollege_MR\\Controllers\\ProbationStatesController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T02:01:52.444Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

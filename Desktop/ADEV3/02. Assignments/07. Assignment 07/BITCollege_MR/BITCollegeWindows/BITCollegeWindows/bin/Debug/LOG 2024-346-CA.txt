@@ -1,0 +1,888 @@
+
+Root element: student_update
+Attributes: date=2024-12-11, program=CA, checksum=960000043
+Program attribute in XML: CA
+-------ERROR-------
+File: 2024-346-CA.xml
+Program: CA
+Student Number: 80000004
+Course Number: G-800009
+Registration Number: *
+Type: 1
+Grade: 
+Notes: ***ERROR*** Incorrect number of nodes
+Node Count: 6
+ErrorMessage: Node counts is not 7.
+-------------------
+-------ERROR-------
+File: 2024-346-CA.xml
+Program: CA
+Student Number: 80000001
+Course Number: G-80004
+Registration Number: *
+Type: 1
+Grade: @
+Notes: ***ERROR*** Invalid Grade Value
+Node Count: 7
+ErrorMessage: Grade element must be numeric or have the value of '*'.
+-------------------
+-------ERROR-------
+File: 2024-346-CA.xml
+Program: CA
+Student Number: 80000004
+Course Number: A-8007
+Registration Number: *
+Type: 1
+Grade: 100
+Notes: ***ERROR***  Grade for Type 1 should be a *
+Node Count: 7
+ErrorMessage: Grade element must be '*' for type 1 and between 0 and 100 inclusive for type 2.
+-------------------
+-------ERROR-------
+File: 2024-346-CA.xml
+Program: CA
+Student Number: 80000004
+Course Number: D-12345
+Registration Number: *
+Type: 1
+Grade: *
+Notes: ***ERROR*** Course does not exist
+Node Count: 7
+ErrorMessage: Course number must be '*' for type 2 or exist in the database for type 1.
+-------------------
+-------ERROR-------
+File: 2024-346-CA.xml
+Program: CA
+Student Number: 80000002
+Course Number: G-80005
+Registration Number: 2001
+Type: 2
+Grade: 22
+Notes: ***ERROR*** Course for Type 2 should be a *
+Node Count: 7
+ErrorMessage: Course number must be '*' for type 2 or exist in the database for type 1.
+-------------------
+Extracted values: type=2, studentNo=80000004, courseNo=*, registrationNo=8019, grade=51, notes=Good grade update
+File: 2024-346-CA.xml
+Successful grade update for student 80000004 in course *. Grade: 51. Notes: Good grade update
+
+Extracted values: type=2, studentNo=80000004, courseNo=*, registrationNo=8020, grade=35.4, notes=Good grade update
+File: 2024-346-CA.xml
+Successful grade update for student 80000004 in course *. Grade: 35.4. Notes: Good grade update
+
+Extracted values: type=1, studentNo=80000004, courseNo=G-800011, registrationNo=*, grade=*, notes=***ERROR*** Cannot register for a course with an open registration
+File: 2024-346-CA.xml
+Unsuccessful registration for student 80000004 in course G-800011. Error code: -100. Error: Student cannot register for a course in which there is already an ungraded registration.
+
+Extracted values: type=1, studentNo=80000004, courseNo=M-80008, registrationNo=*, grade=*, notes=***ERROR*** This registration would exceed the maximum allowable attempts
+File: 2024-346-CA.xml
+Unsuccessful registration for student 80000004 in course M-80008. Error code: -200. Error: Student has exceeded maximum attempts on mastery course.
+
+Extracted values: type=1, studentNo=80000004, courseNo=A-8002, registrationNo=*, grade=*, notes=Good registration
+File: 2024-346-CA.xml
+Unsuccessful registration for student 80000004 in course A-8002. Error code: -300. Error: An error has occurred while updating the registration.
+
+Extracted values: type=1, studentNo=80000004, courseNo=G-800003, registrationNo=*, grade=*, notes=Good Registration
+File: 2024-346-CA.xml
+Unsuccessful registration for student 80000004 in course G-800003. Error code: -300. Error: An error has occurred while updating the registration.
+
+Extracted values: type=1, studentNo=80000004, courseNo=G-800004, registrationNo=*, grade=*, notes=Good Registration
+File: 2024-346-CA.xml
+Unsuccessful registration for student 80000004 in course G-800004. Error code: -300. Error: An error has occurred while updating the registration.
+
+
+-------ERROR-------
+File: 2024-346-CA.xml
+Program: CA
+Student Number: 80000004
+Course Number: G-800009
+Registration Number: *
+Type: 1
+Grade: 
+Notes: ***ERROR*** Incorrect number of nodes
+Node Count: 6
+ErrorMessage: Node counts is not 7.
+-------------------
+-------ERROR-------
+File: 2024-346-CA.xml
+Program: CA
+Student Number: 80000001
+Course Number: G-80004
+Registration Number: *
+Type: 1
+Grade: @
+Notes: ***ERROR*** Invalid Grade Value
+Node Count: 7
+ErrorMessage: Grade element must be numeric or have the value of '*'.
+-------------------
+-------ERROR-------
+File: 2024-346-CA.xml
+Program: CA
+Student Number: 80000004
+Course Number: A-8007
+Registration Number: *
+Type: 1
+Grade: 100
+Notes: ***ERROR***  Grade for Type 1 should be a *
+Node Count: 7
+ErrorMessage: Grade element must be '*' for type 1 and between 0 and 100 inclusive for type 2.
+-------------------
+-------ERROR-------
+File: 2024-346-CA.xml
+Program: CA
+Student Number: 80000004
+Course Number: D-12345
+Registration Number: *
+Type: 1
+Grade: *
+Notes: ***ERROR*** Course does not exist
+Node Count: 7
+ErrorMessage: Course number must be '*' for type 2 or exist in the database for type 1.
+-------------------
+-------ERROR-------
+File: 2024-346-CA.xml
+Program: CA
+Student Number: 80000002
+Course Number: G-80005
+Registration Number: 2001
+Type: 2
+Grade: 22
+Notes: ***ERROR*** Course for Type 2 should be a *
+Node Count: 7
+ErrorMessage: Course number must be '*' for type 2 or exist in the database for type 1.
+-------------------
+Extracted values: type=2, studentNo=80000004, courseNo=*, registrationNo=8019, grade=51, notes=Good grade update
+File: 2024-346-CA.xml
+Successful grade update for student 80000004 in course *. Grade: 51. Notes: Good grade update
+
+Extracted values: type=2, studentNo=80000004, courseNo=*, registrationNo=8020, grade=35.4, notes=Good grade update
+File: 2024-346-CA.xml
+Successful grade update for student 80000004 in course *. Grade: 35.4. Notes: Good grade update
+
+Extracted values: type=1, studentNo=80000004, courseNo=G-800011, registrationNo=*, grade=*, notes=***ERROR*** Cannot register for a course with an open registration
+File: 2024-346-CA.xml
+Unsuccessful registration for student 80000004 in course G-800011. Error code: -100. Error: Student cannot register for a course in which there is already an ungraded registration.
+
+Extracted values: type=1, studentNo=80000004, courseNo=M-80008, registrationNo=*, grade=*, notes=***ERROR*** This registration would exceed the maximum allowable attempts
+File: 2024-346-CA.xml
+Unsuccessful registration for student 80000004 in course M-80008. Error code: -200. Error: Student has exceeded maximum attempts on mastery course.
+
+Extracted values: type=1, studentNo=80000004, courseNo=A-8002, registrationNo=*, grade=*, notes=Good registration
+File: 2024-346-CA.xml
+Unsuccessful registration for student 80000004 in course A-8002. Error code: -300. Error: An error has occurred while updating the registration.
+
+Extracted values: type=1, studentNo=80000004, courseNo=G-800003, registrationNo=*, grade=*, notes=Good Registration
+File: 2024-346-CA.xml
+Successful registration for student 80000004 in course G-800003. Notes: Good Registration
+
+Extracted values: type=1, studentNo=80000004, courseNo=G-800004, registrationNo=*, grade=*, notes=Good Registration
+File: 2024-346-CA.xml
+Successful registration for student 80000004 in course G-800004. Notes: Good Registration
+
+
+-------ERROR-------
+File: 2024-346-CA.xml
+Program: CA
+Student Number: 80000004
+Course Number: G-800009
+Registration Number: *
+Type: 1
+Grade: 
+Notes: ***ERROR*** Incorrect number of nodes
+Node Count: 6
+ErrorMessage: Node counts is not 7.
+-------------------
+-------ERROR-------
+File: 2024-346-CA.xml
+Program: CA
+Student Number: 80000001
+Course Number: G-80004
+Registration Number: *
+Type: 1
+Grade: @
+Notes: ***ERROR*** Invalid Grade Value
+Node Count: 7
+ErrorMessage: Grade element must be numeric or have the value of '*'.
+-------------------
+-------ERROR-------
+File: 2024-346-CA.xml
+Program: CA
+Student Number: 80000004
+Course Number: A-8007
+Registration Number: *
+Type: 1
+Grade: 100
+Notes: ***ERROR***  Grade for Type 1 should be a *
+Node Count: 7
+ErrorMessage: Grade element must be '*' for type 1 and between 0 and 100 inclusive for type 2.
+-------------------
+-------ERROR-------
+File: 2024-346-CA.xml
+Program: CA
+Student Number: 80000004
+Course Number: D-12345
+Registration Number: *
+Type: 1
+Grade: *
+Notes: ***ERROR*** Course does not exist
+Node Count: 7
+ErrorMessage: Course number must be '*' for type 2 or exist in the database for type 1.
+-------------------
+-------ERROR-------
+File: 2024-346-CA.xml
+Program: CA
+Student Number: 80000002
+Course Number: G-80005
+Registration Number: 2001
+Type: 2
+Grade: 22
+Notes: ***ERROR*** Course for Type 2 should be a *
+Node Count: 7
+ErrorMessage: Course number must be '*' for type 2 or exist in the database for type 1.
+-------------------
+Extracted values: type=2, studentNo=80000004, courseNo=*, registrationNo=8019, grade=51, notes=Good grade update
+File: 2024-346-CA.xml
+Successful grade update for student 80000004 in course *. Grade: 51. Notes: Good grade update
+
+Extracted values: type=2, studentNo=80000004, courseNo=*, registrationNo=8020, grade=35.4, notes=Good grade update
+File: 2024-346-CA.xml
+Successful grade update for student 80000004 in course *. Grade: 35.4. Notes: Good grade update
+
+Extracted values: type=1, studentNo=80000004, courseNo=G-800011, registrationNo=*, grade=*, notes=***ERROR*** Cannot register for a course with an open registration
+File: 2024-346-CA.xml
+Unsuccessful registration for student 80000004 in course G-800011. Error code: -100. Error: Student cannot register for a course in which there is already an ungraded registration.
+
+Extracted values: type=1, studentNo=80000004, courseNo=M-80008, registrationNo=*, grade=*, notes=***ERROR*** This registration would exceed the maximum allowable attempts
+File: 2024-346-CA.xml
+Unsuccessful registration for student 80000004 in course M-80008. Error code: -200. Error: Student has exceeded maximum attempts on mastery course.
+
+Extracted values: type=1, studentNo=80000004, courseNo=A-8002, registrationNo=*, grade=*, notes=Good registration
+File: 2024-346-CA.xml
+Successful registration for student 80000004 in course A-8002. Notes: Good registration
+
+Extracted values: type=1, studentNo=80000004, courseNo=G-800003, registrationNo=*, grade=*, notes=Good Registration
+File: 2024-346-CA.xml
+Unsuccessful registration for student 80000004 in course G-800003. Error code: -100. Error: Student cannot register for a course in which there is already an ungraded registration.
+
+Extracted values: type=1, studentNo=80000004, courseNo=G-800004, registrationNo=*, grade=*, notes=Good Registration
+File: 2024-346-CA.xml
+Unsuccessful registration for student 80000004 in course G-800004. Error code: -100. Error: Student cannot register for a course in which there is already an ungraded registration.
+
+
+-------ERROR-------
+File: 2024-346-CA.xml
+Program: CA
+Student Number: 80000004
+Course Number: G-800009
+Registration Number: *
+Type: 1
+Grade: 
+Notes: ***ERROR*** Incorrect number of nodes
+Node Count: 6
+ErrorMessage: Node counts is not 7.
+-------------------
+-------ERROR-------
+File: 2024-346-CA.xml
+Program: CA
+Student Number: 80000001
+Course Number: G-80004
+Registration Number: *
+Type: 1
+Grade: @
+Notes: ***ERROR*** Invalid Grade Value
+Node Count: 7
+ErrorMessage: Grade element must be numeric or have the value of '*'.
+-------------------
+-------ERROR-------
+File: 2024-346-CA.xml
+Program: CA
+Student Number: 80000004
+Course Number: A-8007
+Registration Number: *
+Type: 1
+Grade: 100
+Notes: ***ERROR***  Grade for Type 1 should be a *
+Node Count: 7
+ErrorMessage: Grade element must be '*' for type 1 and between 0 and 100 inclusive for type 2.
+-------------------
+-------ERROR-------
+File: 2024-346-CA.xml
+Program: CA
+Student Number: 80000004
+Course Number: D-12345
+Registration Number: *
+Type: 1
+Grade: *
+Notes: ***ERROR*** Course does not exist
+Node Count: 7
+ErrorMessage: Course number must be '*' for type 2 or exist in the database for type 1.
+-------------------
+-------ERROR-------
+File: 2024-346-CA.xml
+Program: CA
+Student Number: 80000002
+Course Number: G-80005
+Registration Number: 2001
+Type: 2
+Grade: 22
+Notes: ***ERROR*** Course for Type 2 should be a *
+Node Count: 7
+ErrorMessage: Course number must be '*' for type 2 or exist in the database for type 1.
+-------------------
+File: 2024-346-CA.xml
+Successful grade update for student 80000004 in course *. Grade: 51. Notes: Good grade update
+
+File: 2024-346-CA.xml
+Successful grade update for student 80000004 in course *. Grade: 35.4. Notes: Good grade update
+
+File: 2024-346-CA.xml
+Unsuccessful registration for student 80000004 in course G-800011. Error code: -100. Error: Student cannot register for a course in which there is already an ungraded registration.
+
+File: 2024-346-CA.xml
+Unsuccessful registration for student 80000004 in course M-80008. Error code: -200. Error: Student has exceeded maximum attempts on mastery course.
+
+File: 2024-346-CA.xml
+Unsuccessful registration for student 80000004 in course A-8002. Error code: -100. Error: Student cannot register for a course in which there is already an ungraded registration.
+
+File: 2024-346-CA.xml
+Unsuccessful registration for student 80000004 in course G-800003. Error code: -100. Error: Student cannot register for a course in which there is already an ungraded registration.
+
+File: 2024-346-CA.xml
+Unsuccessful registration for student 80000004 in course G-800004. Error code: -100. Error: Student cannot register for a course in which there is already an ungraded registration.
+
+
+-------ERROR-------
+File: 2024-346-CA.xml
+Program: CA
+Student Number: 80000004
+Course Number: G-800009
+Registration Number: *
+Type: 1
+Grade: 
+Notes: ***ERROR*** Incorrect number of nodes
+Node Count: 6
+ErrorMessage: Node counts is not 7.
+-------------------
+-------ERROR-------
+File: 2024-346-CA.xml
+Program: CA
+Student Number: 80000001
+Course Number: G-80004
+Registration Number: *
+Type: 1
+Grade: @
+Notes: ***ERROR*** Invalid Grade Value
+Node Count: 7
+ErrorMessage: Grade element must be numeric or have the value of '*'.
+-------------------
+-------ERROR-------
+File: 2024-346-CA.xml
+Program: CA
+Student Number: 80000004
+Course Number: A-8007
+Registration Number: *
+Type: 1
+Grade: 100
+Notes: ***ERROR***  Grade for Type 1 should be a *
+Node Count: 7
+ErrorMessage: Grade element must be '*' for type 1 and between 0 and 100 inclusive for type 2.
+-------------------
+-------ERROR-------
+File: 2024-346-CA.xml
+Program: CA
+Student Number: 80000004
+Course Number: D-12345
+Registration Number: *
+Type: 1
+Grade: *
+Notes: ***ERROR*** Course does not exist
+Node Count: 7
+ErrorMessage: Course number must be '*' for type 2 or exist in the database for type 1.
+-------------------
+-------ERROR-------
+File: 2024-346-CA.xml
+Program: CA
+Student Number: 80000002
+Course Number: G-80005
+Registration Number: 2001
+Type: 2
+Grade: 22
+Notes: ***ERROR*** Course for Type 2 should be a *
+Node Count: 7
+ErrorMessage: Course number must be '*' for type 2 or exist in the database for type 1.
+-------------------
+File: 2024-346-CA.xml
+Successful grade update for student 80000004 in course *. Grade: 51. Notes: Good grade update
+
+File: 2024-346-CA.xml
+Successful grade update for student 80000004 in course *. Grade: 35.4. Notes: Good grade update
+
+File: 2024-346-CA.xml
+Unsuccessful registration for student 80000004 in course G-800011. Error code: -100. Error: Student cannot register for a course in which there is already an ungraded registration.
+
+File: 2024-346-CA.xml
+Unsuccessful registration for student 80000004 in course M-80008. Error code: -200. Error: Student has exceeded maximum attempts on mastery course.
+
+File: 2024-346-CA.xml
+Unsuccessful registration for student 80000004 in course A-8002. Error code: -100. Error: Student cannot register for a course in which there is already an ungraded registration.
+
+File: 2024-346-CA.xml
+Unsuccessful registration for student 80000004 in course G-800003. Error code: -100. Error: Student cannot register for a course in which there is already an ungraded registration.
+
+File: 2024-346-CA.xml
+Unsuccessful registration for student 80000004 in course G-800004. Error code: -100. Error: Student cannot register for a course in which there is already an ungraded registration.
+
+
+-------ERROR-------
+File: 2024-346-CA.xml
+Program: CA
+Student Number: 80000004
+Course Number: G-800009
+Registration Number: *
+Type: 1
+Grade: 
+Notes: ***ERROR*** Incorrect number of nodes
+Node Count: 6
+ErrorMessage: Node counts is not 7.
+-------------------
+-------ERROR-------
+File: 2024-346-CA.xml
+Program: CA
+Student Number: 80000001
+Course Number: G-80004
+Registration Number: *
+Type: 1
+Grade: @
+Notes: ***ERROR*** Invalid Grade Value
+Node Count: 7
+ErrorMessage: Grade element must be numeric or have the value of '*'.
+-------------------
+-------ERROR-------
+File: 2024-346-CA.xml
+Program: CA
+Student Number: 80000004
+Course Number: A-8007
+Registration Number: *
+Type: 1
+Grade: 100
+Notes: ***ERROR***  Grade for Type 1 should be a *
+Node Count: 7
+ErrorMessage: Grade element must be '*' for type 1 and between 0 and 100 inclusive for type 2.
+-------------------
+-------ERROR-------
+File: 2024-346-CA.xml
+Program: CA
+Student Number: 80000004
+Course Number: D-12345
+Registration Number: *
+Type: 1
+Grade: *
+Notes: ***ERROR*** Course does not exist
+Node Count: 7
+ErrorMessage: Course number must be '*' for type 2 or exist in the database for type 1.
+-------------------
+-------ERROR-------
+File: 2024-346-CA.xml
+Program: CA
+Student Number: 80000002
+Course Number: G-80005
+Registration Number: 2001
+Type: 2
+Grade: 22
+Notes: ***ERROR*** Course for Type 2 should be a *
+Node Count: 7
+ErrorMessage: Course number must be '*' for type 2 or exist in the database for type 1.
+-------------------
+File: 2024-346-CA.xml
+Successful grade update for student 80000004 in course *. Grade: 51. Notes: Good grade update
+
+File: 2024-346-CA.xml
+Successful grade update for student 80000004 in course *. Grade: 35.4. Notes: Good grade update
+
+File: 2024-346-CA.xml
+Unsuccessful registration for student 80000004 in course G-800011. Error code: -100. Error: Student cannot register for a course in which there is already an ungraded registration.
+
+File: 2024-346-CA.xml
+Unsuccessful registration for student 80000004 in course M-80008. Error code: -200. Error: Student has exceeded maximum attempts on mastery course.
+
+File: 2024-346-CA.xml
+Successful registration for student 80000004 in course A-8002. Notes: Good registration
+
+File: 2024-346-CA.xml
+Successful registration for student 80000004 in course G-800003. Notes: Good Registration
+
+File: 2024-346-CA.xml
+Successful registration for student 80000004 in course G-800004. Notes: Good Registration
+
+
+-------ERROR-------
+File: 2024-346-CA.xml
+Program: CA
+Student Number: 80000004
+Course Number: G-800009
+Registration Number: *
+Type: 1
+Grade: 
+Notes: ***ERROR*** Incorrect number of nodes
+Node Count: 6
+ErrorMessage: Node counts is not 7.
+-------------------
+-------ERROR-------
+File: 2024-346-CA.xml
+Program: CA
+Student Number: 80000001
+Course Number: G-80004
+Registration Number: *
+Type: 1
+Grade: @
+Notes: ***ERROR*** Invalid Grade Value
+Node Count: 7
+ErrorMessage: Grade element must be numeric or have the value of '*'.
+-------------------
+-------ERROR-------
+File: 2024-346-CA.xml
+Program: CA
+Student Number: 80000004
+Course Number: A-8007
+Registration Number: *
+Type: 1
+Grade: 100
+Notes: ***ERROR***  Grade for Type 1 should be a *
+Node Count: 7
+ErrorMessage: Grade element must be '*' for type 1 and between 0 and 100 inclusive for type 2.
+-------------------
+-------ERROR-------
+File: 2024-346-CA.xml
+Program: CA
+Student Number: 80000004
+Course Number: *
+Registration Number: 8019
+Type: 2
+Grade: 51
+Notes: Good grade update
+Node Count: 7
+ErrorMessage: Student number must exist in the database.
+-------------------
+-------ERROR-------
+File: 2024-346-CA.xml
+Program: CA
+Student Number: 80000004
+Course Number: *
+Registration Number: 8020
+Type: 2
+Grade: 35.4
+Notes: Good grade update
+Node Count: 7
+ErrorMessage: Student number must exist in the database.
+-------------------
+-------ERROR-------
+File: 2024-346-CA.xml
+Program: CA
+Student Number: 80000004
+Course Number: G-800011
+Registration Number: *
+Type: 1
+Grade: *
+Notes: ***ERROR*** Cannot register for a course with an open registration
+Node Count: 7
+ErrorMessage: Student number must exist in the database.
+-------------------
+-------ERROR-------
+File: 2024-346-CA.xml
+Program: CA
+Student Number: 80000004
+Course Number: M-80008
+Registration Number: *
+Type: 1
+Grade: *
+Notes: ***ERROR*** This registration would exceed the maximum allowable attempts
+Node Count: 7
+ErrorMessage: Student number must exist in the database.
+-------------------
+-------ERROR-------
+File: 2024-346-CA.xml
+Program: CA
+Student Number: 80000004
+Course Number: D-12345
+Registration Number: *
+Type: 1
+Grade: *
+Notes: ***ERROR*** Course does not exist
+Node Count: 7
+ErrorMessage: Student number must exist in the database.
+-------------------
+-------ERROR-------
+File: 2024-346-CA.xml
+Program: CA
+Student Number: 80000004
+Course Number: A-8002
+Registration Number: *
+Type: 1
+Grade: *
+Notes: Good registration
+Node Count: 7
+ErrorMessage: Student number must exist in the database.
+-------------------
+-------ERROR-------
+File: 2024-346-CA.xml
+Program: CA
+Student Number: 80000002
+Course Number: G-80005
+Registration Number: 2001
+Type: 2
+Grade: 22
+Notes: ***ERROR*** Course for Type 2 should be a *
+Node Count: 7
+ErrorMessage: Student number must exist in the database.
+-------------------
+-------ERROR-------
+File: 2024-346-CA.xml
+Program: CA
+Student Number: 80000004
+Course Number: G-800003
+Registration Number: *
+Type: 1
+Grade: *
+Notes: Good Registration
+Node Count: 7
+ErrorMessage: Student number must exist in the database.
+-------------------
+-------ERROR-------
+File: 2024-346-CA.xml
+Program: CA
+Student Number: 80000004
+Course Number: G-800004
+Registration Number: *
+Type: 1
+Grade: *
+Notes: Good Registration
+Node Count: 7
+ErrorMessage: Student number must exist in the database.
+-------------------
+
+-------ERROR-------
+File: 2024-346-CA.xml
+Program: CA
+Student Number: 80000004
+Course Number: G-800009
+Registration Number: *
+Type: 1
+Grade: 
+Notes: ***ERROR*** Incorrect number of nodes
+Node Count: 6
+ErrorMessage: Node counts is not 7.
+-------------------
+-------ERROR-------
+File: 2024-346-CA.xml
+Program: CA
+Student Number: 80000001
+Course Number: G-80004
+Registration Number: *
+Type: 1
+Grade: @
+Notes: ***ERROR*** Invalid Grade Value
+Node Count: 7
+ErrorMessage: Grade element must be numeric or have the value of '*'.
+-------------------
+-------ERROR-------
+File: 2024-346-CA.xml
+Program: CA
+Student Number: 80000004
+Course Number: A-8007
+Registration Number: *
+Type: 1
+Grade: 100
+Notes: ***ERROR***  Grade for Type 1 should be a *
+Node Count: 7
+ErrorMessage: Grade element must be '*' for type 1 and between 0 and 100 inclusive for type 2.
+-------------------
+-------ERROR-------
+File: 2024-346-CA.xml
+Program: CA
+Student Number: 80000004
+Course Number: *
+Registration Number: 8019
+Type: 2
+Grade: 51
+Notes: Good grade update
+Node Count: 7
+ErrorMessage: Student number must exist in the database.
+-------------------
+-------ERROR-------
+File: 2024-346-CA.xml
+Program: CA
+Student Number: 80000004
+Course Number: *
+Registration Number: 8020
+Type: 2
+Grade: 35.4
+Notes: Good grade update
+Node Count: 7
+ErrorMessage: Student number must exist in the database.
+-------------------
+-------ERROR-------
+File: 2024-346-CA.xml
+Program: CA
+Student Number: 80000004
+Course Number: G-800011
+Registration Number: *
+Type: 1
+Grade: *
+Notes: ***ERROR*** Cannot register for a course with an open registration
+Node Count: 7
+ErrorMessage: Student number must exist in the database.
+-------------------
+-------ERROR-------
+File: 2024-346-CA.xml
+Program: CA
+Student Number: 80000004
+Course Number: M-80008
+Registration Number: *
+Type: 1
+Grade: *
+Notes: ***ERROR*** This registration would exceed the maximum allowable attempts
+Node Count: 7
+ErrorMessage: Student number must exist in the database.
+-------------------
+-------ERROR-------
+File: 2024-346-CA.xml
+Program: CA
+Student Number: 80000004
+Course Number: D-12345
+Registration Number: *
+Type: 1
+Grade: *
+Notes: ***ERROR*** Course does not exist
+Node Count: 7
+ErrorMessage: Student number must exist in the database.
+-------------------
+-------ERROR-------
+File: 2024-346-CA.xml
+Program: CA
+Student Number: 80000004
+Course Number: A-8002
+Registration Number: *
+Type: 1
+Grade: *
+Notes: Good registration
+Node Count: 7
+ErrorMessage: Student number must exist in the database.
+-------------------
+-------ERROR-------
+File: 2024-346-CA.xml
+Program: CA
+Student Number: 80000002
+Course Number: G-80005
+Registration Number: 2001
+Type: 2
+Grade: 22
+Notes: ***ERROR*** Course for Type 2 should be a *
+Node Count: 7
+ErrorMessage: Student number must exist in the database.
+-------------------
+-------ERROR-------
+File: 2024-346-CA.xml
+Program: CA
+Student Number: 80000004
+Course Number: G-800003
+Registration Number: *
+Type: 1
+Grade: *
+Notes: Good Registration
+Node Count: 7
+ErrorMessage: Student number must exist in the database.
+-------------------
+-------ERROR-------
+File: 2024-346-CA.xml
+Program: CA
+Student Number: 80000004
+Course Number: G-800004
+Registration Number: *
+Type: 1
+Grade: *
+Notes: Good Registration
+Node Count: 7
+ErrorMessage: Student number must exist in the database.
+-------------------
+
+-------ERROR-------
+File: 2024-346-CA.xml
+Program: CA
+Student Number: 80000004
+Course Number: G-800009
+Registration Number: *
+Type: 1
+Grade: 
+Notes: ***ERROR*** Incorrect number of nodes
+Node Count: 6
+ErrorMessage: Node counts is not 7.
+-------------------
+-------ERROR-------
+File: 2024-346-CA.xml
+Program: CA
+Student Number: 80000001
+Course Number: G-80004
+Registration Number: *
+Type: 1
+Grade: @
+Notes: ***ERROR*** Invalid Grade Value
+Node Count: 7
+ErrorMessage: Grade element must be numeric or have the value of '*'.
+-------------------
+-------ERROR-------
+File: 2024-346-CA.xml
+Program: CA
+Student Number: 80000004
+Course Number: A-8007
+Registration Number: *
+Type: 1
+Grade: 100
+Notes: ***ERROR***  Grade for Type 1 should be a *
+Node Count: 7
+ErrorMessage: Grade element must be '*' for type 1 and between 0 and 100 inclusive for type 2.
+-------------------
+-------ERROR-------
+File: 2024-346-CA.xml
+Program: CA
+Student Number: 80000004
+Course Number: D-12345
+Registration Number: *
+Type: 1
+Grade: *
+Notes: ***ERROR*** Course does not exist
+Node Count: 7
+ErrorMessage: Course number must be '*' for type 2 or exist in the database for type 1.
+-------------------
+-------ERROR-------
+File: 2024-346-CA.xml
+Program: CA
+Student Number: 80000002
+Course Number: G-80005
+Registration Number: 2001
+Type: 2
+Grade: 22
+Notes: ***ERROR*** Course for Type 2 should be a *
+Node Count: 7
+ErrorMessage: Course number must be '*' for type 2 or exist in the database for type 1.
+-------------------
+File: 2024-346-CA.xml
+Successful grade update for student 80000004 in course *. Grade: 51. Notes: Good grade update
+
+File: 2024-346-CA.xml
+Successful grade update for student 80000004 in course *. Grade: 35.4. Notes: Good grade update
+
+File: 2024-346-CA.xml
+Unsuccessful registration for student 80000004 in course G-800011. Error code: -100. Error: Student cannot register for a course in which there is already an ungraded registration.
+
+File: 2024-346-CA.xml
+Unsuccessful registration for student 80000004 in course M-80008. Error code: -200. Error: Student has exceeded maximum attempts on mastery course.
+
+File: 2024-346-CA.xml
+Successful registration for student 80000004 in course A-8002. Notes: Good registration
+
+File: 2024-346-CA.xml
+Successful registration for student 80000004 in course G-800003. Notes: Good Registration
+
+File: 2024-346-CA.xml
+Successful registration for student 80000004 in course G-800004. Notes: Good Registration
+

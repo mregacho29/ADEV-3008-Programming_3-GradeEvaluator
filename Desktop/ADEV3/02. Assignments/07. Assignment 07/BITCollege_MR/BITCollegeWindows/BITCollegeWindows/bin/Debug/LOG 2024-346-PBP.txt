@@ -1,0 +1,245 @@
+
+Program attribute in XML: PBP
+Valid programs in database: PBP, CP, PMM, VT, CA, ECE
+Extracted values: type=2, studentNo=10010800, courseNo=*, registrationNo=113, grade=93.2, notes=Good Grade Update
+File: 2024-346-PBP.xml
+Successful grade update for student 10010800 in course *. Grade: 93.2. Notes: Good Grade Update
+
+Extracted values: type=1, studentNo=10010800, courseNo=G-100007, registrationNo=*, grade=*, notes=Good Registration
+File: 2024-346-PBP.xml
+Unsuccessful registration for student 10010800 in course G-100007. Error code: -100. Error: Student cannot register for a course in which there is already an ungraded registration.
+
+
+Extracted values: type=2, studentNo=10010800, courseNo=*, registrationNo=113, grade=93.2, notes=Good Grade Update
+File: 2024-346-PBP.xml
+Successful grade update for student 10010800 in course *. Grade: 93.2. Notes: Good Grade Update
+
+Extracted values: type=1, studentNo=10010800, courseNo=G-100007, registrationNo=*, grade=*, notes=Good Registration
+File: 2024-346-PBP.xml
+Unsuccessful registration for student 10010800 in course G-100007. Error code: -100. Error: Student cannot register for a course in which there is already an ungraded registration.
+
+
+Extracted values: type=2, studentNo=10010800, courseNo=*, registrationNo=113, grade=93.2, notes=Good Grade Update
+File: 2024-346-PBP.xml
+Successful grade update for student 10010800 in course *. Grade: 93.2. Notes: Good Grade Update
+
+Extracted values: type=1, studentNo=10010800, courseNo=G-100007, registrationNo=*, grade=*, notes=Good Registration
+File: 2024-346-PBP.xml
+Unsuccessful registration for student 10010800 in course G-100007. Error code: -100. Error: Student cannot register for a course in which there is already an ungraded registration.
+
+
+Root element: student_update
+Attributes: date=2024-12-11, program=PBP, checksum=20021600
+Program attribute in XML: PBP
+Valid programs in database: PBP, CP, PMM, VT, CA, ECE
+Extracted values: type=2, studentNo=10010800, courseNo=*, registrationNo=113, grade=93.2, notes=Good Grade Update
+File: 2024-346-PBP.xml
+Successful grade update for student 10010800 in course *. Grade: 93.2. Notes: Good Grade Update
+
+Extracted values: type=1, studentNo=10010800, courseNo=G-100007, registrationNo=*, grade=*, notes=Good Registration
+File: 2024-346-PBP.xml
+Unsuccessful registration for student 10010800 in course G-100007. Error code: -100. Error: Student cannot register for a course in which there is already an ungraded registration.
+
+
+Extracted values: type=2, studentNo=10010800, courseNo=*, registrationNo=113, grade=93.2, notes=Good Grade Update
+File: 2024-346-PBP.xml
+Successful grade update for student 10010800 in course *. Grade: 93.2. Notes: Good Grade Update
+
+Extracted values: type=1, studentNo=10010800, courseNo=G-100007, registrationNo=*, grade=*, notes=Good Registration
+File: 2024-346-PBP.xml
+Unsuccessful registration for student 10010800 in course G-100007. Error code: -100. Error: Student cannot register for a course in which there is already an ungraded registration.
+
+
+Extracted values: type=2, studentNo=10010800, courseNo=*, registrationNo=113, grade=93.2, notes=Good Grade Update
+File: 2024-346-PBP.xml
+Successful grade update for student 10010800 in course *. Grade: 93.2. Notes: Good Grade Update
+
+Extracted values: type=1, studentNo=10010800, courseNo=G-100007, registrationNo=*, grade=*, notes=Good Registration
+File: 2024-346-PBP.xml
+Unsuccessful registration for student 10010800 in course G-100007. Error code: -100. Error: Student cannot register for a course in which there is already an ungraded registration.
+
+
+Extracted values: type=2, studentNo=10010800, courseNo=*, registrationNo=113, grade=93.2, notes=Good Grade Update
+File: 2024-346-PBP.xml
+Successful grade update for student 10010800 in course *. Grade: 93.2. Notes: Good Grade Update
+
+Extracted values: type=1, studentNo=10010800, courseNo=G-100007, registrationNo=*, grade=*, notes=Good Registration
+File: 2024-346-PBP.xml
+Unsuccessful registration for student 10010800 in course G-100007. Error code: -100. Error: Student cannot register for a course in which there is already an ungraded registration.
+
+
+Extracted values: type=2, studentNo=10010800, courseNo=*, registrationNo=113, grade=93.2, notes=Good Grade Update
+File: 2024-346-PBP.xml
+Successful grade update for student 10010800 in course *. Grade: 93.2. Notes: Good Grade Update
+
+Extracted values: type=1, studentNo=10010800, courseNo=G-100007, registrationNo=*, grade=*, notes=Good Registration
+File: 2024-346-PBP.xml
+Unsuccessful registration for student 10010800 in course G-100007. Error code: -100. Error: Student cannot register for a course in which there is already an ungraded registration.
+
+
+Input file name: 2024-346-PBP.xml
+XML file content:
+<?xml version="1.0"?>
+<!-- Registration and Grading file -->
+
+<student_update date="2024-12-11" program="PBP" checksum="20021600">
+	<transaction>
+		<program>PBP</program>
+		<student_no>10010800</student_no>
+		<course_no>*</course_no>
+		<registration_no>113</registration_no> <!-- Ensure registration exist and grade is null -->
+		<type>2</type>
+		<grade>93.2</grade> <!-- Make sure to test floating grades -->
+		<notes>Good Grade Update</notes>
+	</transaction>
+	<transaction>
+		<program>PBP</program>
+		<student_no>10010800</student_no>
+		<course_no>G-100007</course_no>
+		<registration_no>*</registration_no>
+		<type>1</type> 
+		<grade>*</grade>
+		<notes>Good Registration</notes>
+	</transaction>
+</student_update>
+Extracted values: type=2, studentNo=10010800, courseNo=*, registrationNo=113, grade=93.2, notes=Good Grade Update
+File: 2024-346-PBP.xml
+Successful grade update for student 10010800 in course *. Grade: 93.2. Notes: Good Grade Update
+
+Extracted values: type=1, studentNo=10010800, courseNo=G-100007, registrationNo=*, grade=*, notes=Good Registration
+File: 2024-346-PBP.xml
+Unsuccessful registration for student 10010800 in course G-100007. Error code: -100. Error: Student cannot register for a course in which there is already an ungraded registration.
+
+
+Extracted values: type=2, studentNo=10010800, courseNo=*, registrationNo=113, grade=93.2, notes=Good Grade Update
+File: 2024-346-PBP.xml
+Successful grade update for student 10010800 in course *. Grade: 93.2. Notes: Good Grade Update
+
+Extracted values: type=1, studentNo=10010800, courseNo=G-100007, registrationNo=*, grade=*, notes=Good Registration
+File: 2024-346-PBP.xml
+Unsuccessful registration for student 10010800 in course G-100007. Error code: -100. Error: Student cannot register for a course in which there is already an ungraded registration.
+
+
+Extracted values: type=2, studentNo=10010800, courseNo=*, registrationNo=113, grade=93.2, notes=Good Grade Update
+File: 2024-346-PBP.xml
+Successful grade update for student 10010800 in course *. Grade: 93.2. Notes: Good Grade Update
+
+Extracted values: type=1, studentNo=10010800, courseNo=G-100007, registrationNo=*, grade=*, notes=Good Registration
+File: 2024-346-PBP.xml
+Unsuccessful registration for student 10010800 in course G-100007. Error code: -100. Error: Student cannot register for a course in which there is already an ungraded registration.
+
+
+Extracted values: type=2, studentNo=10010800, courseNo=*, registrationNo=113, grade=93.2, notes=Good Grade Update
+File: 2024-346-PBP.xml
+Successful grade update for student 10010800 in course *. Grade: 93.2. Notes: Good Grade Update
+
+Extracted values: type=1, studentNo=10010800, courseNo=G-100007, registrationNo=*, grade=*, notes=Good Registration
+File: 2024-346-PBP.xml
+Unsuccessful registration for student 10010800 in course G-100007. Error code: -100. Error: Student cannot register for a course in which there is already an ungraded registration.
+
+
+Extracted values: type=2, studentNo=10010800, courseNo=*, registrationNo=113, grade=93.2, notes=Good Grade Update
+File: 2024-346-PBP.xml
+Successful grade update for student 10010800 in course *. Grade: 93.2. Notes: Good Grade Update
+
+Extracted values: type=1, studentNo=10010800, courseNo=G-100007, registrationNo=*, grade=*, notes=Good Registration
+File: 2024-346-PBP.xml
+Unsuccessful registration for student 10010800 in course G-100007. Error code: -100. Error: Student cannot register for a course in which there is already an ungraded registration.
+
+
+Root element: student_update
+Attributes: date=2024-12-11, program=PBP, checksum=20021600
+Program attribute in XML: PBP
+Academic Programs in database:
+Program Acronym: PBP, Program Name: Professional Baking and Patisserie
+Program Acronym: CP, Program Name: Carpentry
+Program Acronym: PMM, Program Name: Precision Metal Machining
+Program Acronym: VT, Program Name: Veterinary Technology
+Program Acronym: CA, Program Name: Culinary Arts
+Program Acronym: ECE, Program Name: Early Childhood Educator
+Valid programs in database: PBP, CP, PMM, VT, CA, ECE
+Extracted values: type=2, studentNo=10010800, courseNo=*, registrationNo=113, grade=93.2, notes=Good Grade Update
+File: 2024-346-PBP.xml
+Successful grade update for student 10010800 in course *. Grade: 93.2. Notes: Good Grade Update
+
+Extracted values: type=1, studentNo=10010800, courseNo=G-100007, registrationNo=*, grade=*, notes=Good Registration
+File: 2024-346-PBP.xml
+Unsuccessful registration for student 10010800 in course G-100007. Error code: -100. Error: Student cannot register for a course in which there is already an ungraded registration.
+
+
+Root element: student_update
+Attributes: date=2024-12-11, program=PBP, checksum=20021600
+Program attribute in XML: PBP
+Extracted values: type=2, studentNo=10010800, courseNo=*, registrationNo=113, grade=93.2, notes=Good Grade Update
+File: 2024-346-PBP.xml
+Successful grade update for student 10010800 in course *. Grade: 93.2. Notes: Good Grade Update
+
+Extracted values: type=1, studentNo=10010800, courseNo=G-100007, registrationNo=*, grade=*, notes=Good Registration
+File: 2024-346-PBP.xml
+Unsuccessful registration for student 10010800 in course G-100007. Error code: -100. Error: Student cannot register for a course in which there is already an ungraded registration.
+
+
+Root element: student_update
+Attributes: date=2024-12-11, program=PBP, checksum=960000043
+Program attribute in XML: PBPException occurred: The checksum attributes does not match the sum of all student_no elements.
+
+Exception occurred: The checksum attributes does not match the sum of all student_no elements.
+
+
+Program attribute in XML: PBP
+Valid programs in database: PBP, CP, PMM, VT, CA, ECEException occurred: The checksum attributes does not match the sum of all student_no elements.
+
+Exception occurred: The checksum attributes does not match the sum of all student_no elements.
+
+Exception occurred: The checksum attributes does not match the sum of all student_no elements.
+
+Exception occurred: The checksum attributes does not match the sum of all student_no elements.
+
+Exception occurred: The checksum attributes does not match the sum of all student_no elements.
+
+Exception occurred: The checksum attributes does not match the sum of all student_no elements.
+
+Exception occurred: The checksum attributes does not match the sum of all student_no elements.
+
+Exception occurred: The checksum attributes does not match the sum of all student_no elements including the root.
+
+Exception occurred: The root element must have a valid numeric student_no attribute.
+
+Exception occurred: The root element must have a valid numeric student_no attribute.
+
+Exception occurred: The root element must have exactly 3 attributes.
+
+Exception occurred: The root element must have exactly 3 attributes.
+
+Exception occurred: The checksum attribute must match the sum of all student_no elements.
+
+Exception occurred: The checksum attribute must match the sum of all student_no elements.
+
+Exception occurred: The checksum attribute (960000043) does not match the sum of all student_no elements (160000005).
+
+Exception occurred: The checksum attribute (960000043) does not match the sum of all student_no elements (160000005).
+
+Exception occurred: The checksum attribute (960000043) does not match the sum of all student_no elements (160000005).
+
+Exception occurred: The checksum attribute (960000043) does not match the sum of all student_no elements (160000005).
+
+Exception occurred: The checksum attribute (960000043) does not match the sum of all student_no elements (0).
+
+Exception occurred: The checksum attribute (960000043) does not match the sum of all student_no elements (0).
+
+Exception occurred: The checksum attribute (960000043) does not match the sum of all student_no elements (160000005).
+
+Exception occurred: The checksum attribute (960000043) does not match the sum of all student_no elements (160000005).
+
+Exception occurred: The checksum attribute (960000043) does not match the sum of all student_no elements (160000005).
+
+Exception occurred: The checksum attribute (960000043) does not match the sum of all student_no elements (160000005).
+
+Exception occurred: The checksum attribute (960000043) does not match the sum of all student_no elements (160000005).
+
+Exception occurred: The checksum attribute (960000043) does not match the sum of all student_no elements (160000005).
+
+Exception occurred: The checksum attribute (960000043) does not match the sum of all student_no elements (160000005).
+
+Exception occurred: The checksum attribute (960000043) does not match the sum of all student_no elements (160000005).
+

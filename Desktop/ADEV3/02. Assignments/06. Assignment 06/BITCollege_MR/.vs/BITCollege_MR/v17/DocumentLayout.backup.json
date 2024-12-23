@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Crizza Lynne\\Desktop\\ADEV3\\02. Assignments\\06. Assignment 06\\BITCollege_MR\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{18A2E074-9CE7-48F6-B47B-0B55BF8D13C3}|BITCollegeWindows\\BITCollegeWindows\\BITCollegeWindows.csproj|c:\\users\\crizza lynne\\desktop\\adev3\\02. assignments\\06. assignment 06\\bitcollege_mr\\bitcollegewindows\\bitcollegewindows\\grading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18A2E074-9CE7-48F6-B47B-0B55BF8D13C3}|BITCollegeWindows\\BITCollegeWindows\\BITCollegeWindows.csproj|solutionrelative:bitcollegewindows\\bitcollegewindows\\grading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18A2E074-9CE7-48F6-B47B-0B55BF8D13C3}|BITCollegeWindows\\BITCollegeWindows\\BITCollegeWindows.csproj|c:\\users\\crizza lynne\\desktop\\adev3\\02. assignments\\06. assignment 06\\bitcollege_mr\\bitcollegewindows\\bitcollegewindows\\history.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18A2E074-9CE7-48F6-B47B-0B55BF8D13C3}|BITCollegeWindows\\BITCollegeWindows\\BITCollegeWindows.csproj|solutionrelative:bitcollegewindows\\bitcollegewindows\\history.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18A2E074-9CE7-48F6-B47B-0B55BF8D13C3}|BITCollegeWindows\\BITCollegeWindows\\BITCollegeWindows.csproj|c:\\users\\crizza lynne\\desktop\\adev3\\02. assignments\\06. assignment 06\\bitcollege_mr\\bitcollegewindows\\bitcollegewindows\\history.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{18A2E074-9CE7-48F6-B47B-0B55BF8D13C3}|BITCollegeWindows\\BITCollegeWindows\\BITCollegeWindows.csproj|solutionrelative:bitcollegewindows\\bitcollegewindows\\history.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18A2E074-9CE7-48F6-B47B-0B55BF8D13C3}|BITCollegeWindows\\BITCollegeWindows\\BITCollegeWindows.csproj|C:\\Users\\Crizza Lynne\\Desktop\\ADEV3\\02. Assignments\\06. Assignment 06\\BITCollege_MR\\bitcollegewindows\\bitcollegewindows\\studentdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{18A2E074-9CE7-48F6-B47B-0B55BF8D13C3}|BITCollegeWindows\\BITCollegeWindows\\BITCollegeWindows.csproj|solutionrelative:bitcollegewindows\\bitcollegewindows\\studentdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18A2E074-9CE7-48F6-B47B-0B55BF8D13C3}|BITCollegeWindows\\BITCollegeWindows\\BITCollegeWindows.csproj|c:\\users\\crizza lynne\\desktop\\adev3\\02. assignments\\06. assignment 06\\bitcollege_mr\\bitcollegewindows\\bitcollegewindows\\studentdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18A2E074-9CE7-48F6-B47B-0B55BF8D13C3}|BITCollegeWindows\\BITCollegeWindows\\BITCollegeWindows.csproj|solutionrelative:bitcollegewindows\\bitcollegewindows\\studentdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18A2E074-9CE7-48F6-B47B-0B55BF8D13C3}|BITCollegeWindows\\BITCollegeWindows\\BITCollegeWindows.csproj|c:\\users\\crizza lynne\\desktop\\adev3\\02. assignments\\06. assignment 06\\bitcollege_mr\\bitcollegewindows\\bitcollegewindows\\grading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{18A2E074-9CE7-48F6-B47B-0B55BF8D13C3}|BITCollegeWindows\\BITCollegeWindows\\BITCollegeWindows.csproj|solutionrelative:bitcollegewindows\\bitcollegewindows\\grading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentData.cs",
+              "DocumentMoniker": "C:\\Users\\Crizza Lynne\\Desktop\\ADEV3\\02. Assignments\\06. Assignment 06\\BITCollege_MR\\BITCollegeWindows\\BITCollegeWindows\\StudentData.cs",
+              "RelativeDocumentMoniker": "BITCollegeWindows\\BITCollegeWindows\\StudentData.cs",
+              "ToolTip": "C:\\Users\\Crizza Lynne\\Desktop\\ADEV3\\02. Assignments\\06. Assignment 06\\BITCollege_MR\\BITCollegeWindows\\BITCollegeWindows\\StudentData.cs",
+              "RelativeToolTip": "BITCollegeWindows\\BITCollegeWindows\\StudentData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T22:51:10.901Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "History.cs",
+              "DocumentMoniker": "C:\\Users\\Crizza Lynne\\Desktop\\ADEV3\\02. Assignments\\06. Assignment 06\\BITCollege_MR\\BITCollegeWindows\\BITCollegeWindows\\History.cs",
+              "RelativeDocumentMoniker": "BITCollegeWindows\\BITCollegeWindows\\History.cs",
+              "ToolTip": "C:\\Users\\Crizza Lynne\\Desktop\\ADEV3\\02. Assignments\\06. Assignment 06\\BITCollege_MR\\BITCollegeWindows\\BITCollegeWindows\\History.cs",
+              "RelativeToolTip": "BITCollegeWindows\\BITCollegeWindows\\History.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T18:15:37.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "History.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Crizza Lynne\\Desktop\\ADEV3\\02. Assignments\\06. Assignment 06\\BITCollege_MR\\BITCollegeWindows\\BITCollegeWindows\\History.cs",
+              "RelativeDocumentMoniker": "BITCollegeWindows\\BITCollegeWindows\\History.cs",
+              "ToolTip": "C:\\Users\\Crizza Lynne\\Desktop\\ADEV3\\02. Assignments\\06. Assignment 06\\BITCollege_MR\\BITCollegeWindows\\BITCollegeWindows\\History.cs [Design]",
+              "RelativeToolTip": "BITCollegeWindows\\BITCollegeWindows\\History.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T18:15:34.999Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Grading.cs",
+              "DocumentMoniker": "C:\\Users\\Crizza Lynne\\Desktop\\ADEV3\\02. Assignments\\06. Assignment 06\\BITCollege_MR\\BITCollegeWindows\\BITCollegeWindows\\Grading.cs",
+              "RelativeDocumentMoniker": "BITCollegeWindows\\BITCollegeWindows\\Grading.cs",
+              "ToolTip": "C:\\Users\\Crizza Lynne\\Desktop\\ADEV3\\02. Assignments\\06. Assignment 06\\BITCollege_MR\\BITCollegeWindows\\BITCollegeWindows\\Grading.cs",
+              "RelativeToolTip": "BITCollegeWindows\\BITCollegeWindows\\Grading.cs",
+              "ViewState": "AgIAAJgAAAAAAAAAAAAlwKwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T18:11:05.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Grading.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Crizza Lynne\\Desktop\\ADEV3\\02. Assignments\\06. Assignment 06\\BITCollege_MR\\BITCollegeWindows\\BITCollegeWindows\\Grading.cs",
+              "RelativeDocumentMoniker": "BITCollegeWindows\\BITCollegeWindows\\Grading.cs",
+              "ToolTip": "C:\\Users\\Crizza Lynne\\Desktop\\ADEV3\\02. Assignments\\06. Assignment 06\\BITCollege_MR\\BITCollegeWindows\\BITCollegeWindows\\Grading.cs [Design]",
+              "RelativeToolTip": "BITCollegeWindows\\BITCollegeWindows\\Grading.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T18:11:04.553Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentData.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Crizza Lynne\\Desktop\\ADEV3\\02. Assignments\\06. Assignment 06\\BITCollege_MR\\BITCollegeWindows\\BITCollegeWindows\\StudentData.cs",
+              "RelativeDocumentMoniker": "BITCollegeWindows\\BITCollegeWindows\\StudentData.cs",
+              "ToolTip": "C:\\Users\\Crizza Lynne\\Desktop\\ADEV3\\02. Assignments\\06. Assignment 06\\BITCollege_MR\\BITCollegeWindows\\BITCollegeWindows\\StudentData.cs [Design]",
+              "RelativeToolTip": "BITCollegeWindows\\BITCollegeWindows\\StudentData.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T22:50:55.779Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

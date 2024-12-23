@@ -1,0 +1,9 @@
+DOCUMENT: InData.xml CONTAINS FIRST NAMES WITH TYPE > 100 
+
+NAME: employee VALUE: JoeJohnson200
+NAME: employee VALUE: BettyBradley300
+========================
+DOCUMENT: InData.xml CONTAINS FIRST NAMES WITH TYPE > 100 
+
+NAME: employee VALUE: JoeJohnson200
+NAME: employee VALUE: BettyBradley300

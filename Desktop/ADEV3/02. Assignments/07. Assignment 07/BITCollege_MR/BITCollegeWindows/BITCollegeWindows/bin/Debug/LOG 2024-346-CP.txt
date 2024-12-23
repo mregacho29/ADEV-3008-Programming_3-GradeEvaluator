@@ -1,0 +1,152 @@
+
+Program attribute in XML: DD
+Valid programs in database: PBP, CP, PMM, VT, CA, ECEException occurred: The program attribute is not valid.
+
+
+Program attribute in XML: DD
+Valid programs in database: PBP, CP, PMM, VT, CA, ECEException occurred: The program attribute is not valid.
+
+
+Program attribute in XML: DD
+Valid programs in database: PBP, CP, PMM, VT, CA, ECEException occurred: The program attribute is not valid.
+
+
+Root element: student_update
+Attributes: date=2024-12-11, program=DD, checksum=160000003
+Program attribute in XML: DD
+Valid programs in database: PBP, CP, PMM, VT, CA, ECEException occurred: The program attribute is not valid.
+
+File does not exist: 2024-346-CP.xml
+
+
+Root element: student_update
+Attributes: date=2024-12-11, program=DD, checksum=160000003
+Program attribute in XML: DD
+Valid programs in database: PBP, CP, PMM, VT, CA, ECEException occurred: The program attribute is not valid.
+
+
+Root element: student_update
+Attributes: date=2024-12-11, program=DD, checksum=160000003
+Program attribute in XML: DD
+Valid programs in database: PBP, CP, PMM, VT, CA, ECEException occurred: The program attribute is not valid.
+
+
+Root element: student_update
+Attributes: date=2024-12-11, program=DD, checksum=160000003Exception occurred: The program attribute is not valid.
+
+Exception occurred: The program attribute is not valid.
+
+Exception occurred: The program attribute is not valid.
+
+
+Root element: student_update
+Attributes: date=2024-12-11, program=DD, checksum=160000003
+Program attribute in XML: DD
+Valid programs in database: PBP, CP, PMM, VT, CA, ECEException occurred: The program attribute is not valid.
+
+Exception occurred: The program attribute is not valid.
+
+Exception occurred: The program attribute is not valid.
+
+Exception occurred: The program attribute is not valid.
+
+Exception occurred: The program attribute is not valid.
+
+
+Input file name: 2024-346-CP.xml
+XML file content:
+<?xml version="1.0"?>
+<!-- Registration Grading file -->
+
+<student_update date="2024-12-11" program="DD" checksum="160000003">
+	<transaction>
+		<program>ECE</program>
+		<student_no>8000001</student_no>
+		<course_no>*</course_no>
+		<registration_no>8007</registration_no>
+		<type>2</type>
+		<grade>99</grade>
+		<notes>***HEADER FILE ERROR - BAD PROGRAM ACRONYM***</notes>
+	</transaction>
+	<transaction>
+		<program>ECE</program>
+		<student_no>80000002</student_no>
+		<course_no>*</course_no>
+		<registration_no>8008</registration_no>
+		<type>2</type>
+		<grade>91</grade>
+		<notes>***HEADER FILE ERROR - BAD PROGRAM ACRONYM***</notes>
+	</transaction>
+</student_update>Exception occurred: The program attribute is not valid.
+
+Exception occurred: The program attribute is not valid.
+
+Exception occurred: The program attribute is not valid.
+
+Exception occurred: The program attribute is not valid.
+
+Exception occurred: The program attribute is not valid.
+
+Exception occurred: The program attribute is not valid.
+
+
+Root element: student_update
+Attributes: date=2024-12-11, program=DD, checksum=160000003
+Program attribute in XML: DD
+Valid programs in database: PBP, CP, PMM, VT, CA, ECEException occurred: The program attribute is not valid.
+
+
+Root element: student_update
+Attributes: date=2024-12-11, program=DD, checksum=160000003
+Program attribute in XML: DD
+Valid programs in database: PBP, CP, PMM, VT, CA, ECEException occurred: The program attribute is not valid.
+
+
+Root element: student_update
+Attributes: date=2024-12-11, program=DD, checksum=160000003
+Program attribute in XML: DD
+Academic Programs in database:
+Program Acronym: PBP, Program Name: Professional Baking and Patisserie
+Program Acronym: CP, Program Name: Carpentry
+Program Acronym: PMM, Program Name: Precision Metal Machining
+Program Acronym: VT, Program Name: Veterinary Technology
+Program Acronym: CA, Program Name: Culinary Arts
+Program Acronym: ECE, Program Name: Early Childhood Educator
+Valid programs in database: PBP, CP, PMM, VT, CA, ECEException occurred: The program attribute is not valid.
+
+
+Root element: student_update
+Attributes: date=2024-12-11, program=DD, checksum=160000003
+Program attribute in XML: DDException occurred: The program attribute is not valid.
+
+
+Root element: student_update
+Attributes: date=2024-12-11, program=DD, checksum=160000003
+Program attribute in XML: DDException occurred: The program attribute is not valid.
+
+File does not exist: 2024-346-CP.xml
+
+Exception occurred: The program attribute is not valid.
+
+Exception occurred: The program attribute is not valid.
+
+Exception occurred: The program attribute is not valid.
+
+Exception occurred: The program attribute is not valid.
+
+Exception occurred: The root element must have exactly 3 attributes.
+
+Exception occurred: The program attribute must match an academic program acronym value.
+
+Exception occurred: The program attribute must match an academic program acronym value.
+
+Exception occurred: The program attribute must match an academic program acronym value.
+
+Exception occurred: The program attribute must match an academic program acronym value.
+
+Exception occurred: The program attribute must match an academic program acronym value.
+
+Exception occurred: The program attribute must match an academic program acronym value.
+
+Exception occurred: The program attribute must match an academic program acronym value.
+

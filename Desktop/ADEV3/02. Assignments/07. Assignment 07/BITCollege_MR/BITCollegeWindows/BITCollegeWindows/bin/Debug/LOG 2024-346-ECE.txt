@@ -1,0 +1,123 @@
+
+Root element: student_update
+Attributes: date=2024-12-11, program=ECE, checksum=160000006
+Extracted values: type=2, studentNo=80000003, courseNo=*, registrationNo=8005, grade=9, notes=***HEADER FILE ERROR - BAD HEADER DATE***
+File: 2024-346-ECE.xml
+Successful grade update for student 80000003 in course *. Grade: 9. Notes: ***HEADER FILE ERROR - BAD HEADER DATE***
+
+Extracted values: type=2, studentNo=80000003, courseNo=*, registrationNo=8007, grade=39, notes=***HEADER FILE ERROR - BAD HEADER DATE***
+File: 2024-346-ECE.xml
+Successful grade update for student 80000003 in course *. Grade: 39. Notes: ***HEADER FILE ERROR - BAD HEADER DATE***
+
+
+Extracted values: type=2, studentNo=80000003, courseNo=*, registrationNo=8005, grade=9, notes=***HEADER FILE ERROR - BAD HEADER DATE***
+File: 2024-346-ECE.xml
+Successful grade update for student 80000003 in course *. Grade: 9. Notes: ***HEADER FILE ERROR - BAD HEADER DATE***
+
+Extracted values: type=2, studentNo=80000003, courseNo=*, registrationNo=8007, grade=39, notes=***HEADER FILE ERROR - BAD HEADER DATE***
+File: 2024-346-ECE.xml
+Successful grade update for student 80000003 in course *. Grade: 39. Notes: ***HEADER FILE ERROR - BAD HEADER DATE***
+
+
+Extracted values: type=2, studentNo=80000003, courseNo=*, registrationNo=8005, grade=9, notes=***HEADER FILE ERROR - BAD HEADER DATE***
+File: 2024-346-ECE.xml
+Successful grade update for student 80000003 in course *. Grade: 9. Notes: ***HEADER FILE ERROR - BAD HEADER DATE***
+
+Extracted values: type=2, studentNo=80000003, courseNo=*, registrationNo=8007, grade=39, notes=***HEADER FILE ERROR - BAD HEADER DATE***
+File: 2024-346-ECE.xml
+Successful grade update for student 80000003 in course *. Grade: 39. Notes: ***HEADER FILE ERROR - BAD HEADER DATE***
+
+
+Extracted values: type=2, studentNo=80000003, courseNo=*, registrationNo=8005, grade=9, notes=***HEADER FILE ERROR - BAD HEADER DATE***
+File: 2024-346-ECE.xml
+Successful grade update for student 80000003 in course *. Grade: 9. Notes: ***HEADER FILE ERROR - BAD HEADER DATE***
+
+Extracted values: type=2, studentNo=80000003, courseNo=*, registrationNo=8007, grade=39, notes=***HEADER FILE ERROR - BAD HEADER DATE***
+File: 2024-346-ECE.xml
+Successful grade update for student 80000003 in course *. Grade: 39. Notes: ***HEADER FILE ERROR - BAD HEADER DATE***
+
+
+Input file name: 2024-346-ECE.xml
+XML file content:
+<?xml version="1.0"?>
+<!-- Registration Grading file -->
+
+<student_update date="2024-12-11" program="ECE" checksum="160000006">
+	<transaction>
+		<program>ECE</program>
+		<student_no>80000003</student_no>
+		<course_no>*</course_no>
+		<registration_no>8005</registration_no>
+		<type>2</type>
+		<grade>9</grade>
+		<notes>***HEADER FILE ERROR - BAD HEADER DATE***</notes>
+	</transaction>
+	<transaction>
+		<program>ECE</program>
+		<student_no>80000003</student_no>
+		<course_no>*</course_no>
+		<registration_no>8007</registration_no>
+		<type>2</type>
+		<grade>39</grade>
+		<notes>***HEADER FILE ERROR - BAD HEADER DATE***</notes>
+	</transaction>
+</student_update>
+Extracted values: type=2, studentNo=80000003, courseNo=*, registrationNo=8005, grade=9, notes=***HEADER FILE ERROR - BAD HEADER DATE***
+File: 2024-346-ECE.xml
+Successful grade update for student 80000003 in course *. Grade: 9. Notes: ***HEADER FILE ERROR - BAD HEADER DATE***
+
+Extracted values: type=2, studentNo=80000003, courseNo=*, registrationNo=8007, grade=39, notes=***HEADER FILE ERROR - BAD HEADER DATE***
+File: 2024-346-ECE.xml
+Successful grade update for student 80000003 in course *. Grade: 39. Notes: ***HEADER FILE ERROR - BAD HEADER DATE***
+
+
+Extracted values: type=2, studentNo=80000003, courseNo=*, registrationNo=8005, grade=9, notes=***HEADER FILE ERROR - BAD HEADER DATE***
+File: 2024-346-ECE.xml
+Successful grade update for student 80000003 in course *. Grade: 9. Notes: ***HEADER FILE ERROR - BAD HEADER DATE***
+
+Extracted values: type=2, studentNo=80000003, courseNo=*, registrationNo=8007, grade=39, notes=***HEADER FILE ERROR - BAD HEADER DATE***
+File: 2024-346-ECE.xml
+Successful grade update for student 80000003 in course *. Grade: 39. Notes: ***HEADER FILE ERROR - BAD HEADER DATE***
+
+
+Extracted values: type=2, studentNo=80000003, courseNo=*, registrationNo=8005, grade=9, notes=***HEADER FILE ERROR - BAD HEADER DATE***
+File: 2024-346-ECE.xml
+Successful grade update for student 80000003 in course *. Grade: 9. Notes: ***HEADER FILE ERROR - BAD HEADER DATE***
+
+Extracted values: type=2, studentNo=80000003, courseNo=*, registrationNo=8007, grade=39, notes=***HEADER FILE ERROR - BAD HEADER DATE***
+File: 2024-346-ECE.xml
+Successful grade update for student 80000003 in course *. Grade: 39. Notes: ***HEADER FILE ERROR - BAD HEADER DATE***
+
+
+Extracted values: type=2, studentNo=80000003, courseNo=*, registrationNo=8005, grade=9, notes=***HEADER FILE ERROR - BAD HEADER DATE***
+File: 2024-346-ECE.xml
+Successful grade update for student 80000003 in course *. Grade: 9. Notes: ***HEADER FILE ERROR - BAD HEADER DATE***
+
+Extracted values: type=2, studentNo=80000003, courseNo=*, registrationNo=8007, grade=39, notes=***HEADER FILE ERROR - BAD HEADER DATE***
+File: 2024-346-ECE.xml
+Successful grade update for student 80000003 in course *. Grade: 39. Notes: ***HEADER FILE ERROR - BAD HEADER DATE***
+
+
+Extracted values: type=2, studentNo=80000003, courseNo=*, registrationNo=8005, grade=9, notes=***HEADER FILE ERROR - BAD HEADER DATE***
+File: 2024-346-ECE.xml
+Successful grade update for student 80000003 in course *. Grade: 9. Notes: ***HEADER FILE ERROR - BAD HEADER DATE***
+
+Extracted values: type=2, studentNo=80000003, courseNo=*, registrationNo=8007, grade=39, notes=***HEADER FILE ERROR - BAD HEADER DATE***
+File: 2024-346-ECE.xml
+Successful grade update for student 80000003 in course *. Grade: 39. Notes: ***HEADER FILE ERROR - BAD HEADER DATE***
+
+
+File: 2024-346-ECE.xml
+Successful grade update for student 80000003 in course *. Grade: 9. Notes: ***HEADER FILE ERROR - BAD HEADER DATE***
+
+File: 2024-346-ECE.xml
+Successful grade update for student 80000003 in course *. Grade: 39. Notes: ***HEADER FILE ERROR - BAD HEADER DATE***
+
+Exception occurred: The date attribute must be equal to today's date.
+
+Exception occurred: The date attribute must be equal to today's date.
+
+Exception occurred: The date attribute must be equal to today's date.
+
+Exception occurred: The date attribute must be equal to today's date.
+

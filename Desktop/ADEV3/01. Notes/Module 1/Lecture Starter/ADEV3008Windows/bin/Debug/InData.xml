@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<!-- Lecture Input File -->
+
+<humanresources date="2013-09-20">
+	<employee>
+		<first>John</first>
+		<last>Smith</last>
+		<type>100</type>
+	</employee>
+	<employee>
+		<first>Joe</first>
+		<last>Johnson</last>
+		<type>200</type>
+	</employee>
+	<employee>
+		<first>Betty</first>
+		<last>Bradley</last>
+		<type>300</type>
+	</employee>
+</humanresources>
