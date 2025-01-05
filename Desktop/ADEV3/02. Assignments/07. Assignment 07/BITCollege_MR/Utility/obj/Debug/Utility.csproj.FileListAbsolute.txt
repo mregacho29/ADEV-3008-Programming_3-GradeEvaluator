@@ -34,3 +34,9 @@ C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\04. Assignment 05\BITCollege
 C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\04. Assignment 05\BITCollege_MR\Utility\obj\Debug\Utility.csproj.CoreCompileInputs.cache
 C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\04. Assignment 05\BITCollege_MR\Utility\obj\Debug\Utility.dll
 C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\04. Assignment 05\BITCollege_MR\Utility\obj\Debug\Utility.pdb
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\07. Assignment 07\BITCollege_MR\Utility\bin\Debug\Utility.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\07. Assignment 07\BITCollege_MR\Utility\bin\Debug\Utility.pdb
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\07. Assignment 07\BITCollege_MR\Utility\obj\Debug\Utility.csproj.AssemblyReference.cache
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\07. Assignment 07\BITCollege_MR\Utility\obj\Debug\Utility.csproj.CoreCompileInputs.cache
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\07. Assignment 07\BITCollege_MR\Utility\obj\Debug\Utility.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\07. Assignment 07\BITCollege_MR\Utility\obj\Debug\Utility.pdb

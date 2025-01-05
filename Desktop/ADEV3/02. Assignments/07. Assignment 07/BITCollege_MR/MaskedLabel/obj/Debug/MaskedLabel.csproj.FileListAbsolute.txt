@@ -12,3 +12,10 @@ C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\04. Assignment 05 - Copy\BIT
 C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\04. Assignment 05 - Copy\BITCollege_MR\MaskedLabel\obj\Debug\MaskedLabel.csproj.CoreCompileInputs.cache
 C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\04. Assignment 05 - Copy\BITCollege_MR\MaskedLabel\obj\Debug\EWSoftware.MaskedLabelControl.dll
 C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\04. Assignment 05 - Copy\BITCollege_MR\MaskedLabel\obj\Debug\EWSoftware.MaskedLabelControl.pdb
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\07. Assignment 07\BITCollege_MR\MaskedLabel\bin\Debug\EWSoftware.MaskedLabelControl.xml
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\07. Assignment 07\BITCollege_MR\MaskedLabel\bin\Debug\EWSoftware.MaskedLabelControl.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\07. Assignment 07\BITCollege_MR\MaskedLabel\bin\Debug\EWSoftware.MaskedLabelControl.pdb
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\07. Assignment 07\BITCollege_MR\MaskedLabel\obj\Debug\MaskedLabel.csproj.AssemblyReference.cache
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\07. Assignment 07\BITCollege_MR\MaskedLabel\obj\Debug\MaskedLabel.csproj.CoreCompileInputs.cache
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\07. Assignment 07\BITCollege_MR\MaskedLabel\obj\Debug\EWSoftware.MaskedLabelControl.dll
+C:\Users\Crizza Lynne\Desktop\ADEV3\02. Assignments\07. Assignment 07\BITCollege_MR\MaskedLabel\obj\Debug\EWSoftware.MaskedLabelControl.pdb
